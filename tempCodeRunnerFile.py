@@ -1,0 +1,1 @@
+I am teaching python fundamentals in my data science course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:

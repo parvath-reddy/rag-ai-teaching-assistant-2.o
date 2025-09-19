@@ -1,0 +1,1314 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 0.0,
+            "end": 4.8,
+            "text": " So with full enthusiasm, we will start Python programming."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 4.8,
+            "end": 9.8,
+            "text": " First of all, I want to tell you that this Python refresher will be short to the point"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 9.8,
+            "end": 13.8,
+            "text": " and you will be able to start it with data science."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 13.8,
+            "end": 19.400000000000002,
+            "text": " Not just this course, whenever I study, my motive is that I should at least understand you more."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 19.400000000000002,
+            "end": 23.6,
+            "text": " So here, as you can see, I have made a folder in the name of data science course."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 23.6,
+            "end": 27.2,
+            "text": " You can also make a folder somewhere because things are organized quite well."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 27.4,
+            "end": 30.4,
+            "text": " Here you will see what I will do now. I will open Anaconda prompt."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 30.4,
+            "end": 36.4,
+            "text": " So I will open Anaconda prompt here and after opening Anaconda prompt, we will do the CD in this location."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 36.4,
+            "end": 41.4,
+            "text": " Now what does this CD mean? You copy this path here and after that you write CD here"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 41.4,
+            "end": 45.4,
+            "text": " and write this path in this double quotes."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 45.4,
+            "end": 50.4,
+            "text": " What will happen with this is that your Anaconda prompt will be opened in this particular location."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 50.4,
+            "end": 54.4,
+            "text": " After that, either you make a virtual environment or you can work with the base."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 54.6,
+            "end": 57.6,
+            "text": " I am also working with the base to start with."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 57.6,
+            "end": 61.6,
+            "text": " But what will I do here now? I will start the Jupyter Lab."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 61.6,
+            "end": 64.6,
+            "text": " So I wrote Jupyter Space Lab."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 64.6,
+            "end": 68.6,
+            "text": " And as soon as I write Jupyter Space Lab, my Jupyter Lab will be opened."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 68.6,
+            "end": 72.6,
+            "text": " And here you can see that this Jupyter Lab is open."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 72.6,
+            "end": 75.6,
+            "text": " So this Jupyter Lab is launched."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 75.6,
+            "end": 78.6,
+            "text": " Now here I am showing you an Anaconda Assistant."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 78.6,
+            "end": 82.6,
+            "text": " So I don't want to use Anaconda Assistant for now."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 82.8,
+            "end": 84.8,
+            "text": " Now this is from me."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 84.8,
+            "end": 88.8,
+            "text": " Jupyter Lab Development Team is excited to have a robust third party extension community."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 88.8,
+            "end": 91.8,
+            "text": " So if you want to use it, you can use it."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 91.8,
+            "end": 94.8,
+            "text": " Basically, this extension is in VS Code."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 94.8,
+            "end": 97.8,
+            "text": " Now for this, don't worry about it."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 97.8,
+            "end": 100.8,
+            "text": " But I will show you how you can make a new notebook."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 100.8,
+            "end": 104.8,
+            "text": " So if you click on the folder, you will get the contents of this particular folder."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 104.8,
+            "end": 108.8,
+            "text": " Even if you open the terminal,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 109.0,
+            "end": 113.0,
+            "text": " it will be in the data science course folder."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 113.0,
+            "end": 117.0,
+            "text": " So you can always make a dedicated folder."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 117.0,
+            "end": 120.0,
+            "text": " That is the best thing."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 120.0,
+            "end": 123.0,
+            "text": " So here we have made a folder called data science course."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 123.0,
+            "end": 126.0,
+            "text": " And in it we are going to make all the iPython notebooks."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 126.0,
+            "end": 129.0,
+            "text": " So what I will do now is I will open a new tab."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 129.0,
+            "end": 133.0,
+            "text": " And here I want to make an iPython notebook with my base ENV."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 133.0,
+            "end": 136.0,
+            "text": " This is the option that you are giving me."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 136.2,
+            "end": 139.2,
+            "text": " You can make a notebook with books ENV as your environment."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 139.2,
+            "end": 142.2,
+            "text": " Which we made earlier."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 142.2,
+            "end": 145.2,
+            "text": " If you have made a virtual environment, you can make your iPython notebook with that virtual environment."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 145.2,
+            "end": 148.2,
+            "text": " Here I will make it with the base."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 148.2,
+            "end": 151.2,
+            "text": " And as you can see, my iPython notebook is open."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 151.2,
+            "end": 154.2,
+            "text": " This is asking me, would you like to get notified?"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 154.2,
+            "end": 157.2,
+            "text": " I will do no."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 157.2,
+            "end": 160.2,
+            "text": " And to remove this Anaconda Assistant, I will click here."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 160.2,
+            "end": 163.2,
+            "text": " And now I am getting a good place here."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 163.39999999999998,
+            "end": 166.39999999999998,
+            "text": " So I will rename it first."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 166.39999999999998,
+            "end": 169.39999999999998,
+            "text": " To rename it, you can click on the right click."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 169.39999999999998,
+            "end": 172.39999999999998,
+            "text": " And I will name it as Python Basics."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 172.39999999999998,
+            "end": 175.39999999999998,
+            "text": " So I will do the work. I will give it a numbering."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 175.39999999999998,
+            "end": 178.39999999999998,
+            "text": " So I will give it 01 underscore python underscore basics.iPyn."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 178.39999999999998,
+            "end": 181.39999999999998,
+            "text": " So here we are going to learn some basic basics of Python."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 181.39999999999998,
+            "end": 184.39999999999998,
+            "text": " So Python is a dynamically typed object oriented programming language."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 184.39999999999998,
+            "end": 187.39999999999998,
+            "text": " And it is a general purpose scripting language."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 187.39999999999998,
+            "end": 190.39999999999998,
+            "text": " Which you can use to develop web development."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 190.6,
+            "end": 193.6,
+            "text": " For data science."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 193.6,
+            "end": 196.6,
+            "text": " You can use it for general purpose scripting."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 196.6,
+            "end": 199.6,
+            "text": " For example, if you want to make a utility which"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 199.6,
+            "end": 202.6,
+            "text": " moves the files of a particular folder in a different folder"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 202.6,
+            "end": 205.6,
+            "text": " you can do all this with the help of Python."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 205.6,
+            "end": 208.6,
+            "text": " Along with that, you can make a GUI with the help of Python."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 208.6,
+            "end": 211.6,
+            "text": " Python is very famous for its readability."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 211.6,
+            "end": 214.6,
+            "text": " To make a variable in Python, you can make it like this."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 214.6,
+            "end": 217.6,
+            "text": " You will say a is equal to 5. And to run it in Jupyter,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 217.79999999999998,
+            "end": 220.79999999999998,
+            "text": " you can enter it as you enter the control."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 220.79999999999998,
+            "end": 223.79999999999998,
+            "text": " And after that, you will click on the bottom."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 223.79999999999998,
+            "end": 226.79999999999998,
+            "text": " Otherwise, you can click on the plus button and make a new cell."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 226.79999999999998,
+            "end": 229.79999999999998,
+            "text": " As I have written, b is equal to 32."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 229.79999999999998,
+            "end": 232.79999999999998,
+            "text": " And as soon as I enter the control,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 232.79999999999998,
+            "end": 235.79999999999998,
+            "text": " it will execute."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 235.79999999999998,
+            "end": 238.79999999999998,
+            "text": " Now if I enter the A plus,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 238.79999999999998,
+            "end": 241.79999999999998,
+            "text": " you can see that it has become 37."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 241.79999999999998,
+            "end": 244.79999999999998,
+            "text": " If I want to save this notebook, I will do the control S."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 245.0,
+            "end": 248.0,
+            "text": " You can click on the kernel and restart the kernel."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 248.0,
+            "end": 251.0,
+            "text": " And run all cells."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 251.0,
+            "end": 254.0,
+            "text": " And this will make all the cells run."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 254.0,
+            "end": 257.0,
+            "text": " You can make the variables in Python like this."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 257.0,
+            "end": 260.0,
+            "text": " As you saw, the variables in Python were numbers."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 260.0,
+            "end": 263.0,
+            "text": " If I want, I can make strings."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 263.0,
+            "end": 266.0,
+            "text": " Like I can write str is equal to Harry."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 266.0,
+            "end": 269.0,
+            "text": " And now if I enter the control, it will be Harry."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 269.0,
+            "end": 272.0,
+            "text": " I will name it name is equal to Harry."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 272.2,
+            "end": 275.2,
+            "text": " Now I will tell you the difference between the control and the shift enter."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 275.2,
+            "end": 278.2,
+            "text": " If I enter the control,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 278.2,
+            "end": 281.2,
+            "text": " this cell executes and you stay in the same cell."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 281.2,
+            "end": 284.2,
+            "text": " If you enter the shift,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 284.2,
+            "end": 287.2,
+            "text": " this cell executes and you come into a new cell."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 287.2,
+            "end": 290.2,
+            "text": " If you enter the shift,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 290.2,
+            "end": 293.2,
+            "text": " if you want to write the code,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 293.2,
+            "end": 296.2,
+            "text": " you can enter the control."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 296.2,
+            "end": 299.2,
+            "text": " You can save the notebook by controlling it."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 299.4,
+            "end": 302.4,
+            "text": " If you want to save the computer,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 302.4,
+            "end": 305.4,
+            "text": " you should not have any problem."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 305.4,
+            "end": 308.4,
+            "text": " We have seen how you can make variables in Python."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 308.4,
+            "end": 311.4,
+            "text": " If you want to print anything,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 311.4,
+            "end": 314.4,
+            "text": " you can use the print function."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 314.4,
+            "end": 317.4,
+            "text": " You can write H-E-L-L-O."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 317.4,
+            "end": 320.4,
+            "text": " After writing the world, I will hit the control enter."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 320.4,
+            "end": 323.4,
+            "text": " And you see, I stayed in the same cell and the world output came."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 323.4,
+            "end": 326.4,
+            "text": " If I entered the shift, I would have gone to the other cell."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 326.59999999999997,
+            "end": 328.59999999999997,
+            "text": " You can print anything."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 328.59999999999997,
+            "end": 331.59999999999997,
+            "text": " If you want to write some comments,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 331.59999999999997,
+            "end": 334.59999999999997,
+            "text": " you can write a single line comment."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 334.59999999999997,
+            "end": 337.59999999999997,
+            "text": " This is a comment."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 337.59999999999997,
+            "end": 340.59999999999997,
+            "text": " If I enter the control,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 340.59999999999997,
+            "end": 343.59999999999997,
+            "text": " there will be no difference in the line."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 343.59999999999997,
+            "end": 346.59999999999997,
+            "text": " These lines are used to add information."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 346.59999999999997,
+            "end": 349.59999999999997,
+            "text": " In Jupyter, we do markdown videos."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 349.59999999999997,
+            "end": 352.59999999999997,
+            "text": " Most of the cases, we use less comments."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 352.59999999999997,
+            "end": 355.59999999999997,
+            "text": " Yes, sometimes, we use comments like this."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 355.8,
+            "end": 358.8,
+            "text": " You can see, this will print"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 358.8,
+            "end": 361.8,
+            "text": " Hello World on the screen."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 361.8,
+            "end": 364.8,
+            "text": " I entered the control,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 364.8,
+            "end": 367.8,
+            "text": " and this will print Hello World."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 367.8,
+            "end": 370.8,
+            "text": " You can see the variables, data types."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 370.8,
+            "end": 373.8,
+            "text": " Data types automatically get inferred."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 373.8,
+            "end": 376.8,
+            "text": " A is equal to 5, meaning A is an integer."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 376.8,
+            "end": 379.8,
+            "text": " If I enter the control,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 379.8,
+            "end": 382.8,
+            "text": " and if I enter the type of A,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 383.0,
+            "end": 386.0,
+            "text": " you can see the class has entered."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 386.0,
+            "end": 389.0,
+            "text": " This is an integer variable."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 389.0,
+            "end": 392.0,
+            "text": " At the same time, if I enter the type of name"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 392.0,
+            "end": 395.0,
+            "text": " and enter the shift,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 395.0,
+            "end": 398.0,
+            "text": " it automatically shows the class str."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 398.0,
+            "end": 401.0,
+            "text": " It shows the type of variable"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 401.0,
+            "end": 404.0,
+            "text": " and tells the type itself."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 404.0,
+            "end": 407.0,
+            "text": " When I wrote the name in double quotes,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 407.0,
+            "end": 410.0,
+            "text": " it was understood that this is a string."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 410.2,
+            "end": 413.2,
+            "text": " This is the basic basic of printing."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 413.2,
+            "end": 416.2,
+            "text": " How do we make a comment?"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 416.2,
+            "end": 419.2,
+            "text": " This is a single line comment."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 419.2,
+            "end": 422.2,
+            "text": " You can make a multi line comment like this."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 422.2,
+            "end": 425.2,
+            "text": " I have already told you about the variables."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 425.2,
+            "end": 428.2,
+            "text": " You don't have to tell what integer, class,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 428.2,
+            "end": 431.2,
+            "text": " what string, or boolean are."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 431.2,
+            "end": 434.2,
+            "text": " You have to store any integer."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 434.2,
+            "end": 437.2,
+            "text": " You can write x is equal to 10."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 437.4,
+            "end": 439.4,
+            "text": " y is equal to 3.14."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 439.4,
+            "end": 442.4,
+            "text": " The point of this is enough to explain the Python."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 442.4,
+            "end": 445.4,
+            "text": " This is a floating point number."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 445.4,
+            "end": 448.4,
+            "text": " The name is equal to Jack."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 448.4,
+            "end": 451.4,
+            "text": " If it is written in double quotes, it automatically gets inferred."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 451.4,
+            "end": 454.4,
+            "text": " If we write this v, jacked like this,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 454.4,
+            "end": 457.4,
+            "text": " then it will be true."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 457.4,
+            "end": 460.4,
+            "text": " I have made a variable like this."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 460.4,
+            "end": 463.4,
+            "text": " You can do this easily."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 463.59999999999997,
+            "end": 466.59999999999997,
+            "text": " You can do type checking like this."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 466.59999999999997,
+            "end": 469.59999999999997,
+            "text": " You can do type casting like this."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 469.59999999999997,
+            "end": 472.59999999999997,
+            "text": " I will tell you how to find the type."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 472.59999999999997,
+            "end": 475.59999999999997,
+            "text": " I will tell you how to do type casting."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 475.59999999999997,
+            "end": 478.59999999999997,
+            "text": " I want to tell you one thing."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 478.59999999999997,
+            "end": 481.59999999999997,
+            "text": " I used print function."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 481.59999999999997,
+            "end": 484.59999999999997,
+            "text": " If I write type of name here,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 484.59999999999997,
+            "end": 487.59999999999997,
+            "text": " and enter the shift,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 487.59999999999997,
+            "end": 490.59999999999997,
+            "text": " then the Jupyter Notebook automatically shows us the output."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 490.8,
+            "end": 493.8,
+            "text": " We don't need to print function to see the output."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 493.8,
+            "end": 496.8,
+            "text": " I have written type of name here."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 496.8,
+            "end": 499.8,
+            "text": " It automatically told me here."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 499.8,
+            "end": 502.8,
+            "text": " I have written a is equal to 4.566."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 502.8,
+            "end": 505.8,
+            "text": " I have written b is equal to 5.677."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 505.8,
+            "end": 508.8,
+            "text": " If I write in double quotes,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 508.8,
+            "end": 511.8,
+            "text": " then it will be a string."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 511.8,
+            "end": 514.8000000000001,
+            "text": " Now I will write print a plus b."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 514.8000000000001,
+            "end": 517.8000000000001,
+            "text": " Now tell me what will be the print."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 518.0,
+            "end": 521.0,
+            "text": " Many people think that these numbers will add up."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 521.0,
+            "end": 524.0,
+            "text": " But it doesn't."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 524.0,
+            "end": 527.0,
+            "text": " I will enter the shift here."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 527.0,
+            "end": 530.0,
+            "text": " Since these are strings, it becomes a concatenation."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 530.0,
+            "end": 533.0,
+            "text": " If you want these numbers to sum up,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 533.0,
+            "end": 536.0,
+            "text": " then you will write print and say"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 536.0,
+            "end": 539.0,
+            "text": " integer version of a plus integer version of b."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 539.0,
+            "end": 542.0,
+            "text": " Once again, I will not write print."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 542.0,
+            "end": 545.0,
+            "text": " We don't need to print."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 545.2,
+            "end": 548.2,
+            "text": " I will enter."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 548.2,
+            "end": 551.2,
+            "text": " This is 5677 and 4566."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 551.2,
+            "end": 554.2,
+            "text": " It has added up to 10243."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 554.2,
+            "end": 557.2,
+            "text": " You can type casting here."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 557.2,
+            "end": 560.2,
+            "text": " This is called type casting in Python."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 560.2,
+            "end": 563.2,
+            "text": " I am giving you a refresher"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 563.2,
+            "end": 566.2,
+            "text": " of Python."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 566.2,
+            "end": 569.2,
+            "text": " If you want to learn Python from the beginning,"
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 569.2,
+            "end": 572.2,
+            "text": " then you can access this course."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 572.4000000000001,
+            "end": 575.4000000000001,
+            "text": " This course is in English."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 575.4000000000001,
+            "end": 578.4000000000001,
+            "text": " There are coding exercises, downloadable resources, handbooks."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 578.4000000000001,
+            "end": 581.4000000000001,
+            "text": " You can grab these."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 581.4000000000001,
+            "end": 584.4000000000001,
+            "text": " I will move on to the next topic."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 584.4000000000001,
+            "end": 587.4000000000001,
+            "text": " We will move on to the next topic."
+        },
+        {
+            "number": "2",
+            "title": "Variables data types and typecasting",
+            "start": 587.4000000000001,
+            "end": 590.4000000000001,
+            "text": " See you in the next video."
+        }
+    ],
+    "text": " So with full enthusiasm, we will start Python programming. First of all, I want to tell you that this Python refresher will be short to the point and you will be able to start it with data science. Not just this course, whenever I study, my motive is that I should at least understand you more. So here, as you can see, I have made a folder in the name of data science course. You can also make a folder somewhere because things are organized quite well. Here you will see what I will do now. I will open Anaconda prompt. So I will open Anaconda prompt here and after opening Anaconda prompt, we will do the CD in this location. Now what does this CD mean? You copy this path here and after that you write CD here and write this path in this double quotes. What will happen with this is that your Anaconda prompt will be opened in this particular location. After that, either you make a virtual environment or you can work with the base. I am also working with the base to start with. But what will I do here now? I will start the Jupyter Lab. So I wrote Jupyter Space Lab. And as soon as I write Jupyter Space Lab, my Jupyter Lab will be opened. And here you can see that this Jupyter Lab is open. So this Jupyter Lab is launched. Now here I am showing you an Anaconda Assistant. So I don't want to use Anaconda Assistant for now. Now this is from me. Jupyter Lab Development Team is excited to have a robust third party extension community. So if you want to use it, you can use it. Basically, this extension is in VS Code. Now for this, don't worry about it. But I will show you how you can make a new notebook. So if you click on the folder, you will get the contents of this particular folder. Even if you open the terminal, it will be in the data science course folder. So you can always make a dedicated folder. That is the best thing. So here we have made a folder called data science course. And in it we are going to make all the iPython notebooks. So what I will do now is I will open a new tab. And here I want to make an iPython notebook with my base ENV. This is the option that you are giving me. You can make a notebook with books ENV as your environment. Which we made earlier. If you have made a virtual environment, you can make your iPython notebook with that virtual environment. Here I will make it with the base. And as you can see, my iPython notebook is open. This is asking me, would you like to get notified? I will do no. And to remove this Anaconda Assistant, I will click here. And now I am getting a good place here. So I will rename it first. To rename it, you can click on the right click. And I will name it as Python Basics. So I will do the work. I will give it a numbering. So I will give it 01 underscore python underscore basics.iPyn. So here we are going to learn some basic basics of Python. So Python is a dynamically typed object oriented programming language. And it is a general purpose scripting language. Which you can use to develop web development. For data science. You can use it for general purpose scripting. For example, if you want to make a utility which moves the files of a particular folder in a different folder you can do all this with the help of Python. Along with that, you can make a GUI with the help of Python. Python is very famous for its readability. To make a variable in Python, you can make it like this. You will say a is equal to 5. And to run it in Jupyter, you can enter it as you enter the control. And after that, you will click on the bottom. Otherwise, you can click on the plus button and make a new cell. As I have written, b is equal to 32. And as soon as I enter the control, it will execute. Now if I enter the A plus, you can see that it has become 37. If I want to save this notebook, I will do the control S. You can click on the kernel and restart the kernel. And run all cells. And this will make all the cells run. You can make the variables in Python like this. As you saw, the variables in Python were numbers. If I want, I can make strings. Like I can write str is equal to Harry. And now if I enter the control, it will be Harry. I will name it name is equal to Harry. Now I will tell you the difference between the control and the shift enter. If I enter the control, this cell executes and you stay in the same cell. If you enter the shift, this cell executes and you come into a new cell. If you enter the shift, if you want to write the code, you can enter the control. You can save the notebook by controlling it. If you want to save the computer, you should not have any problem. We have seen how you can make variables in Python. If you want to print anything, you can use the print function. You can write H-E-L-L-O. After writing the world, I will hit the control enter. And you see, I stayed in the same cell and the world output came. If I entered the shift, I would have gone to the other cell. You can print anything. If you want to write some comments, you can write a single line comment. This is a comment. If I enter the control, there will be no difference in the line. These lines are used to add information. In Jupyter, we do markdown videos. Most of the cases, we use less comments. Yes, sometimes, we use comments like this. You can see, this will print Hello World on the screen. I entered the control, and this will print Hello World. You can see the variables, data types. Data types automatically get inferred. A is equal to 5, meaning A is an integer. If I enter the control, and if I enter the type of A, you can see the class has entered. This is an integer variable. At the same time, if I enter the type of name and enter the shift, it automatically shows the class str. It shows the type of variable and tells the type itself. When I wrote the name in double quotes, it was understood that this is a string. This is the basic basic of printing. How do we make a comment? This is a single line comment. You can make a multi line comment like this. I have already told you about the variables. You don't have to tell what integer, class, what string, or boolean are. You have to store any integer. You can write x is equal to 10. y is equal to 3.14. The point of this is enough to explain the Python. This is a floating point number. The name is equal to Jack. If it is written in double quotes, it automatically gets inferred. If we write this v, jacked like this, then it will be true. I have made a variable like this. You can do this easily. You can do type checking like this. You can do type casting like this. I will tell you how to find the type. I will tell you how to do type casting. I want to tell you one thing. I used print function. If I write type of name here, and enter the shift, then the Jupyter Notebook automatically shows us the output. We don't need to print function to see the output. I have written type of name here. It automatically told me here. I have written a is equal to 4.566. I have written b is equal to 5.677. If I write in double quotes, then it will be a string. Now I will write print a plus b. Now tell me what will be the print. Many people think that these numbers will add up. But it doesn't. I will enter the shift here. Since these are strings, it becomes a concatenation. If you want these numbers to sum up, then you will write print and say integer version of a plus integer version of b. Once again, I will not write print. We don't need to print. I will enter. This is 5677 and 4566. It has added up to 10243. You can type casting here. This is called type casting in Python. I am giving you a refresher of Python. If you want to learn Python from the beginning, then you can access this course. This course is in English. There are coding exercises, downloadable resources, handbooks. You can grab these. I will move on to the next topic. We will move on to the next topic. See you in the next video."
+}

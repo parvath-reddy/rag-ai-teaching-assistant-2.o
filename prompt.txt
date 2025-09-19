@@ -1,0 +1,6 @@
+I am teaching python fundamentals in my data science course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Why choose python","number":"1","start":83.8,"end":86.8,"text":" And I will tell you quickly why we are using Python for data science."},{"title":"Why choose python","number":"1","start":96.8,"end":101.8,"text":" So here you can see why Python programming language is used by data scientists."},{"title":"if else conditionals & functions","number":"7","start":165.64,"end":168.64,"text":" Because I want you to dive in data science"},{"title":"Why choose python","number":"1","start":606.92,"end":608.92,"text":" it is a good idea to use Python"},{"title":"Why choose python","number":"1","start":496.92,"end":498.92,"text":" when I am doing data science."}]
+---------------------------------
+"why choose python for data science ?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

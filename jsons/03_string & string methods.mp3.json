@@ -1,0 +1,1069 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " In the next video of Python Refresher, I will tell you the welcome of the people."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 4.0,
+            "end": 6.0,
+            "text": " What are the strings? How to use them?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 6.0,
+            "end": 9.0,
+            "text": " Because when we do data science, we will use the strings a lot."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 9.0,
+            "end": 12.0,
+            "text": " I will quickly make a new notebook."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 12.0,
+            "end": 15.0,
+            "text": " And I will name it as 02 underscore."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 15.0,
+            "end": 18.0,
+            "text": " First, I will use my base ENV and make a notebook."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 18.0,
+            "end": 19.0,
+            "text": " After that, I will rename it."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 19.0,
+            "end": 24.0,
+            "text": " And I will name it as 02 underscore strings.ipynb."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 24.0,
+            "end": 26.0,
+            "text": " You will get this ipynb file."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 26.0,
+            "end": 31.0,
+            "text": " And you can place it in the same directory and access your ipynb file."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 31.0,
+            "end": 36.0,
+            "text": " And by doing this, you will see exactly how I am writing this notebook."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 36.0,
+            "end": 39.0,
+            "text": " So I will come back to my Jupyter interface."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 39.0,
+            "end": 41.0,
+            "text": " And what will I do here?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 41.0,
+            "end": 43.0,
+            "text": " I will tell you what are the strings."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 43.0,
+            "end": 47.0,
+            "text": " So if we want to write strings, we can write something like this."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 47.0,
+            "end": 50.0,
+            "text": " I will enter Shift and in the name, I have already stored Harry."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 50.0,
+            "end": 55.0,
+            "text": " If I have to print the name in the IPython, I will just write the name and enter Shift and it will print."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 55.0,
+            "end": 56.0,
+            "text": " You can see."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 56.0,
+            "end": 59.0,
+            "text": " So what is the string? It is a collection of characters in Python."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 59.0,
+            "end": 62.0,
+            "text": " We will use the string when we want to store characters."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 62.0,
+            "end": 66.0,
+            "text": " And whenever we want to store a collection of characters, okay?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 66.0,
+            "end": 69.0,
+            "text": " Now we will look at some string methods."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 69.0,
+            "end": 73.0,
+            "text": " And we will see how strings are useful in Python."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 73.0,
+            "end": 76.0,
+            "text": " If you want to convert any string to uppercase,"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 76.0,
+            "end": 77.0,
+            "text": " then what should we do?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 77.0,
+            "end": 79.0,
+            "text": " We will click on the name dot and press the tab."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 79.0,
+            "end": 81.0,
+            "text": " And what will happen by pressing the tab?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 81.0,
+            "end": 82.0,
+            "text": " You will get the methods."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " You can use any method."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 84.0,
+            "end": 86.0,
+            "text": " When I will write U, you can see this upper here."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 86.0,
+            "end": 87.0,
+            "text": " I will enter it."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 87.0,
+            "end": 88.0,
+            "text": " I can use it."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 88.0,
+            "end": 89.0,
+            "text": " I will write Shift and enter."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 89.0,
+            "end": 92.0,
+            "text": " You can see that this is converted to capital Harry."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 92.0,
+            "end": 97.0,
+            "text": " The big benefit of Jupyter is that whenever you click on the name dot and press the tab,"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 97.0,
+            "end": 99.0,
+            "text": " you will get this kind of interface."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 99.0,
+            "end": 103.0,
+            "text": " And as you type it, as I want to use this endswith function,"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 103.0,
+            "end": 106.0,
+            "text": " I am telling you what endswith function is."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 106.0,
+            "end": 108.0,
+            "text": " But I will put ry here."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 108.0,
+            "end": 111.0,
+            "text": " So it will tell me that is this string ending in ry?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 111.0,
+            "end": 112.0,
+            "text": " I will enter Shift and enter."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 112.0,
+            "end": 113.0,
+            "text": " You can see that it is writing true."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 113.0,
+            "end": 118.0,
+            "text": " But if I will write name dot endswith and I will write here,"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 118.0,
+            "end": 119.0,
+            "text": " suppose Jerry."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 119.0,
+            "end": 121.0,
+            "text": " I have put a random string."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 121.0,
+            "end": 127.0,
+            "text": " If I enter Shift, then it is false because this string does not end in Jerry."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 127.0,
+            "end": 128.0,
+            "text": " Awesome."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 128.0,
+            "end": 134.0,
+            "text": " Now I will tell you how you can access other functions."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 134.0,
+            "end": 137.0,
+            "text": " Suppose I want to convert it to lower, then I will press the yellow and press the tab."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 137.0,
+            "end": 141.0,
+            "text": " And because this is a function, we have to put parenthesis."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 141.0,
+            "end": 145.0,
+            "text": " You have to put parenthesis to execute any function in Python."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 145.0,
+            "end": 150.0,
+            "text": " Now I will show you how you can use other functions."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " I have written name dot and pressed the tab."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 152.0,
+            "end": 154.0,
+            "text": " You see some functions have come before us while pressing the tab."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 154.0,
+            "end": 156.0,
+            "text": " One of these functions is count."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 156.0,
+            "end": 162.0,
+            "text": " And if I write name dot count here and suppose I enter Shift,"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 162.0,
+            "end": 165.0,
+            "text": " then it is telling me that name dot count is A."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 165.0,
+            "end": 166.0,
+            "text": " A is just A."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " Suppose I write name dot count R."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 168.0,
+            "end": 174.0,
+            "text": " Suppose I do Ctrl C and Ctrl V and write R here."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 174.0,
+            "end": 176.0,
+            "text": " And if I enter Shift, then it is telling me that it is 2."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 176.0,
+            "end": 181.0,
+            "text": " So count tells you how many characters are present in a string."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 181.0,
+            "end": 184.0,
+            "text": " Sometimes you need any function of the string."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 184.0,
+            "end": 191.0,
+            "text": " Suppose I want a method of string that converts the first character to the upper case."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 191.0,
+            "end": 194.0,
+            "text": " So I can search Google or I can ask chatGBT."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 194.0,
+            "end": 198.0,
+            "text": " In today's time, you can ask chatGBT or AI about these things."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 198.0,
+            "end": 200.0,
+            "text": " And it will help you a lot."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 200.0,
+            "end": 203.0,
+            "text": " You can do these things with AI."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 203.0,
+            "end": 205.0,
+            "text": " I want to show you a quick demo."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 205.0,
+            "end": 213.0,
+            "text": " Suppose I say give me top 10 Python string functions I should know about."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 213.0,
+            "end": 215.0,
+            "text": " I gave this prompt."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 215.0,
+            "end": 216.0,
+            "text": " It is a very simple prompt."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 216.0,
+            "end": 220.0,
+            "text": " But it will tell me 10 Python string functions."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 220.0,
+            "end": 221.0,
+            "text": " You can see here."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 221.0,
+            "end": 222.0,
+            "text": " I have given an example."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 222.0,
+            "end": 224.0,
+            "text": " This is equal to code with Harry."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 224.0,
+            "end": 228.0,
+            "text": " And you can find out the length of the code with Harry from the length of S."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 228.0,
+            "end": 231.0,
+            "text": " So if I copy this code and run it in my iPython notebook."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 231.0,
+            "end": 234.0,
+            "text": " You can see that this is outputting 13 out of the Shift."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 234.0,
+            "end": 237.0,
+            "text": " Because this string is 13 characters in it."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 237.0,
+            "end": 239.0,
+            "text": " So length is the most important method."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 239.0,
+            "end": 244.0,
+            "text": " Then there is a strip method which removes your leading and trailing spaces."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 244.0,
+            "end": 246.0,
+            "text": " What does lower and upper do?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 246.0,
+            "end": 252.0,
+            "text": " In lower case and upper case, you can see how to convert a string to lower case and upper case."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 252.0,
+            "end": 253.0,
+            "text": " We have already seen."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 253.0,
+            "end": 254.0,
+            "text": " Then there is a replace method."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 254.0,
+            "end": 258.0,
+            "text": " Which replaces the world in a string from Python."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 258.0,
+            "end": 260.0,
+            "text": " If you run this kind of call."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 260.0,
+            "end": 262.0,
+            "text": " And what does split do?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 262.0,
+            "end": 264.0,
+            "text": " It converts a string to a list."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 264.0,
+            "end": 266.0,
+            "text": " So as I have written split comma."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 266.0,
+            "end": 271.0,
+            "text": " So it will split from comma and convert you to a string."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 271.0,
+            "end": 273.0,
+            "text": " And you can check out these methods."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 273.0,
+            "end": 275.0,
+            "text": " I will close it for now."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 275.0,
+            "end": 278.0,
+            "text": " And we will come back to Python Refresher."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 278.0,
+            "end": 281.0,
+            "text": " If you consider a string like this."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 281.0,
+            "end": 282.0,
+            "text": " Suppose I have S."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 282.0,
+            "end": 286.0,
+            "text": " If I want to take 5 characters from 0."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 286.0,
+            "end": 287.0,
+            "text": " Then I can take something like this."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 287.0,
+            "end": 294.0,
+            "text": " If I enter Shift, you can see that on 0 index, on 1 index, on 2 index, on 3 index, on 4 index, the characters are found."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 294.0,
+            "end": 296.0,
+            "text": " So this is 0 to n minus 1."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 296.0,
+            "end": 299.0,
+            "text": " If this is n, then n minus 1 characters will go."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 299.0,
+            "end": 301.0,
+            "text": " The index starts from 0 in Python."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 301.0,
+            "end": 304.0,
+            "text": " That is the count starts from 0."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 304.0,
+            "end": 307.0,
+            "text": " In most of the programming languages, not only in Python."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 307.0,
+            "end": 313.0,
+            "text": " So if I take 0 from here, this from here, 1, this from here, 2, this from here, 3, I will count from here like this."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 313.0,
+            "end": 315.0,
+            "text": " 0, 1, 2, 3."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 315.0,
+            "end": 318.0,
+            "text": " So in real world, we start counting from 1."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 318.0,
+            "end": 321.0,
+            "text": " But in programming languages, we start counting from 0."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 321.0,
+            "end": 323.0,
+            "text": " So this is a huge difference."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " Because people don't know."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 325.0,
+            "end": 328.0,
+            "text": " So you can do this kind of slicing."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 328.0,
+            "end": 330.0,
+            "text": " So it is called string slicing."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 330.0,
+            "end": 333.0,
+            "text": " Then there is a concept of negative indices."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 333.0,
+            "end": 339.0,
+            "text": " If I write something like this, I say S1 to minus 1."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 339.0,
+            "end": 344.0,
+            "text": " So what happens is that this index is minus 1."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 344.0,
+            "end": 349.0,
+            "text": " So if I do 1 to minus 1 and enter Shift here, then what will it do?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " It will start from 1 and go to here."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 351.0,
+            "end": 352.0,
+            "text": " Till R."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 352.0,
+            "end": 354.0,
+            "text": " So there is a rule of thumb to solve this thing."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 354.0,
+            "end": 355.0,
+            "text": " I will tell everyone."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 355.0,
+            "end": 358.0,
+            "text": " And it is that you have to convert negative indices into positive indices."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 358.0,
+            "end": 359.0,
+            "text": " So what should you do?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 359.0,
+            "end": 362.0,
+            "text": " Let the first index remain like this."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 362.0,
+            "end": 365.0,
+            "text": " But you should add length to the negative index string."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " Like in this case, string length is 13."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 367.0,
+            "end": 368.0,
+            "text": " So what will I do?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 368.0,
+            "end": 369.0,
+            "text": " I will make it 12."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 369.0,
+            "end": 370.0,
+            "text": " 13 minus 1 is 12."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 370.0,
+            "end": 371.0,
+            "text": " And I will enter Shift."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 371.0,
+            "end": 373.0,
+            "text": " So I will get exactly the same output."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 373.0,
+            "end": 378.0,
+            "text": " If this happens here, from S minus 12 to minus 1."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 378.0,
+            "end": 381.0,
+            "text": " So you have two ways to solve this."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 381.0,
+            "end": 384.0,
+            "text": " If you want to convert negative indices into positive indices,"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 384.0,
+            "end": 385.0,
+            "text": " then you can do it from here."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 385.0,
+            "end": 387.0,
+            "text": " This is minus 1, this is minus 2, this is minus 3."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 387.0,
+            "end": 390.0,
+            "text": " Otherwise, another way is to connect the length of the string."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 390.0,
+            "end": 394.0,
+            "text": " That is, this will be your S1 to 12."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 394.0,
+            "end": 395.0,
+            "text": " Something like this."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " Because I added 13 in minus 12."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 397.0,
+            "end": 399.0,
+            "text": " I added 13 in minus 1."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 399.0,
+            "end": 400.0,
+            "text": " What is 13?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 400.0,
+            "end": 401.0,
+            "text": " Length of string."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 401.0,
+            "end": 403.0,
+            "text": " So this is a trick."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 403.0,
+            "end": 404.0,
+            "text": " Because very few people know."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 404.0,
+            "end": 406.0,
+            "text": " And the output will be exactly the same."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 406.0,
+            "end": 408.0,
+            "text": " So how are you dealing with negative indices?"
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 408.0,
+            "end": 409.0,
+            "text": " You know."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 409.0,
+            "end": 412.0,
+            "text": " In the upcoming videos, we will see about operators."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 412.0,
+            "end": 414.0,
+            "text": " And we will move a little fast."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 414.0,
+            "end": 418.0,
+            "text": " After that, we will see the list, tuple and other things in Python."
+        },
+        {
+            "number": "3",
+            "title": "string & string methods",
+            "start": 418.0,
+            "end": 420.0,
+            "text": " See you in the next video."
+        }
+    ],
+    "text": " In the next video of Python Refresher, I will tell you the welcome of the people. What are the strings? How to use them? Because when we do data science, we will use the strings a lot. I will quickly make a new notebook. And I will name it as 02 underscore. First, I will use my base ENV and make a notebook. After that, I will rename it. And I will name it as 02 underscore strings.ipynb. You will get this ipynb file. And you can place it in the same directory and access your ipynb file. And by doing this, you will see exactly how I am writing this notebook. So I will come back to my Jupyter interface. And what will I do here? I will tell you what are the strings. So if we want to write strings, we can write something like this. I will enter Shift and in the name, I have already stored Harry. If I have to print the name in the IPython, I will just write the name and enter Shift and it will print. You can see. So what is the string? It is a collection of characters in Python. We will use the string when we want to store characters. And whenever we want to store a collection of characters, okay? Now we will look at some string methods. And we will see how strings are useful in Python. If you want to convert any string to uppercase, then what should we do? We will click on the name dot and press the tab. And what will happen by pressing the tab? You will get the methods. You can use any method. When I will write U, you can see this upper here. I will enter it. I can use it. I will write Shift and enter. You can see that this is converted to capital Harry. The big benefit of Jupyter is that whenever you click on the name dot and press the tab, you will get this kind of interface. And as you type it, as I want to use this endswith function, I am telling you what endswith function is. But I will put ry here. So it will tell me that is this string ending in ry? I will enter Shift and enter. You can see that it is writing true. But if I will write name dot endswith and I will write here, suppose Jerry. I have put a random string. If I enter Shift, then it is false because this string does not end in Jerry. Awesome. Now I will tell you how you can access other functions. Suppose I want to convert it to lower, then I will press the yellow and press the tab. And because this is a function, we have to put parenthesis. You have to put parenthesis to execute any function in Python. Now I will show you how you can use other functions. I have written name dot and pressed the tab. You see some functions have come before us while pressing the tab. One of these functions is count. And if I write name dot count here and suppose I enter Shift, then it is telling me that name dot count is A. A is just A. Suppose I write name dot count R. Suppose I do Ctrl C and Ctrl V and write R here. And if I enter Shift, then it is telling me that it is 2. So count tells you how many characters are present in a string. Sometimes you need any function of the string. Suppose I want a method of string that converts the first character to the upper case. So I can search Google or I can ask chatGBT. In today's time, you can ask chatGBT or AI about these things. And it will help you a lot. You can do these things with AI. I want to show you a quick demo. Suppose I say give me top 10 Python string functions I should know about. I gave this prompt. It is a very simple prompt. But it will tell me 10 Python string functions. You can see here. I have given an example. This is equal to code with Harry. And you can find out the length of the code with Harry from the length of S. So if I copy this code and run it in my iPython notebook. You can see that this is outputting 13 out of the Shift. Because this string is 13 characters in it. So length is the most important method. Then there is a strip method which removes your leading and trailing spaces. What does lower and upper do? In lower case and upper case, you can see how to convert a string to lower case and upper case. We have already seen. Then there is a replace method. Which replaces the world in a string from Python. If you run this kind of call. And what does split do? It converts a string to a list. So as I have written split comma. So it will split from comma and convert you to a string. And you can check out these methods. I will close it for now. And we will come back to Python Refresher. If you consider a string like this. Suppose I have S. If I want to take 5 characters from 0. Then I can take something like this. If I enter Shift, you can see that on 0 index, on 1 index, on 2 index, on 3 index, on 4 index, the characters are found. So this is 0 to n minus 1. If this is n, then n minus 1 characters will go. The index starts from 0 in Python. That is the count starts from 0. In most of the programming languages, not only in Python. So if I take 0 from here, this from here, 1, this from here, 2, this from here, 3, I will count from here like this. 0, 1, 2, 3. So in real world, we start counting from 1. But in programming languages, we start counting from 0. So this is a huge difference. Because people don't know. So you can do this kind of slicing. So it is called string slicing. Then there is a concept of negative indices. If I write something like this, I say S1 to minus 1. So what happens is that this index is minus 1. So if I do 1 to minus 1 and enter Shift here, then what will it do? It will start from 1 and go to here. Till R. So there is a rule of thumb to solve this thing. I will tell everyone. And it is that you have to convert negative indices into positive indices. So what should you do? Let the first index remain like this. But you should add length to the negative index string. Like in this case, string length is 13. So what will I do? I will make it 12. 13 minus 1 is 12. And I will enter Shift. So I will get exactly the same output. If this happens here, from S minus 12 to minus 1. So you have two ways to solve this. If you want to convert negative indices into positive indices, then you can do it from here. This is minus 1, this is minus 2, this is minus 3. Otherwise, another way is to connect the length of the string. That is, this will be your S1 to 12. Something like this. Because I added 13 in minus 12. I added 13 in minus 1. What is 13? Length of string. So this is a trick. Because very few people know. And the output will be exactly the same. So how are you dealing with negative indices? You know. In the upcoming videos, we will see about operators. And we will move a little fast. After that, we will see the list, tuple and other things in Python. See you in the next video."
+}

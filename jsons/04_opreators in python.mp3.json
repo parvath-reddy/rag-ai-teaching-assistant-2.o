@@ -1,0 +1,1650 @@
+{
+    "chunks": [
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 0.0,
+            "end": 5.64,
+            "text": " Now we will see what operators are in Python and how you can use operators in Python."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 5.64,
+            "end": 8.64,
+            "text": " I have made an iPython notebook for you guys."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 8.64,
+            "end": 10.56,
+            "text": " I have written about operators in it."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 10.56,
+            "end": 13.8,
+            "text": " So primarily we have 6 types of operators in Python."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 13.8,
+            "end": 19.0,
+            "text": " Here you can see arithmetic operators, comparison operators, logical operators,"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 19.0,
+            "end": 24.16,
+            "text": " bitwise operators, assignment operators, membership and identity operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 24.16,
+            "end": 28.64,
+            "text": " These 6 types of operators help you in doing operations in Python."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 28.64,
+            "end": 31.36,
+            "text": " We have arithmetic operators, they are very simple."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 31.36,
+            "end": 34.160000000000004,
+            "text": " Suppose I have a is equal to 10 here."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 34.160000000000004,
+            "end": 37.8,
+            "text": " a is equal to 10 and b is equal to 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 37.8,
+            "end": 39.56,
+            "text": " So what can I do now?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 39.56,
+            "end": 42.88,
+            "text": " I will enter a and write a plus b."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 42.88,
+            "end": 44.480000000000004,
+            "text": " a plus b will give me 15."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 44.480000000000004,
+            "end": 47.0,
+            "text": " Similarly a minus b will give me 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 47.0,
+            "end": 50.68,
+            "text": " And a multiplied by b will give me 50."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 50.68,
+            "end": 53.24,
+            "text": " And a divided by b will give me 2."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 53.24,
+            "end": 54.760000000000005,
+            "text": " Why will it give 2?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 54.760000000000005,
+            "end": 57.28,
+            "text": " I have divided by 5 to give 2 to 10."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 57.28,
+            "end": 61.28,
+            "text": " Here one thing is interesting that it always gives you a floating point number."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 61.28,
+            "end": 64.92,
+            "text": " So whenever you divide by a, b, then it automatically gets decimal."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 64.92,
+            "end": 67.32000000000001,
+            "text": " And this question is asked in interviews."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 67.32000000000001,
+            "end": 72.44,
+            "text": " If you didn't know this, then you should definitely see the whole Python refresher."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 72.44,
+            "end": 78.16,
+            "text": " If I do a double forward slash b, then you get to see the integer here."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 78.16,
+            "end": 83.96000000000001,
+            "text": " If I do 11, if the value of 1 is 11 and the value of b is 5, then it would be 2."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 83.96,
+            "end": 89.72,
+            "text": " So if I start executing it from here, then you see a double divided by b is 2."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 89.72,
+            "end": 90.88,
+            "text": " Why did I do 2?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 90.88,
+            "end": 96.88,
+            "text": " Because when we do a double divided by b, then the point that happens after that, it ends."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 96.88,
+            "end": 98.32,
+            "text": " And again it returns the integer."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 98.32,
+            "end": 100.0,
+            "text": " Okay, awesome."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 100.0,
+            "end": 103.56,
+            "text": " So the way we have plus minus times divided,"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 103.56,
+            "end": 106.03999999999999,
+            "text": " Similarly we have a floor division operator."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 106.03999999999999,
+            "end": 112.72,
+            "text": " The modulus operator gives us a remainder and exponentation."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 112.8,
+            "end": 116.4,
+            "text": " For example, if I do 2 to the power 2, then I can do something like this."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 116.4,
+            "end": 120.24,
+            "text": " I will say I will do 2 and double start 2 and give 4 here."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 120.24,
+            "end": 123.52,
+            "text": " And if I do 2 double star 5, then it will give me 32."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 123.52,
+            "end": 125.48,
+            "text": " Because 2 to the power 5 is 32."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 125.48,
+            "end": 128.4,
+            "text": " So this is our exponentation operator."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 128.4,
+            "end": 134.36,
+            "text": " I can definitely do a double star b, a very big number will come because I raised 11 to the power 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 134.36,
+            "end": 136.24,
+            "text": " But this calculation can be done by us."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 136.24,
+            "end": 139.4,
+            "text": " So we can use Python like a basic calculator."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 139.4,
+            "end": 142.24,
+            "text": " Most of the cases you will know this."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 142.24,
+            "end": 147.4,
+            "text": " If you use Python a little, then if I enter a modulo b and shift,"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 147.4,
+            "end": 151.64000000000001,
+            "text": " It will tell me that when I divide a from b, then what will be the remainder?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 151.64000000000001,
+            "end": 153.88,
+            "text": " So 5 to 10 is 10 and 1 will be left."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 153.88,
+            "end": 155.04000000000002,
+            "text": " So this will be 1 remainder."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 155.04000000000002,
+            "end": 160.04000000000002,
+            "text": " So whenever you want to know what will be the remainder when I divide a from b,"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 160.04000000000002,
+            "end": 162.04000000000002,
+            "text": " Then you can do a modulo b."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 162.04000000000002,
+            "end": 164.24,
+            "text": " And it will tell you the remainder."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 164.24,
+            "end": 167.12,
+            "text": " Okay, so this is our arithmetic operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 167.12,
+            "end": 169.36,
+            "text": " Now let's talk about comparison operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 169.4,
+            "end": 173.24,
+            "text": " Comparison operators always return true or false."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 173.24,
+            "end": 175.24,
+            "text": " That is, they return bullions."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 175.24,
+            "end": 181.16000000000003,
+            "text": " For example, if I say a is equal to 45, I am changing the value."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 181.16000000000003,
+            "end": 189.0,
+            "text": " And I say a is equal to 4 and I say a greater than or a less than b."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 189.0,
+            "end": 190.20000000000002,
+            "text": " So this is false."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 190.20000000000002,
+            "end": 193.20000000000002,
+            "text": " But if I say a greater than b, then this is true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 193.20000000000002,
+            "end": 196.4,
+            "text": " If I say a greater than equal to b, then this will be true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 196.44,
+            "end": 199.92000000000002,
+            "text": " Because a is greater than or equal to b."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 199.92000000000002,
+            "end": 202.20000000000002,
+            "text": " So if this is greater than, then it will return true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 202.20000000000002,
+            "end": 205.20000000000002,
+            "text": " Equal to bk, a will return true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 205.20000000000002,
+            "end": 208.6,
+            "text": " And similarly, less than and less than equal to b works."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 208.6,
+            "end": 212.8,
+            "text": " So here we have greater than, greater than equal to, less than, less than equal to work."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 212.8,
+            "end": 215.6,
+            "text": " Here you can see that it is used as double equal to."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 215.6,
+            "end": 218.8,
+            "text": " Because we are already using equal to for assignment."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 218.8,
+            "end": 223.8,
+            "text": " When I write c equals to 3, then I have done the value of c."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 224.20000000000002,
+            "end": 230.20000000000002,
+            "text": " So if I write a equal to c, then this will mean equal to a equal to c."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 230.20000000000002,
+            "end": 232.20000000000002,
+            "text": " That is why it is used as double equal to."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 232.20000000000002,
+            "end": 235.20000000000002,
+            "text": " If I write a double equal to c, then this is false."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 235.20000000000002,
+            "end": 238.20000000000002,
+            "text": " It is saying that a is equal to c."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 238.20000000000002,
+            "end": 241.20000000000002,
+            "text": " Because what is the value of a? 45 and what is the value of c? 3."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 241.20000000000002,
+            "end": 243.20000000000002,
+            "text": " So this is not equal."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 243.20000000000002,
+            "end": 246.20000000000002,
+            "text": " So if you want to check the equality, then what will you do?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 246.20000000000002,
+            "end": 249.20000000000002,
+            "text": " You will say a equals to c."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 249.20000000000002,
+            "end": 251.20000000000002,
+            "text": " And this means that it is simple."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 251.6,
+            "end": 253.6,
+            "text": " So this is a equal to c."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 253.6,
+            "end": 255.6,
+            "text": " We are asking this question and we have answered it."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 255.6,
+            "end": 257.59999999999997,
+            "text": " It is not false to python."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 257.59999999999997,
+            "end": 265.59999999999997,
+            "text": " If I write a not equal to c, then it is true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 265.59999999999997,
+            "end": 268.59999999999997,
+            "text": " Because I am asking, is a not equal to c?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 268.59999999999997,
+            "end": 270.59999999999997,
+            "text": " So python is true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 270.59999999999997,
+            "end": 271.59999999999997,
+            "text": " That is true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 271.59999999999997,
+            "end": 273.59999999999997,
+            "text": " It is not equal to c."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 273.59999999999997,
+            "end": 277.59999999999997,
+            "text": " So we have some things here that you can use as comparison operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 277.59999999999997,
+            "end": 279.59999999999997,
+            "text": " Double equal to."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 280.0,
+            "end": 282.0,
+            "text": " Not of equals to a operator."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 282.0,
+            "end": 284.0,
+            "text": " Greater than operator, less than operator."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " Greater than equal to a operator, less than equal to a operator."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 286.0,
+            "end": 292.0,
+            "text": " So if I have a equal to 5 and b equals to b is 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 292.0,
+            "end": 296.0,
+            "text": " And if I say a double equals to b, then it is true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 296.0,
+            "end": 300.0,
+            "text": " If I say a greater than equal to b, a greater than or equal to b."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 300.0,
+            "end": 302.0,
+            "text": " What will happen?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 302.0,
+            "end": 303.0,
+            "text": " It will be true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " What will be less than equal to b?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 305.0,
+            "end": 306.0,
+            "text": " It will be true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 306.4,
+            "end": 309.4,
+            "text": " So we are asking, is a less than or equal to b?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 309.4,
+            "end": 312.4,
+            "text": " It is not less than but equal to b."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 312.4,
+            "end": 313.4,
+            "text": " So it is true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 313.4,
+            "end": 321.4,
+            "text": " So if someone tells you that if you are a good person and your eyes are on you, then come forward."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 321.4,
+            "end": 323.4,
+            "text": " So if anything happens in Indira, then you will come forward."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 323.4,
+            "end": 325.4,
+            "text": " So everyone will come forward."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 325.4,
+            "end": 327.4,
+            "text": " A good person is always there in your eyes."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 327.4,
+            "end": 330.4,
+            "text": " Anyway, we will look at the rest of the operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 330.4,
+            "end": 333.4,
+            "text": " We have seen comparison operators here."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 333.79999999999995,
+            "end": 335.79999999999995,
+            "text": " Then we come to logical operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 335.79999999999995,
+            "end": 338.79999999999995,
+            "text": " Logical operators and or and not."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 338.79999999999995,
+            "end": 342.79999999999995,
+            "text": " Logical operators operate only in Booleans."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 342.79999999999995,
+            "end": 349.79999999999995,
+            "text": " So if I have two Booleans, one is b1 and b1 is equal to true and b2 equals to false."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 349.79999999999995,
+            "end": 351.79999999999995,
+            "text": " These are two Booleans."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 351.79999999999995,
+            "end": 355.79999999999995,
+            "text": " Now if I write here, not of b1 will come false."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 355.79999999999995,
+            "end": 359.79999999999995,
+            "text": " And if I write it like this, not of b2 will come true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 360.2,
+            "end": 364.2,
+            "text": " False is called true and false is called not operator."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 364.2,
+            "end": 369.2,
+            "text": " And similarly we have and operator and we have or operator."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 369.2,
+            "end": 373.2,
+            "text": " And operator returns true when both are true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 373.2,
+            "end": 377.2,
+            "text": " And or operator returns true when one of the two is true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 377.2,
+            "end": 379.2,
+            "text": " Let's see this thing."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 379.2,
+            "end": 385.2,
+            "text": " If I say b1 and b2, then it will return true because b1 is true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 385.2,
+            "end": 387.2,
+            "text": " If any of them is true, then it will return true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 387.59999999999997,
+            "end": 391.59999999999997,
+            "text": " If I say b1 and b2, then both of them need to be true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 391.59999999999997,
+            "end": 393.59999999999997,
+            "text": " Otherwise it will not be true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 393.59999999999997,
+            "end": 395.59999999999997,
+            "text": " It will be false."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 395.59999999999997,
+            "end": 398.59999999999997,
+            "text": " So you can understand this easily."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 398.59999999999997,
+            "end": 400.59999999999997,
+            "text": " We have logical operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 400.59999999999997,
+            "end": 402.59999999999997,
+            "text": " Now we have bitwise operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 402.59999999999997,
+            "end": 404.59999999999997,
+            "text": " What do we do?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 404.59999999999997,
+            "end": 407.59999999999997,
+            "text": " We convert it to binary and operate on bits."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 407.59999999999997,
+            "end": 411.59999999999997,
+            "text": " So convert 5 to binary, convert 3 to binary."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 411.59999999999997,
+            "end": 414.59999999999997,
+            "text": " And then you put and operator in it."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 415.0,
+            "end": 419.0,
+            "text": " And similarly if you put and operator, then your result will be 7."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 419.0,
+            "end": 422.0,
+            "text": " So you can see this easily."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 422.0,
+            "end": 425.0,
+            "text": " Now there are assignment operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 425.0,
+            "end": 429.0,
+            "text": " Which we are using knowingly and unknowingly."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 429.0,
+            "end": 431.0,
+            "text": " What are those assignment operators?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 431.0,
+            "end": 434.0,
+            "text": " We are already using them."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 434.0,
+            "end": 437.0,
+            "text": " Plus equals to means a is equal to a plus 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 437.0,
+            "end": 443.0,
+            "text": " So if I have a is equal to, I have written a equals to 45."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 443.4,
+            "end": 447.4,
+            "text": " And I have written a plus equals to 4."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 447.4,
+            "end": 450.4,
+            "text": " And after that if I print a, it will be 49."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 450.4,
+            "end": 454.4,
+            "text": " So if I have to add 4 in a value, then what will I do?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 454.4,
+            "end": 457.4,
+            "text": " I will say a plus equals to 4."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 457.4,
+            "end": 459.4,
+            "text": " Simple thing."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 459.4,
+            "end": 462.4,
+            "text": " Similarly I could have done a minus equals to 4."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 462.4,
+            "end": 464.4,
+            "text": " So I will do a minus equals to 4."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 464.4,
+            "end": 466.4,
+            "text": " And here you have to run very carefully."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 466.4,
+            "end": 468.4,
+            "text": " First you have to make a value 45."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 468.4,
+            "end": 470.4,
+            "text": " After that you have to do a minus equals to 4."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 470.79999999999995,
+            "end": 473.79999999999995,
+            "text": " And after that you have to print a, it will be 41."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 473.79999999999995,
+            "end": 476.79999999999995,
+            "text": " Otherwise it will run at a minus equals to updated value."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 476.79999999999995,
+            "end": 479.79999999999995,
+            "text": " Means we did a minus equals to 4."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 479.79999999999995,
+            "end": 482.79999999999995,
+            "text": " And then we did a minus equals to 4."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 482.79999999999995,
+            "end": 485.79999999999995,
+            "text": " And then we printed a equals to 41."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 485.79999999999995,
+            "end": 488.79999999999995,
+            "text": " If I run this cell again, it will operate at 41."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 488.79999999999995,
+            "end": 491.79999999999995,
+            "text": " Means it will run at 37."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 491.79999999999995,
+            "end": 494.79999999999995,
+            "text": " So you have to keep this in mind that"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 494.79999999999995,
+            "end": 497.79999999999995,
+            "text": " Cells are not executed in order."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 498.2,
+            "end": 500.2,
+            "text": " So here you can see the cell numbers."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 500.2,
+            "end": 504.2,
+            "text": " So you have to be alert that which cell you have executed first."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 504.2,
+            "end": 506.2,
+            "text": " Which one you have executed later."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 506.2,
+            "end": 508.2,
+            "text": " You don't have to be confused because of ease."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 508.2,
+            "end": 510.2,
+            "text": " Awesome."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 510.2,
+            "end": 512.2,
+            "text": " So here we have these assignment operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 512.2,
+            "end": 514.2,
+            "text": " The way plus equals to work, the same way minus equals to this."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 514.2,
+            "end": 516.2,
+            "text": " And star equals to this."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 516.2,
+            "end": 518.2,
+            "text": " You don't have to take notes."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 518.2,
+            "end": 521.2,
+            "text": " Because I will give you all these notes including the notebooks."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 521.2,
+            "end": 523.2,
+            "text": " So don't take tension at all."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 523.2,
+            "end": 525.2,
+            "text": " These are the notes of python refresher."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 525.6,
+            "end": 528.6,
+            "text": " The Jupyter notebook will work in your revision."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 528.6,
+            "end": 530.6,
+            "text": " So don't take tension at all."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 530.6,
+            "end": 532.6,
+            "text": " Similarly, slash equals to what will you do?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 532.6,
+            "end": 534.6,
+            "text": " A is equal to A slash 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 534.6,
+            "end": 536.6,
+            "text": " What will you do double slash equal to?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 536.6,
+            "end": 538.6,
+            "text": " A is equal to A double slash 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 538.6,
+            "end": 540.6,
+            "text": " So you will update the same value."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 540.6,
+            "end": 542.6,
+            "text": " Such that A double slash 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 542.6,
+            "end": 544.6,
+            "text": " Means floor division."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 544.6,
+            "end": 546.6,
+            "text": " Floor division means that after dividing,"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 546.6,
+            "end": 548.6,
+            "text": " Finish whatever is coming after the point."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 548.6,
+            "end": 550.6,
+            "text": " So this is it."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 550.6,
+            "end": 552.6,
+            "text": " Now you can see the percent is equal to"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 553.0,
+            "end": 555.0,
+            "text": " A is equal to A module 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 555.0,
+            "end": 557.0,
+            "text": " Means whatever remainder is coming"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 557.0,
+            "end": 559.0,
+            "text": " A will do it by dividing from 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 559.0,
+            "end": 561.0,
+            "text": " So I will show you."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 561.0,
+            "end": 563.0,
+            "text": " Suppose if I do 11 here."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 563.0,
+            "end": 565.0,
+            "text": " I run another cell here."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 565.0,
+            "end": 567.0,
+            "text": " I add one cell at the bottom."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 567.0,
+            "end": 569.0,
+            "text": " There will be many cells in our notebook."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 569.0,
+            "end": 571.0,
+            "text": " Suppose I say 11 double"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 571.0,
+            "end": 573.0,
+            "text": " forward slash 2."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 573.0,
+            "end": 575.0,
+            "text": " So this is 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 575.0,
+            "end": 577.0,
+            "text": " If I say A is equal to"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 577.0,
+            "end": 579.0,
+            "text": " 11 and I say A is equal to"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 579.0,
+            "end": 581.0,
+            "text": " 11 and A is equal to"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 581.4,
+            "end": 583.4,
+            "text": " 11 and I say A"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 583.4,
+            "end": 585.4,
+            "text": " double forward slash equals to 2."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 585.4,
+            "end": 587.4,
+            "text": " So what will be A's value?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 587.4,
+            "end": 589.4,
+            "text": " So A's value will be 5."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 589.4,
+            "end": 591.4,
+            "text": " Why will A's value be 5?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 591.4,
+            "end": 593.4,
+            "text": " Because we have made A's value"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 593.4,
+            "end": 595.4,
+            "text": " 11 double slash 2."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 595.4,
+            "end": 597.4,
+            "text": " So these are simple assignment operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 597.4,
+            "end": 599.4,
+            "text": " They work like this."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 599.4,
+            "end": 601.4,
+            "text": " And in a very similar way"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 601.4,
+            "end": 603.4,
+            "text": " We have a module"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 603.4,
+            "end": 605.4,
+            "text": " equal to B and exponential"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 605.4,
+            "end": 607.4,
+            "text": " equal to B which is very rarely used"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 607.4,
+            "end": 609.4,
+            "text": " in Python programming language."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 609.8,
+            "end": 611.8,
+            "text": " But again, you should definitely come."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 611.8,
+            "end": 613.8,
+            "text": " If you are programming in Python."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 613.8,
+            "end": 615.8,
+            "text": " Similarly, we have"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 615.8,
+            "end": 617.8,
+            "text": " membership operators."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 617.8,
+            "end": 619.8,
+            "text": " For example, if we do X in list."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 619.8,
+            "end": 621.8,
+            "text": " So if we have a list in 2"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 621.8,
+            "end": 623.8,
+            "text": " letters, which we will read ahead."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 623.8,
+            "end": 625.8,
+            "text": " If we have 2 in the list,"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 625.8,
+            "end": 627.8,
+            "text": " then it will return true. Similarly,"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 627.8,
+            "end": 629.8,
+            "text": " what does not do in?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 629.8,
+            "end": 631.8,
+            "text": " If it is not in the list, then it will return true."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 631.8,
+            "end": 633.8,
+            "text": " Otherwise, what will happen is that"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 633.8,
+            "end": 635.8,
+            "text": " if there is only one object, like if I do A's B"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 635.8,
+            "end": 637.8,
+            "text": " and A's value is 7"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 638.1999999999999,
+            "end": 640.1999999999999,
+            "text": " and B's value is 9"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 640.1999999999999,
+            "end": 642.1999999999999,
+            "text": " okay, A's value is 7"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 642.1999999999999,
+            "end": 644.1999999999999,
+            "text": " and B's value is 9."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 644.1999999999999,
+            "end": 646.1999999999999,
+            "text": " So if I do A's B, then A and B"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 646.1999999999999,
+            "end": 648.1999999999999,
+            "text": " are not pointing the same object."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 648.1999999999999,
+            "end": 650.1999999999999,
+            "text": " So it will return false."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 650.1999999999999,
+            "end": 652.1999999999999,
+            "text": " And similarly, what will it do?"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 652.1999999999999,
+            "end": 654.1999999999999,
+            "text": " If it returns true or different object."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 654.1999999999999,
+            "end": 656.1999999999999,
+            "text": " Otherwise, it will return false."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 656.1999999999999,
+            "end": 658.1999999999999,
+            "text": " And that was a summary of"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 658.1999999999999,
+            "end": 660.1999999999999,
+            "text": " operators in Python."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 660.1999999999999,
+            "end": 662.1999999999999,
+            "text": " I hope you are enjoying this video"
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 662.1999999999999,
+            "end": 664.1999999999999,
+            "text": " and are enjoying the overall course."
+        },
+        {
+            "number": "4",
+            "title": "opreators in python",
+            "start": 664.1999999999999,
+            "end": 666.1999999999999,
+            "text": " And we will do it with"
+        }
+    ],
+    "text": " Now we will see what operators are in Python and how you can use operators in Python. I have made an iPython notebook for you guys. I have written about operators in it. So primarily we have 6 types of operators in Python. Here you can see arithmetic operators, comparison operators, logical operators, bitwise operators, assignment operators, membership and identity operators. These 6 types of operators help you in doing operations in Python. We have arithmetic operators, they are very simple. Suppose I have a is equal to 10 here. a is equal to 10 and b is equal to 5. So what can I do now? I will enter a and write a plus b. a plus b will give me 15. Similarly a minus b will give me 5. And a multiplied by b will give me 50. And a divided by b will give me 2. Why will it give 2? I have divided by 5 to give 2 to 10. Here one thing is interesting that it always gives you a floating point number. So whenever you divide by a, b, then it automatically gets decimal. And this question is asked in interviews. If you didn't know this, then you should definitely see the whole Python refresher. If I do a double forward slash b, then you get to see the integer here. If I do 11, if the value of 1 is 11 and the value of b is 5, then it would be 2. So if I start executing it from here, then you see a double divided by b is 2. Why did I do 2? Because when we do a double divided by b, then the point that happens after that, it ends. And again it returns the integer. Okay, awesome. So the way we have plus minus times divided, Similarly we have a floor division operator. The modulus operator gives us a remainder and exponentation. For example, if I do 2 to the power 2, then I can do something like this. I will say I will do 2 and double start 2 and give 4 here. And if I do 2 double star 5, then it will give me 32. Because 2 to the power 5 is 32. So this is our exponentation operator. I can definitely do a double star b, a very big number will come because I raised 11 to the power 5. But this calculation can be done by us. So we can use Python like a basic calculator. Most of the cases you will know this. If you use Python a little, then if I enter a modulo b and shift, It will tell me that when I divide a from b, then what will be the remainder? So 5 to 10 is 10 and 1 will be left. So this will be 1 remainder. So whenever you want to know what will be the remainder when I divide a from b, Then you can do a modulo b. And it will tell you the remainder. Okay, so this is our arithmetic operators. Now let's talk about comparison operators. Comparison operators always return true or false. That is, they return bullions. For example, if I say a is equal to 45, I am changing the value. And I say a is equal to 4 and I say a greater than or a less than b. So this is false. But if I say a greater than b, then this is true. If I say a greater than equal to b, then this will be true. Because a is greater than or equal to b. So if this is greater than, then it will return true. Equal to bk, a will return true. And similarly, less than and less than equal to b works. So here we have greater than, greater than equal to, less than, less than equal to work. Here you can see that it is used as double equal to. Because we are already using equal to for assignment. When I write c equals to 3, then I have done the value of c. So if I write a equal to c, then this will mean equal to a equal to c. That is why it is used as double equal to. If I write a double equal to c, then this is false. It is saying that a is equal to c. Because what is the value of a? 45 and what is the value of c? 3. So this is not equal. So if you want to check the equality, then what will you do? You will say a equals to c. And this means that it is simple. So this is a equal to c. We are asking this question and we have answered it. It is not false to python. If I write a not equal to c, then it is true. Because I am asking, is a not equal to c? So python is true. That is true. It is not equal to c. So we have some things here that you can use as comparison operators. Double equal to. Not of equals to a operator. Greater than operator, less than operator. Greater than equal to a operator, less than equal to a operator. So if I have a equal to 5 and b equals to b is 5. And if I say a double equals to b, then it is true. If I say a greater than equal to b, a greater than or equal to b. What will happen? It will be true. What will be less than equal to b? It will be true. So we are asking, is a less than or equal to b? It is not less than but equal to b. So it is true. So if someone tells you that if you are a good person and your eyes are on you, then come forward. So if anything happens in Indira, then you will come forward. So everyone will come forward. A good person is always there in your eyes. Anyway, we will look at the rest of the operators. We have seen comparison operators here. Then we come to logical operators. Logical operators and or and not. Logical operators operate only in Booleans. So if I have two Booleans, one is b1 and b1 is equal to true and b2 equals to false. These are two Booleans. Now if I write here, not of b1 will come false. And if I write it like this, not of b2 will come true. False is called true and false is called not operator. And similarly we have and operator and we have or operator. And operator returns true when both are true. And or operator returns true when one of the two is true. Let's see this thing. If I say b1 and b2, then it will return true because b1 is true. If any of them is true, then it will return true. If I say b1 and b2, then both of them need to be true. Otherwise it will not be true. It will be false. So you can understand this easily. We have logical operators. Now we have bitwise operators. What do we do? We convert it to binary and operate on bits. So convert 5 to binary, convert 3 to binary. And then you put and operator in it. And similarly if you put and operator, then your result will be 7. So you can see this easily. Now there are assignment operators. Which we are using knowingly and unknowingly. What are those assignment operators? We are already using them. Plus equals to means a is equal to a plus 5. So if I have a is equal to, I have written a equals to 45. And I have written a plus equals to 4. And after that if I print a, it will be 49. So if I have to add 4 in a value, then what will I do? I will say a plus equals to 4. Simple thing. Similarly I could have done a minus equals to 4. So I will do a minus equals to 4. And here you have to run very carefully. First you have to make a value 45. After that you have to do a minus equals to 4. And after that you have to print a, it will be 41. Otherwise it will run at a minus equals to updated value. Means we did a minus equals to 4. And then we did a minus equals to 4. And then we printed a equals to 41. If I run this cell again, it will operate at 41. Means it will run at 37. So you have to keep this in mind that Cells are not executed in order. So here you can see the cell numbers. So you have to be alert that which cell you have executed first. Which one you have executed later. You don't have to be confused because of ease. Awesome. So here we have these assignment operators. The way plus equals to work, the same way minus equals to this. And star equals to this. You don't have to take notes. Because I will give you all these notes including the notebooks. So don't take tension at all. These are the notes of python refresher. The Jupyter notebook will work in your revision. So don't take tension at all. Similarly, slash equals to what will you do? A is equal to A slash 5. What will you do double slash equal to? A is equal to A double slash 5. So you will update the same value. Such that A double slash 5. Means floor division. Floor division means that after dividing, Finish whatever is coming after the point. So this is it. Now you can see the percent is equal to A is equal to A module 5. Means whatever remainder is coming A will do it by dividing from 5. So I will show you. Suppose if I do 11 here. I run another cell here. I add one cell at the bottom. There will be many cells in our notebook. Suppose I say 11 double forward slash 2. So this is 5. If I say A is equal to 11 and I say A is equal to 11 and A is equal to 11 and I say A double forward slash equals to 2. So what will be A's value? So A's value will be 5. Why will A's value be 5? Because we have made A's value 11 double slash 2. So these are simple assignment operators. They work like this. And in a very similar way We have a module equal to B and exponential equal to B which is very rarely used in Python programming language. But again, you should definitely come. If you are programming in Python. Similarly, we have membership operators. For example, if we do X in list. So if we have a list in 2 letters, which we will read ahead. If we have 2 in the list, then it will return true. Similarly, what does not do in? If it is not in the list, then it will return true. Otherwise, what will happen is that if there is only one object, like if I do A's B and A's value is 7 and B's value is 9 okay, A's value is 7 and B's value is 9. So if I do A's B, then A and B are not pointing the same object. So it will return false. And similarly, what will it do? If it returns true or different object. Otherwise, it will return false. And that was a summary of operators in Python. I hope you are enjoying this video and are enjoying the overall course. And we will do it with"
+}

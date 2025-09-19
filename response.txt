@@ -1,0 +1,7 @@
+So, you're wondering why Python is a great choice for data science? Well, let me tell you - it's used by data scientists because of its simplicity and ease of use.
+
+In our course, we'll dive into this further in video 7. If you want to learn more about how Python programming language is used by data scientists, check out that video around the 4-minute mark. That's where I explain why Python is a popular choice for data science.
+
+We also cover this topic briefly in other videos, but video 7 has a more detailed explanation of why Python is ideal for data science tasks. So, if you want to get a better understanding of how Python can help you with your data science projects, head over to video 7 and start watching from around the 4-minute mark.
+
+Is there anything else related to data science or Python that I can help you with?

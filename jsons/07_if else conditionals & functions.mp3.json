@@ -1,0 +1,1727 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 0.0,
+            "end": 4.48,
+            "text": " Now we will see how to use the if else statement"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 4.48,
+            "end": 8.68,
+            "text": " Plus we will also see the importance of the if else statement in data science"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 8.68,
+            "end": 11.4,
+            "text": " As you can see, I have come into the computer screen"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 11.4,
+            "end": 14.06,
+            "text": " And I save this ibyte notebook"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 14.06,
+            "end": 16.68,
+            "text": " Plus I close the ibyte notebook"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 16.68,
+            "end": 21.12,
+            "text": " So you can close it by clicking on the close other tabs"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 21.12,
+            "end": 22.78,
+            "text": " You can do all these things"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 22.78,
+            "end": 26.84,
+            "text": " Here we will see the conditional statements in the Python"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 26.84,
+            "end": 28.04,
+            "text": " What are the things that are used"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 28.04,
+            "end": 33.58,
+            "text": " First of all, we have to make some things in a particular condition"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 33.58,
+            "end": 36.3,
+            "text": " In Python or in any programming language"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 36.3,
+            "end": 38.28,
+            "text": " But if we are talking about Python here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 38.28,
+            "end": 40.879999999999995,
+            "text": " We will only see Python-specific things"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 40.879999999999995,
+            "end": 44.480000000000004,
+            "text": " If there are else statements in Python"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 44.480000000000004,
+            "end": 48.28,
+            "text": " Which help you to work according to a particular condition"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 48.28,
+            "end": 50.36,
+            "text": " I will keep things a little fast-paced"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 50.36,
+            "end": 53.0,
+            "text": " Because I have already told you that this is a refresher of Python"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 53.0,
+            "end": 54.44,
+            "text": " This is not a course of Python"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 54.68,
+            "end": 56.86,
+            "text": " Here I have a variable"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 56.86,
+            "end": 58.339999999999996,
+            "text": " I have said a is equal to"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 58.339999999999996,
+            "end": 60.0,
+            "text": " I have done something like this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 60.0,
+            "end": 61.16,
+            "text": " a is equal to 4"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 61.16,
+            "end": 64.67999999999999,
+            "text": " Now I am saying if a is greater than 53"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 64.67999999999999,
+            "end": 66.67999999999999,
+            "text": " And after that I will put this in the indentation"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 66.67999999999999,
+            "end": 70.86,
+            "text": " Because this is the first introduction of our indentation"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 70.86,
+            "end": 72.92,
+            "text": " We have not used indentation yet"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 72.92,
+            "end": 75.36,
+            "text": " We are using indentation for the first time"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 75.36,
+            "end": 76.75999999999999,
+            "text": " If I am writing something like this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 76.75999999999999,
+            "end": 78.92,
+            "text": " If a is greater than 53"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 78.92,
+            "end": 80.75999999999999,
+            "text": " And I will put a colon and enter"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 80.75999999999999,
+            "end": 84.12,
+            "text": " You will notice that the enter here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 84.12,
+            "end": 86.12,
+            "text": " Is not bringing the cursor here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 86.12,
+            "end": 89.12,
+            "text": " It is bringing a tab here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 89.12,
+            "end": 92.12,
+            "text": " When we give a tab like this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 92.12,
+            "end": 95.12,
+            "text": " Python interpreter will understand that"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 95.12,
+            "end": 97.64,
+            "text": " If is greater than 53"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 97.64,
+            "end": 100.12,
+            "text": " So we have come into the if statement"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 100.12,
+            "end": 102.12,
+            "text": " Here a tab means"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 102.12,
+            "end": 103.72,
+            "text": " Or I will say indentation"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 103.72,
+            "end": 106.92,
+            "text": " Some people indent it by doing 4 spaces"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 106.92,
+            "end": 108.72,
+            "text": " Some people indent it by tapping"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 108.72,
+            "end": 110.12,
+            "text": " Both are right"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 110.12,
+            "end": 111.64,
+            "text": " Here we will enter"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 111.64,
+            "end": 113.64,
+            "text": " If I do backspace here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 113.64,
+            "end": 114.64,
+            "text": " This is the tab"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 114.64,
+            "end": 115.64,
+            "text": " If I enter here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 115.64,
+            "end": 116.64,
+            "text": " I have come"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 116.64,
+            "end": 118.64,
+            "text": " And I am in the if statement"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 118.64,
+            "end": 121.64,
+            "text": " So if I say if a is greater than 53"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 121.64,
+            "end": 123.64,
+            "text": " Then print here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 123.64,
+            "end": 124.64,
+            "text": " Greater"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 124.64,
+            "end": 125.64,
+            "text": " Okay"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 125.64,
+            "end": 128.64,
+            "text": " And I will enter and backspace"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 128.64,
+            "end": 130.64,
+            "text": " Else"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 130.64,
+            "end": 133.64,
+            "text": " Print it smaller"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 133.64,
+            "end": 134.64,
+            "text": " It is simple"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 134.64,
+            "end": 135.64,
+            "text": " It is a simple program"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 135.64,
+            "end": 136.64,
+            "text": " I will enter and shift"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 136.64,
+            "end": 138.64,
+            "text": " Output is smaller"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 138.64,
+            "end": 139.64,
+            "text": " Why?"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 139.64,
+            "end": 140.64,
+            "text": " Why is the output smaller?"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 140.64,
+            "end": 142.64,
+            "text": " Because the value of A was 4"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 142.64,
+            "end": 144.64,
+            "text": " But if it was 400"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 144.64,
+            "end": 146.64,
+            "text": " Then what would we have?"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 146.64,
+            "end": 148.64,
+            "text": " I will enter and shift again"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 148.64,
+            "end": 151.64,
+            "text": " So we have got greater"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 151.64,
+            "end": 154.64,
+            "text": " If else we can do"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 154.64,
+            "end": 156.64,
+            "text": " Pro-Gramming"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 156.64,
+            "end": 158.64,
+            "text": " If it is greater than 53"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 158.64,
+            "end": 159.64,
+            "text": " Then print this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 159.64,
+            "end": 160.64,
+            "text": " Or print this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 160.64,
+            "end": 162.64,
+            "text": " As simple as that"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 162.64,
+            "end": 164.64,
+            "text": " Once again I will keep things very simple"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 164.64,
+            "end": 165.64,
+            "text": " And short"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 165.64,
+            "end": 168.64,
+            "text": " Because I want you to dive in data science"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 168.64,
+            "end": 172.64,
+            "text": " We will not waste much time in learning basic python"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 172.64,
+            "end": 174.64,
+            "text": " Now if I write something like this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 174.64,
+            "end": 176.64,
+            "text": " If A is greater than 5"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 176.64,
+            "end": 178.64,
+            "text": " Then this is valid"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 178.64,
+            "end": 180.64,
+            "text": " I have put a parenthesis here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 180.64,
+            "end": 181.64,
+            "text": " But it is not necessary"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 181.64,
+            "end": 182.64,
+            "text": " You can write it directly"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 182.64,
+            "end": 183.64,
+            "text": " If A is greater than 5"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 183.64,
+            "end": 186.64,
+            "text": " Although I prefer parenthesis"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 186.64,
+            "end": 187.64,
+            "text": " Reason being"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 187.64,
+            "end": 189.64,
+            "text": " That things are organized with parenthesis"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 189.64,
+            "end": 192.64,
+            "text": " Plus if I want to complicate the expression"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 192.64,
+            "end": 195.64,
+            "text": " That is, A is greater than 53"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 195.64,
+            "end": 196.64,
+            "text": " If I want to complicate"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 196.64,
+            "end": 200.64,
+            "text": " Then it becomes easy to read for humans"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 200.64,
+            "end": 202.64,
+            "text": " For example, if I write A is greater than 53"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 202.64,
+            "end": 204.64,
+            "text": " So if I will keep parenthesis"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 204.64,
+            "end": 207.64,
+            "text": " Then it will be easy to read things"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 207.64,
+            "end": 209.64,
+            "text": " Chances of error"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 209.64,
+            "end": 211.64,
+            "text": " Chances of error of humans will be reduced"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 211.64,
+            "end": 213.64,
+            "text": " So I have written this program here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 213.64,
+            "end": 215.64,
+            "text": " And I am changing the value of A here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 215.64,
+            "end": 217.64,
+            "text": " Now let's understand how it works"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 217.64,
+            "end": 221.64,
+            "text": " Whenever we have if, elif, elif and else"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 221.64,
+            "end": 224.64,
+            "text": " Then we call it if else ladder"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 224.64,
+            "end": 226.64,
+            "text": " Whatever I have selected here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 226.64,
+            "end": 228.64,
+            "text": " It will all be executed together"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 228.64,
+            "end": 230.64,
+            "text": " When I say it will be executed together"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 230.64,
+            "end": 231.64,
+            "text": " What does it mean?"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 231.64,
+            "end": 234.64,
+            "text": " This means that this if, elif, elif and else"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 234.64,
+            "end": 236.64,
+            "text": " This is a whole ladder"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 236.64,
+            "end": 238.64,
+            "text": " If any of these conditions are true"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 238.64,
+            "end": 240.64,
+            "text": " Then execution will stop there"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 240.64,
+            "end": 242.64,
+            "text": " For example, if value 41 is here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 242.64,
+            "end": 244.64,
+            "text": " Then first of all this condition will be checked"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 244.64,
+            "end": 246.64,
+            "text": " Is it greater than 50? No"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 246.64,
+            "end": 248.64,
+            "text": " Is it greater than 40? Yes"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 248.64,
+            "end": 250.64,
+            "text": " So here this elif will be executed"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 250.64,
+            "end": 253.64,
+            "text": " And it will go straight after our else"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 253.64,
+            "end": 255.64,
+            "text": " That means, out of all these statements"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 255.64,
+            "end": 256.64,
+            "text": " Which I have selected"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 256.64,
+            "end": 257.64,
+            "text": " Out of all these statements"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 257.64,
+            "end": 259.64,
+            "text": " Only one statement will be executed"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 259.64,
+            "end": 261.64,
+            "text": " I hope you are understanding"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 261.64,
+            "end": 263.64,
+            "text": " And able to understand how it works"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 263.64,
+            "end": 265.64,
+            "text": " Here I have done 1 of 41"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 265.64,
+            "end": 267.64,
+            "text": " So it will be greater than 40"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 267.64,
+            "end": 268.64,
+            "text": " Because this condition was false"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 268.64,
+            "end": 269.64,
+            "text": " This condition was true"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 269.64,
+            "end": 270.64,
+            "text": " And it was printed"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 270.64,
+            "end": 272.64,
+            "text": " Now if I do something like this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 272.64,
+            "end": 275.64,
+            "text": " I say 29"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 275.64,
+            "end": 276.64,
+            "text": " And if I enter shift"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 276.64,
+            "end": 278.64,
+            "text": " Then it will be done here"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 278.64,
+            "end": 280.64,
+            "text": " Why? Because this condition was not true"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 280.64,
+            "end": 281.64,
+            "text": " This condition was not true"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 281.64,
+            "end": 282.64,
+            "text": " This condition was not also true"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 282.64,
+            "end": 284.64,
+            "text": " Finally elf's content was executed"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 284.64,
+            "end": 286.64,
+            "text": " If I do 33"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 286.64,
+            "end": 288.64,
+            "text": " Then we will have greater than 30"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 288.64,
+            "end": 290.64,
+            "text": " Because this condition was false"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 290.64,
+            "end": 291.64,
+            "text": " This also became false"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 291.64,
+            "end": 292.64,
+            "text": " But this condition was true"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 292.64,
+            "end": 294.64,
+            "text": " Because of which greater than 30"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 294.64,
+            "end": 295.64,
+            "text": " It was printed on the screen"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 295.64,
+            "end": 297.64,
+            "text": " I hope you are understanding this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 297.64,
+            "end": 300.64,
+            "text": " So in this way our if-else statements work"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 300.64,
+            "end": 302.64,
+            "text": " I have written for you very well"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 302.64,
+            "end": 304.64,
+            "text": " If-else, elif, if"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 304.64,
+            "end": 306.64,
+            "text": " It is well summarized"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 306.64,
+            "end": 308.64,
+            "text": " All these if-else, by the notebooks"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 308.64,
+            "end": 309.64,
+            "text": " You will get them for download"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 309.64,
+            "end": 311.64,
+            "text": " So you don't have to make any notes"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 311.64,
+            "end": 313.64,
+            "text": " No need to worry"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 313.64,
+            "end": 315.64,
+            "text": " All these conditions"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 315.64,
+            "end": 317.64,
+            "text": " Work in conjunction"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 317.64,
+            "end": 319.64,
+            "text": " Work together"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 319.64,
+            "end": 322.64,
+            "text": " So what is the use of if-else in data science"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 322.64,
+            "end": 323.64,
+            "text": " Now look, in data science"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 323.64,
+            "end": 325.64,
+            "text": " To filter us, to clean the data"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 325.64,
+            "end": 327.64,
+            "text": " To make decisions"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 327.64,
+            "end": 329.64,
+            "text": " This is how the statements are needed"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 329.64,
+            "end": 331.64,
+            "text": " We will read about the Pandas data frame"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 331.64,
+            "end": 333.64,
+            "text": " About which I am not telling you right now"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 333.64,
+            "end": 334.64,
+            "text": " I will tell you quickly"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 334.64,
+            "end": 336.64,
+            "text": " But I just want to tell you that"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 336.64,
+            "end": 338.64,
+            "text": " In Pandas data frame"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 338.64,
+            "end": 340.64,
+            "text": " How can we put conditions"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 340.64,
+            "end": 341.64,
+            "text": " We will read all these things"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 341.64,
+            "end": 343.64,
+            "text": " But again, I have given you an example"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 343.64,
+            "end": 345.64,
+            "text": " So that if you are doing revision"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 345.64,
+            "end": 347.64,
+            "text": " You will be able to connect the dots"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 347.64,
+            "end": 349.64,
+            "text": " I hope you are understanding"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 349.64,
+            "end": 352.64,
+            "text": " The if is executed when the condition is true"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 352.64,
+            "end": 354.64,
+            "text": " You can use the if alone"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 354.64,
+            "end": 356.64,
+            "text": " You can use the if with else"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 356.64,
+            "end": 358.64,
+            "text": " And with a lot of elif"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 358.64,
+            "end": 360.64,
+            "text": " Or with just one elif"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 360.64,
+            "end": 362.64,
+            "text": " And then you can use it with the else"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 362.64,
+            "end": 364.64,
+            "text": " And it handles multiple conditions"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 364.64,
+            "end": 367.64,
+            "text": " Now we will see how functions work in Python"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 367.64,
+            "end": 370.64,
+            "text": " The way to make functions in Python is very simple"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 370.64,
+            "end": 372.64,
+            "text": " You simply have to use the def keyword"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 372.64,
+            "end": 375.64,
+            "text": " For example, I made a function called defavg"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 375.64,
+            "end": 377.64,
+            "text": " I can pass two arguments in it"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 377.64,
+            "end": 381.64,
+            "text": " If I want, I can pass five arguments"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 381.64,
+            "end": 385.64,
+            "text": " And I can return a plus b divided by 2"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 385.64,
+            "end": 388.64,
+            "text": " So this function will average me"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 388.64,
+            "end": 389.64,
+            "text": " Two numbers"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 389.64,
+            "end": 391.64,
+            "text": " For example, if 4 and 6 are 5"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 391.64,
+            "end": 393.64,
+            "text": " Then it is giving me 5.0"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 393.64,
+            "end": 396.64,
+            "text": " Now if I want to give b as default value"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 396.64,
+            "end": 399.64,
+            "text": " Then I can modify this function"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 399.64,
+            "end": 401.64,
+            "text": " If b's default value is zero"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 401.64,
+            "end": 403.64,
+            "text": " Suppose I have kept it under my condition"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 403.64,
+            "end": 405.64,
+            "text": " If I don't pass another value"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 405.64,
+            "end": 406.64,
+            "text": " Then it is zero"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 406.64,
+            "end": 407.64,
+            "text": " Or 10, you can do anything"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 407.64,
+            "end": 408.64,
+            "text": " It is your wish"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 408.64,
+            "end": 409.64,
+            "text": " So what will happen?"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 409.64,
+            "end": 411.64,
+            "text": " If I take out the average of 4 and 6"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 411.64,
+            "end": 412.64,
+            "text": " Then it will be 5"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 412.64,
+            "end": 414.64,
+            "text": " But if I take out the average of only 4"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 414.64,
+            "end": 416.64,
+            "text": " Then it will automatically consider the other value"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 416.64,
+            "end": 417.64,
+            "text": " 10"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 417.64,
+            "end": 419.64,
+            "text": " And it will do 10 plus 4 by 2 which is 7"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 419.64,
+            "end": 421.64,
+            "text": " So it is called default arguments"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 421.64,
+            "end": 424.64,
+            "text": " So we can pass multiple arguments"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 424.64,
+            "end": 426.64,
+            "text": " We can keep some default arguments in the function"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 426.64,
+            "end": 428.64,
+            "text": " And one thing you have to keep in mind"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 428.64,
+            "end": 431.64,
+            "text": " That the default arguments you will pass in the function"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 431.64,
+            "end": 434.64,
+            "text": " Will be in the last"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 434.64,
+            "end": 437.64,
+            "text": " The function of your function is giving you 5 arguments"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 437.64,
+            "end": 439.64,
+            "text": " Out of which there are two default arguments"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 439.64,
+            "end": 441.64,
+            "text": " A, B and C are your regular arguments"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 441.64,
+            "end": 443.64,
+            "text": " And D and E are your default arguments"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 443.64,
+            "end": 445.64,
+            "text": " So D and E will be kept at the end"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 445.64,
+            "end": 446.64,
+            "text": " Because they are default arguments"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 446.64,
+            "end": 448.64,
+            "text": " Meaning you are giving them value"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 448.64,
+            "end": 450.64,
+            "text": " So you will write the function according to that"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 450.64,
+            "end": 453.64,
+            "text": " I hope you understood how the function works"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 453.64,
+            "end": 455.64,
+            "text": " And how to call a function"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 455.64,
+            "end": 458.64,
+            "text": " If you want you can write a function"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 458.64,
+            "end": 460.64,
+            "text": " Which is not taking anything"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 460.64,
+            "end": 463.64,
+            "text": " Like I am printing in this function"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 463.64,
+            "end": 465.64,
+            "text": " Hello, good morning"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 465.64,
+            "end": 467.64,
+            "text": " Okay, I am writing this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 467.64,
+            "end": 468.64,
+            "text": " So I can do something like this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 468.64,
+            "end": 469.64,
+            "text": " I will call Greed"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 469.64,
+            "end": 471.64,
+            "text": " So he will print Hello, good morning"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 471.64,
+            "end": 473.64,
+            "text": " What will Greed do?"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 473.64,
+            "end": 474.64,
+            "text": " Greed will not return anything"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 474.64,
+            "end": 477.64,
+            "text": " Because I did not return anything from Greed"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 477.64,
+            "end": 479.64,
+            "text": " So if I am going to print A is equal to Greed"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 479.64,
+            "end": 481.64,
+            "text": " And if I print Greed then I will get none"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 481.64,
+            "end": 483.64,
+            "text": " So when Python does not return anything"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 483.64,
+            "end": 484.64,
+            "text": " We call it none"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 484.64,
+            "end": 486.64,
+            "text": " None is an object in Python"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 486.64,
+            "end": 488.64,
+            "text": " Which is useful to depict"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 488.64,
+            "end": 490.64,
+            "text": " That the function is not returning anything"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 490.64,
+            "end": 492.64,
+            "text": " So whenever we do not have to write anything"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 492.64,
+            "end": 494.64,
+            "text": " In Python we write none"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 494.64,
+            "end": 496.64,
+            "text": " Like N-O-N"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 496.64,
+            "end": 498.64,
+            "text": " So you should know this"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 498.64,
+            "end": 501.64,
+            "text": " And you can see that this is highlighted in green color"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 501.64,
+            "end": 504.64,
+            "text": " Because this is the keyword reserved in Python"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 504.64,
+            "end": 507.64,
+            "text": " So I hope you understood how to use functions"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 507.64,
+            "end": 509.64,
+            "text": " How to use conditionals"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 509.64,
+            "end": 511.64,
+            "text": " I hope you are enjoying this course"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 511.64,
+            "end": 512.64,
+            "text": " You are enjoying this course"
+        },
+        {
+            "number": "7",
+            "title": "if else conditionals & functions",
+            "start": 512.64,
+            "end": 514.64,
+            "text": " See you in the next video"
+        }
+    ],
+    "text": " Now we will see how to use the if else statement Plus we will also see the importance of the if else statement in data science As you can see, I have come into the computer screen And I save this ibyte notebook Plus I close the ibyte notebook So you can close it by clicking on the close other tabs You can do all these things Here we will see the conditional statements in the Python What are the things that are used First of all, we have to make some things in a particular condition In Python or in any programming language But if we are talking about Python here We will only see Python-specific things If there are else statements in Python Which help you to work according to a particular condition I will keep things a little fast-paced Because I have already told you that this is a refresher of Python This is not a course of Python Here I have a variable I have said a is equal to I have done something like this a is equal to 4 Now I am saying if a is greater than 53 And after that I will put this in the indentation Because this is the first introduction of our indentation We have not used indentation yet We are using indentation for the first time If I am writing something like this If a is greater than 53 And I will put a colon and enter You will notice that the enter here Is not bringing the cursor here It is bringing a tab here When we give a tab like this Python interpreter will understand that If is greater than 53 So we have come into the if statement Here a tab means Or I will say indentation Some people indent it by doing 4 spaces Some people indent it by tapping Both are right Here we will enter If I do backspace here This is the tab If I enter here I have come And I am in the if statement So if I say if a is greater than 53 Then print here Greater Okay And I will enter and backspace Else Print it smaller It is simple It is a simple program I will enter and shift Output is smaller Why? Why is the output smaller? Because the value of A was 4 But if it was 400 Then what would we have? I will enter and shift again So we have got greater If else we can do Pro-Gramming If it is greater than 53 Then print this Or print this As simple as that Once again I will keep things very simple And short Because I want you to dive in data science We will not waste much time in learning basic python Now if I write something like this If A is greater than 5 Then this is valid I have put a parenthesis here But it is not necessary You can write it directly If A is greater than 5 Although I prefer parenthesis Reason being That things are organized with parenthesis Plus if I want to complicate the expression That is, A is greater than 53 If I want to complicate Then it becomes easy to read for humans For example, if I write A is greater than 53 So if I will keep parenthesis Then it will be easy to read things Chances of error Chances of error of humans will be reduced So I have written this program here And I am changing the value of A here Now let's understand how it works Whenever we have if, elif, elif and else Then we call it if else ladder Whatever I have selected here It will all be executed together When I say it will be executed together What does it mean? This means that this if, elif, elif and else This is a whole ladder If any of these conditions are true Then execution will stop there For example, if value 41 is here Then first of all this condition will be checked Is it greater than 50? No Is it greater than 40? Yes So here this elif will be executed And it will go straight after our else That means, out of all these statements Which I have selected Out of all these statements Only one statement will be executed I hope you are understanding And able to understand how it works Here I have done 1 of 41 So it will be greater than 40 Because this condition was false This condition was true And it was printed Now if I do something like this I say 29 And if I enter shift Then it will be done here Why? Because this condition was not true This condition was not true This condition was not also true Finally elf's content was executed If I do 33 Then we will have greater than 30 Because this condition was false This also became false But this condition was true Because of which greater than 30 It was printed on the screen I hope you are understanding this So in this way our if-else statements work I have written for you very well If-else, elif, if It is well summarized All these if-else, by the notebooks You will get them for download So you don't have to make any notes No need to worry All these conditions Work in conjunction Work together So what is the use of if-else in data science Now look, in data science To filter us, to clean the data To make decisions This is how the statements are needed We will read about the Pandas data frame About which I am not telling you right now I will tell you quickly But I just want to tell you that In Pandas data frame How can we put conditions We will read all these things But again, I have given you an example So that if you are doing revision You will be able to connect the dots I hope you are understanding The if is executed when the condition is true You can use the if alone You can use the if with else And with a lot of elif Or with just one elif And then you can use it with the else And it handles multiple conditions Now we will see how functions work in Python The way to make functions in Python is very simple You simply have to use the def keyword For example, I made a function called defavg I can pass two arguments in it If I want, I can pass five arguments And I can return a plus b divided by 2 So this function will average me Two numbers For example, if 4 and 6 are 5 Then it is giving me 5.0 Now if I want to give b as default value Then I can modify this function If b's default value is zero Suppose I have kept it under my condition If I don't pass another value Then it is zero Or 10, you can do anything It is your wish So what will happen? If I take out the average of 4 and 6 Then it will be 5 But if I take out the average of only 4 Then it will automatically consider the other value 10 And it will do 10 plus 4 by 2 which is 7 So it is called default arguments So we can pass multiple arguments We can keep some default arguments in the function And one thing you have to keep in mind That the default arguments you will pass in the function Will be in the last The function of your function is giving you 5 arguments Out of which there are two default arguments A, B and C are your regular arguments And D and E are your default arguments So D and E will be kept at the end Because they are default arguments Meaning you are giving them value So you will write the function according to that I hope you understood how the function works And how to call a function If you want you can write a function Which is not taking anything Like I am printing in this function Hello, good morning Okay, I am writing this So I can do something like this I will call Greed So he will print Hello, good morning What will Greed do? Greed will not return anything Because I did not return anything from Greed So if I am going to print A is equal to Greed And if I print Greed then I will get none So when Python does not return anything We call it none None is an object in Python Which is useful to depict That the function is not returning anything So whenever we do not have to write anything In Python we write none Like N-O-N So you should know this And you can see that this is highlighted in green color Because this is the keyword reserved in Python So I hope you understood how to use functions How to use conditionals I hope you are enjoying this course You are enjoying this course See you in the next video"
+}

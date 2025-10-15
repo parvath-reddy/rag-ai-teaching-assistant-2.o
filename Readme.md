@@ -1,5 +1,6 @@
 # RAG Teaching Assistant
 
+## https://rag-ai-teaching-assistant-2o.streamlit.app/
 An advanced AI-powered teaching assistant that uses Retrieval-Augmented Generation (RAG) to provide intelligent responses based on course video transcripts.
 
 ## Features

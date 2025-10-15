@@ -4,2136 +4,428 @@
             "number": "1",
             "title": "Why choose python",
             "start": 0.0,
-            "end": 8.32,
-            "text": " Alright guys, I hope you are having fun in this course."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 8.32,
-            "end": 9.32,
-            "text": " I am having fun."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 9.32,
-            "end": 11.6,
-            "text": " Today we are going to see Python Refresher."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 11.6,
-            "end": 14.76,
-            "text": " We will use Python programming language throughout this course."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 14.76,
             "end": 19.92,
-            "text": " And I want to teach you Python well before we move towards complex concepts."
+            "text": " Alright guys, I hope you are having fun in this course.  I am having fun.  Today we are going to see Python Refresher.  We will use Python programming language throughout this course.  And I want to teach you Python well before we move towards complex concepts."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 19.92,
-            "end": 20.92,
-            "text": " Now here's the thing."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 20.92,
-            "end": 23.12,
-            "text": " I know that some of you already know Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 23.12,
-            "end": 26.92,
-            "text": " Some of you must have been like this who must have mastered Python very well and made"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 26.92,
-            "end": 27.92,
-            "text": " good projects."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 27.92,
             "end": 31.360000000000003,
-            "text": " You can skip this section in this way."
+            "text": " Now here's the thing.  I know that some of you already know Python.  Some of you must have been like this who must have mastered Python very well and made  good projects.  You can skip this section in this way."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 31.360000000000003,
-            "end": 32.86,
-            "text": " But listen to me carefully."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 32.86,
-            "end": 36.36,
-            "text": " I will cover this section with the help of Jopeta Notebook."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 36.36,
-            "end": 40.96,
-            "text": " And the Python Refresher section I am going to give you, I will tell you many things from"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 40.96,
-            "end": 43.64,
-            "text": " the starting and I will be a little fast paced in it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 43.64,
             "end": 46.36,
-            "text": " It's not like I will teach you the whole Python in the end to end."
+            "text": " But listen to me carefully.  I will cover this section with the help of Jopeta Notebook.  And the Python Refresher section I am going to give you, I will tell you many things from  the starting and I will be a little fast paced in it.  It's not like I will teach you the whole Python in the end to end."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 46.36,
-            "end": 48.36,
-            "text": " I won't do it in 10 to 12 hours."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 48.36,
-            "end": 49.56,
-            "text": " I don't want to waste your time."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 49.56,
-            "end": 51.8,
-            "text": " I know that as human beings our time is very limited."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 51.8,
-            "end": 56.56,
-            "text": " And in the least I will teach you because I will teach you data science here."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 56.56,
             "end": 57.56,
-            "text": " And that's it."
+            "text": " I won't do it in 10 to 12 hours.  I don't want to waste your time.  I know that as human beings our time is very limited.  And in the least I will teach you because I will teach you data science here.  And that's it."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 57.56,
-            "end": 60.28,
-            "text": " We will start and I don't recommend that you skip it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 60.28,
-            "end": 64.76,
-            "text": " But again, if you don't want to revision of Python, you can skip it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 64.76,
-            "end": 67.76,
-            "text": " But again, if you see this, you will get a good revision of Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 67.76,
-            "end": 69.76,
-            "text": " It's a fresh content."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 69.76,
             "end": 72.56,
-            "text": " I have given the whole refresher of Python with the help of Jopeta Notebook."
+            "text": " We will start and I don't recommend that you skip it.  But again, if you don't want to revision of Python, you can skip it.  But again, if you see this, you will get a good revision of Python.  It's a fresh content.  I have given the whole refresher of Python with the help of Jopeta Notebook."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 72.56,
-            "end": 77.48,
-            "text": " So here I want to start that we have chosen Python programming language and what are we going"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 77.48,
-            "end": 78.48,
-            "text": " to cover in today's video."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 78.48,
-            "end": 81.68,
-            "text": " So first of all we are going to see the overview of Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 81.68,
-            "end": 83.68,
-            "text": " Then we will see the basics of Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 83.80000000000001,
             "end": 86.80000000000001,
-            "text": " And I will tell you quickly why we are using Python for data science."
+            "text": " So here I want to start that we have chosen Python programming language and what are we going  to cover in today's video.  So first of all we are going to see the overview of Python.  Then we will see the basics of Python.  And I will tell you quickly why we are using Python for data science."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 86.80000000000001,
-            "end": 89.80000000000001,
-            "text": " I will tell you about key libraries and their uses."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 89.80000000000001,
-            "end": 94.80000000000001,
-            "text": " Then I will show you two very interesting real-world applications and case studies that I have compiled."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 94.80000000000001,
-            "end": 96.80000000000001,
-            "text": " So let's start."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 96.80000000000001,
-            "end": 101.80000000000001,
-            "text": " So here you can see why Python programming language is used by data scientists."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 101.80000000000001,
             "end": 102.80000000000001,
-            "text": " Because it is very intuitive."
+            "text": " I will tell you about key libraries and their uses.  Then I will show you two very interesting real-world applications and case studies that I have compiled.  So let's start.  So here you can see why Python programming language is used by data scientists.  Because it is very intuitive."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 102.80000000000001,
-            "end": 103.80000000000001,
-            "text": " It is easy to understand."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 103.80000000000001,
-            "end": 107.80000000000001,
-            "text": " And along with that, Python's history goes back to 1991."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 107.80000000000001,
-            "end": 111.80000000000001,
-            "text": " When Guido Van Roussam started this project in late 1980s."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 111.92,
-            "end": 115.92,
-            "text": " In 1991, he gave an official release of it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 115.92,
             "end": 118.92,
-            "text": " In 1992, the programming language was stable."
+            "text": " It is easy to understand.  And along with that, Python's history goes back to 1991.  When Guido Van Roussam started this project in late 1980s.  In 1991, he gave an official release of it.  In 1992, the programming language was stable."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 118.92,
-            "end": 120.92,
-            "text": " And then the rest is history."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 120.92,
-            "end": 123.92,
-            "text": " And it was said that Python 2 was very popular."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 123.92,
-            "end": 127.92,
-            "text": " There was a lot of development in Python 2."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 127.92,
-            "end": 129.92,
-            "text": " And then what happened?"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 129.92,
             "end": 131.92,
-            "text": " There were some major problems in Python 2."
+            "text": " And then the rest is history.  And it was said that Python 2 was very popular.  There was a lot of development in Python 2.  And then what happened?  There were some major problems in Python 2."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 131.92,
-            "end": 133.92,
-            "text": " Like the print take function was not there."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 133.92,
-            "end": 136.92,
-            "text": " There were many other things that we had to separate."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 136.92,
-            "end": 140.92,
-            "text": " A major rewrite of Python, Python 2-3."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 140.92,
-            "end": 143.92,
-            "text": " The transition of 2-3 was a big transition."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 143.92,
             "end": 146.92,
-            "text": " And then there were small updates of Python."
+            "text": " Like the print take function was not there.  There were many other things that we had to separate.  A major rewrite of Python, Python 2-3.  The transition of 2-3 was a big transition.  And then there were small updates of Python."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 146.92,
-            "end": 150.92,
-            "text": " Like in F-Strengths, which is a way to write strings well."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 150.92,
-            "end": 152.92,
-            "text": " We will see that in this refresher."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 152.92,
-            "end": 154.92,
-            "text": " But Python is a very good programming language."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 154.92,
-            "end": 157.92,
-            "text": " And today, it is a very stable programming language."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 157.92,
             "end": 161.92,
-            "text": " And AI and machine learning and data science is a proven programming language."
+            "text": " Like in F-Strengths, which is a way to write strings well.  We will see that in this refresher.  But Python is a very good programming language.  And today, it is a very stable programming language.  And AI and machine learning and data science is a proven programming language."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 161.92,
-            "end": 164.92,
-            "text": " If you want to do anything related to data science."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 164.92,
-            "end": 166.92,
-            "text": " If you want to do anything related to machine learning."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 166.92,
-            "end": 167.92,
-            "text": " This is the language for you."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 167.92,
-            "end": 169.92,
-            "text": " So Python is a very good language."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 169.92,
             "end": 172.92,
-            "text": " The key characteristics of this is dynamic typing."
+            "text": " If you want to do anything related to data science.  If you want to do anything related to machine learning.  This is the language for you.  So Python is a very good language.  The key characteristics of this is dynamic typing."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 172.92,
-            "end": 174.92,
-            "text": " You don't have to type."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 174.92,
-            "end": 176.92,
-            "text": " If you have learnt C in college."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 176.92,
-            "end": 179.92,
-            "text": " You will know that we have to write int,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 179.92,
-            "end": 181.92,
-            "text": " We have to write char."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 181.92,
             "end": 183.92,
-            "text": " We have to tell all these things."
+            "text": " You don't have to type.  If you have learnt C in college.  You will know that we have to write int,  We have to write char.  We have to tell all these things."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 183.92,
-            "end": 185.92,
-            "text": " This variable is of this type."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 185.92,
-            "end": 187.92,
-            "text": " And this can be stored in it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 187.92,
-            "end": 189.92,
-            "text": " There is nothing like this in Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 189.92,
-            "end": 190.92,
-            "text": " Python is very flexible."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 190.92,
             "end": 192.92,
-            "text": " If you write x is equal to 72."
+            "text": " This variable is of this type.  And this can be stored in it.  There is nothing like this in Python.  Python is very flexible.  If you write x is equal to 72."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 192.92,
-            "end": 195.92,
-            "text": " In the next line, you can write Harry in double code."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 195.92,
-            "end": 197.92,
-            "text": " And then the x that is after that."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 197.92,
-            "end": 199.92,
-            "text": " It will start holding the x string."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 199.92,
-            "end": 201.92,
-            "text": " So here, it gives a very big flexibility to Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 201.92,
             "end": 203.92,
-            "text": " It is simple and readable."
+            "text": " In the next line, you can write Harry in double code.  And then the x that is after that.  It will start holding the x string.  So here, it gives a very big flexibility to Python.  It is simple and readable."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 203.92,
-            "end": 206.92,
-            "text": " And the standard library is very extensive."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 206.92,
-            "end": 209.92,
-            "text": " Which means that there are many built-in packages in it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 209.92,
-            "end": 211.92,
-            "text": " So you don't have to go anywhere."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 211.92,
-            "end": 213.92,
-            "text": " You can see a lot of things there."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 213.92,
             "end": 217.92,
-            "text": " Along with this, the extended library is also very good."
+            "text": " And the standard library is very extensive.  Which means that there are many built-in packages in it.  So you don't have to go anywhere.  You can see a lot of things there.  Along with this, the extended library is also very good."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 217.92,
-            "end": 219.92,
-            "text": " For data science, NAMPAI, PANDAS."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 219.92,
-            "end": 222.92,
-            "text": " We will see which other libraries are in it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 222.92,
-            "end": 224.92,
-            "text": " Then the community support is very good."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 224.92,
-            "end": 226.92,
-            "text": " You get to see good conferences."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 226.92,
             "end": 229.92,
-            "text": " Python has a big Picon conference."
+            "text": " For data science, NAMPAI, PANDAS.  We will see which other libraries are in it.  Then the community support is very good.  You get to see good conferences.  Python has a big Picon conference."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 229.92,
-            "end": 231.92,
-            "text": " You can join it too."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 231.92,
-            "end": 234.92,
-            "text": " But again, you will get very good people there."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 234.92,
-            "end": 237.92,
-            "text": " And you will get data science enthusiasts."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 237.92,
-            "end": 240.92,
-            "text": " And I recommend that you go to Python events."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 240.92,
             "end": 242.92,
-            "text": " But again, it is an active community."
+            "text": " You can join it too.  But again, you will get very good people there.  And you will get data science enthusiasts.  And I recommend that you go to Python events.  But again, it is an active community."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 242.92,
-            "end": 244.92,
-            "text": " Talk about online community."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 244.92,
-            "end": 246.92,
-            "text": " Talk about offline conferences."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 246.92,
-            "end": 248.92,
-            "text": " You will get to see that too."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 248.92,
-            "end": 251.92,
-            "text": " Then the resources are very abundant."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 251.92,
             "end": 254.92,
-            "text": " There is so much development in Python."
+            "text": " Talk about online community.  Talk about offline conferences.  You will get to see that too.  Then the resources are very abundant.  There is so much development in Python."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 254.92,
-            "end": 256.91999999999996,
-            "text": " If you search anything,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 256.91999999999996,
-            "end": 258.91999999999996,
-            "text": " Suppose you search that"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 258.91999999999996,
-            "end": 260.91999999999996,
-            "text": " you will get a package for face recognition."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 260.91999999999996,
-            "end": 263.91999999999996,
-            "text": " Suppose you search for machine learning."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 263.91999999999996,
             "end": 267.91999999999996,
-            "text": " Suppose you search a character detector."
+            "text": " If you search anything,  Suppose you search that  you will get a package for face recognition.  Suppose you search for machine learning.  Suppose you search a character detector."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 267.91999999999996,
-            "end": 269.91999999999996,
-            "text": " You have written anything."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 269.91999999999996,
-            "end": 271.91999999999996,
-            "text": " You will get to search for handwriting,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 271.91999999999996,
-            "end": 273.91999999999996,
-            "text": " some programs."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 273.91999999999996,
-            "end": 276.91999999999996,
-            "text": " You will search for anything on the internet."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 276.91999999999996,
             "end": 279.91999999999996,
-            "text": " There is a good chance that you will get it in Python."
+            "text": " You have written anything.  You will get to search for handwriting,  some programs.  You will search for anything on the internet.  There is a good chance that you will get it in Python."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 279.91999999999996,
-            "end": 281.91999999999996,
-            "text": " If you search in C sharp,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 281.92,
-            "end": 284.92,
-            "text": " you may not get a stable library."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 284.92,
-            "end": 286.92,
-            "text": " You can use it in production."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 286.92,
-            "end": 288.92,
-            "text": " At least commercially, you will not be able to use it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 288.92,
             "end": 290.92,
-            "text": " But in Python, you will get well tested,"
+            "text": " If you search in C sharp,  you may not get a stable library.  You can use it in production.  At least commercially, you will not be able to use it.  But in Python, you will get well tested,"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 290.92,
-            "end": 293.92,
-            "text": " well developed, well organized libraries."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 293.92,
-            "end": 297.92,
-            "text": " So these library tools are very abundant in Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 297.92,
-            "end": 299.92,
-            "text": " Then let's talk about the basics."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 299.92,
-            "end": 303.92,
-            "text": " Why is Python's syntax so beautiful?"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 303.92,
             "end": 306.92,
-            "text": " Why is Python's syntax so beautiful?"
+            "text": " well developed, well organized libraries.  So these library tools are very abundant in Python.  Then let's talk about the basics.  Why is Python's syntax so beautiful?  Why is Python's syntax so beautiful?"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 306.92,
-            "end": 308.92,
-            "text": " First of all, it is intuitive."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 308.92,
-            "end": 310.92,
-            "text": " It is a print function."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 310.92,
-            "end": 312.92,
-            "text": " We have written a string in it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 312.92,
-            "end": 315.92,
-            "text": " So it is easy to understand that this statement is going to print."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 315.92,
             "end": 317.92,
-            "text": " You wrote C is equal to A plus B."
+            "text": " First of all, it is intuitive.  It is a print function.  We have written a string in it.  So it is easy to understand that this statement is going to print.  You wrote C is equal to A plus B."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 317.92,
-            "end": 321.92,
-            "text": " There was no int, no care, no static typing."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 321.92,
-            "end": 324.92,
-            "text": " You don't have to mention that it is int, it is care."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 324.92,
-            "end": 326.92,
-            "text": " You don't have to do all that."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 326.92,
-            "end": 328.92,
-            "text": " If someone is reading,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 328.92,
             "end": 330.92,
-            "text": " even if you have learned Python in 10 days,"
+            "text": " There was no int, no care, no static typing.  You don't have to mention that it is int, it is care.  You don't have to do all that.  If someone is reading,  even if you have learned Python in 10 days,"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 330.92,
-            "end": 332.92,
-            "text": " it also works well in Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 332.92,
-            "end": 334.92,
-            "text": " Then indentation is used."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 334.92,
-            "end": 336.92,
-            "text": " It means that there are no blackheads,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 336.92,
-            "end": 338.92,
-            "text": " you can easily indentation,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 338.92,
             "end": 340.92,
-            "text": " that is, you can give some spaces"
+            "text": " it also works well in Python.  Then indentation is used.  It means that there are no blackheads,  you can easily indentation,  that is, you can give some spaces"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 340.92,
-            "end": 342.92,
-            "text": " and enter a particular block."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 342.92,
-            "end": 344.92,
-            "text": " We will see that in Python Refreshion."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 344.92,
-            "end": 346.92,
-            "text": " Now I want to talk about some libraries."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 346.92,
-            "end": 350.92,
-            "text": " And I won't take much time for you to take this introduction."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 350.92,
             "end": 353.92,
-            "text": " I will tell you some libraries that you should know."
+            "text": " and enter a particular block.  We will see that in Python Refreshion.  Now I want to talk about some libraries.  And I won't take much time for you to take this introduction.  I will tell you some libraries that you should know."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 353.92,
-            "end": 354.92,
-            "text": " What does it do?"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 354.92,
-            "end": 357.92,
-            "text": " NumPy is used for numerical computing."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 357.92,
-            "end": 360.92,
-            "text": " And it is used to efficiently handle big arrays."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 360.92,
-            "end": 363.92,
-            "text": " Because Python is a nickname"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 363.92,
             "end": 366.92,
-            "text": " for being a slow programming language."
+            "text": " What does it do?  NumPy is used for numerical computing.  And it is used to efficiently handle big arrays.  Because Python is a nickname  for being a slow programming language."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 366.92,
-            "end": 367.92,
-            "text": " It is very bad name."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 367.92,
-            "end": 369.92,
-            "text": " It is good and intuitive."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 369.92,
-            "end": 370.92,
-            "text": " I didn't do that much praise."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 370.92,
-            "end": 371.92,
-            "text": " It is all about things."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 371.92,
             "end": 373.92,
-            "text": " But it is slow."
+            "text": " It is very bad name.  It is good and intuitive.  I didn't do that much praise.  It is all about things.  But it is slow."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 373.92,
-            "end": 375.92,
-            "text": " You will write in C, it will be fast."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 375.92,
-            "end": 376.92,
-            "text": " It will be slow in Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 376.92,
-            "end": 378.92,
-            "text": " NumPy solves this problem."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 378.92,
-            "end": 380.92,
-            "text": " How to handle arrays well."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 380.92,
             "end": 382.92,
-            "text": " According to this,"
+            "text": " You will write in C, it will be fast.  It will be slow in Python.  NumPy solves this problem.  How to handle arrays well.  According to this,"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 382.92,
-            "end": 385.92,
-            "text": " you are doing computations at a very low level."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 385.92,
-            "end": 387.92,
-            "text": " Then comes the Pandas,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 387.92,
-            "end": 388.92,
-            "text": " data manipulation,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 388.92,
-            "end": 389.92,
-            "text": " reading in CSV,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 389.92,
             "end": 390.92,
-            "text": " writing in CSV,"
+            "text": " you are doing computations at a very low level.  Then comes the Pandas,  data manipulation,  reading in CSV,  writing in CSV,"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 390.92,
-            "end": 392.92,
-            "text": " it is used in all these things."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 392.92,
-            "end": 394.92,
-            "text": " Then comes the Matplotlib,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 394.92,
-            "end": 396.92,
-            "text": " it is used for data visualization."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 396.92,
-            "end": 397.92,
-            "text": " Then comes the C-Bond,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 397.92,
             "end": 400.92,
-            "text": " it is used for statistical data visualization."
+            "text": " it is used in all these things.  Then comes the Matplotlib,  it is used for data visualization.  Then comes the C-Bond,  it is used for statistical data visualization."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 400.92,
-            "end": 402.92,
-            "text": " Then comes the SciPy,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 402.92,
-            "end": 404.92,
-            "text": " it is used for advanced scientific computing."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 404.92,
-            "end": 407.92,
-            "text": " It is used for scikit-learn machine learning and data mining."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 407.92,
-            "end": 410.92,
-            "text": " It is used for deep learning neural networks in TensorFlow."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 410.92,
             "end": 412.92,
-            "text": " It is similar in PyTorch."
+            "text": " Then comes the SciPy,  it is used for advanced scientific computing.  It is used for scikit-learn machine learning and data mining.  It is used for deep learning neural networks in TensorFlow.  It is similar in PyTorch."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 412.92,
-            "end": 414.92,
-            "text": " But PyTorch is different in TensorFlow."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 414.92,
-            "end": 417.92,
-            "text": " And the stats model is for statistical modeling"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 417.92,
-            "end": 418.92,
-            "text": " and hypothesis testing."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 418.92,
-            "end": 419.92,
-            "text": " Then comes the XGBoost,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 419.92,
             "end": 421.92,
-            "text": " it is used for high performance ML models."
+            "text": " But PyTorch is different in TensorFlow.  And the stats model is for statistical modeling  and hypothesis testing.  Then comes the XGBoost,  it is used for high performance ML models."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 421.92,
-            "end": 423.92,
-            "text": " This is also a Python package."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 423.92,
-            "end": 425.92,
-            "text": " Again, you don't have to worry about these."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 425.92,
-            "end": 427.92,
-            "text": " When you use it,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 427.92,
-            "end": 429.92,
-            "text": " you will understand what is the package"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 429.92,
             "end": 431.92,
-            "text": " and what is the work and when"
+            "text": " This is also a Python package.  Again, you don't have to worry about these.  When you use it,  you will understand what is the package  and what is the work and when"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 431.92,
-            "end": 433.92,
-            "text": " and for what particular problem"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 433.92,
-            "end": 435.92,
-            "text": " you have to use which package."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 435.92,
-            "end": 437.92,
-            "text": " All this will be cleared by you."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 437.92,
-            "end": 439.92,
-            "text": " So, you should know about these libraries."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 439.92,
             "end": 442.92,
-            "text": " Now, we have already installed Python."
+            "text": " and for what particular problem  you have to use which package.  All this will be cleared by you.  So, you should know about these libraries.  Now, we have already installed Python."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 442.92,
-            "end": 444.92,
-            "text": " If you follow along,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 444.92,
-            "end": 446.92,
-            "text": " you have a working version of Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 446.92,
-            "end": 448.92,
-            "text": " I will not install Python installer."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 448.92,
-            "end": 450.92,
-            "text": " I will not do it with Python.org."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 450.92,
             "end": 452.92,
-            "text": " The reason for that is, I told you that"
+            "text": " If you follow along,  you have a working version of Python.  I will not install Python installer.  I will not do it with Python.org.  The reason for that is, I told you that"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 452.92,
-            "end": 454.92,
-            "text": " in Jupyter, you get interactive coding."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 454.92,
-            "end": 456.92,
-            "text": " We can write code in chunks."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 456.92,
-            "end": 458.92,
-            "text": " And as we want to do it step by step,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 458.92,
-            "end": 460.92,
-            "text": " we will run the program."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 460.92,
             "end": 462.92,
-            "text": " And if things are step by step,"
+            "text": " in Jupyter, you get interactive coding.  We can write code in chunks.  And as we want to do it step by step,  we will run the program.  And if things are step by step,"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 462.92,
-            "end": 464.92,
-            "text": " it becomes easy."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 464.92,
-            "end": 466.92,
-            "text": " Then, inline display of charts and graphs."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 466.92,
-            "end": 468.92,
-            "text": " A very good feature in the notebook."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 468.92,
-            "end": 470.92,
-            "text": " I made a variable A is equal to something."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 470.92,
             "end": 472.92,
-            "text": " And I made B is equal to something."
+            "text": " it becomes easy.  Then, inline display of charts and graphs.  A very good feature in the notebook.  I made a variable A is equal to something.  And I made B is equal to something."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 472.92,
-            "end": 474.92,
-            "text": " Then I made a data frame."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 474.92,
-            "end": 476.92,
-            "text": " Consider a cup-axle sheet in data frame."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 476.92,
-            "end": 478.92,
-            "text": " I am telling you to give an idea."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 478.92,
-            "end": 480.92,
-            "text": " Consider an excel sheet."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 480.92,
             "end": 482.92,
-            "text": " Like excel data stores."
+            "text": " Then I made a data frame.  Consider a cup-axle sheet in data frame.  I am telling you to give an idea.  Consider an excel sheet.  Like excel data stores."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 482.92,
-            "end": 484.92,
-            "text": " It stores the entire data in a variable."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 484.92,
-            "end": 486.92,
-            "text": " Now, if you want to visualize it,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 486.92,
-            "end": 488.92,
-            "text": " I can write code directly in the cell"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 488.92,
-            "end": 490.92,
-            "text": " and see its graph."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 490.92,
             "end": 492.92,
-            "text": " To do this, I will have to run the entire program"
+            "text": " It stores the entire data in a variable.  Now, if you want to visualize it,  I can write code directly in the cell  and see its graph.  To do this, I will have to run the entire program"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 492.92,
-            "end": 494.92,
-            "text": " in VS code, PyCharm."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 494.92,
-            "end": 496.92,
-            "text": " So, I will want to run the program in chunks"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 496.92,
-            "end": 498.92,
-            "text": " when I am doing data science."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 498.92,
-            "end": 500.92,
-            "text": " After this, in Anaconda,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 500.92,
             "end": 502.92,
-            "text": " many packages are already installed."
+            "text": " in VS code, PyCharm.  So, I will want to run the program in chunks  when I am doing data science.  After this, in Anaconda,  many packages are already installed."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 502.92,
-            "end": 504.92,
-            "text": " I don't need to install anything from the beginning."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 504.92,
-            "end": 506.92,
-            "text": " And I can make a virtual environment"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 506.92,
-            "end": 508.92,
-            "text": " using any Python version."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 508.92,
-            "end": 510.92,
-            "text": " I have shown this to you."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 510.92,
             "end": 512.9200000000001,
-            "text": " Environment management is very easy."
+            "text": " I don't need to install anything from the beginning.  And I can make a virtual environment  using any Python version.  I have shown this to you.  Environment management is very easy."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 512.9200000000001,
-            "end": 514.9200000000001,
-            "text": " Then, shareable notebooks."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 514.9200000000001,
-            "end": 516.9200000000001,
-            "text": " I made an iPython notebook."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 516.9200000000001,
-            "end": 518.9200000000001,
-            "text": " I can export it as a PDF and give it to you in a few days."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 518.9200000000001,
-            "end": 520.9200000000001,
-            "text": " And you can review it again."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 520.9200000000001,
             "end": 522.9200000000001,
-            "text": " You can see it."
+            "text": " Then, shareable notebooks.  I made an iPython notebook.  I can export it as a PDF and give it to you in a few days.  And you can review it again.  You can see it."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 522.9200000000001,
-            "end": 524.9200000000001,
-            "text": " These things make Jupiter and Anaconda"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 524.9200000000001,
-            "end": 526.9200000000001,
-            "text": " very strong for data science."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 526.9200000000001,
-            "end": 528.9200000000001,
-            "text": " Alright."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 528.9200000000001,
-            "end": 530.9200000000001,
-            "text": " So, here are some real world applications."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 530.9200000000001,
             "end": 532.9200000000001,
-            "text": " I will show you the case studies of Python."
+            "text": " These things make Jupiter and Anaconda  very strong for data science.  Alright.  So, here are some real world applications.  I will show you the case studies of Python."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 532.92,
-            "end": 534.92,
-            "text": " Python uses Spotify."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 534.92,
-            "end": 536.92,
-            "text": " Why does it use it?"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 536.92,
-            "end": 538.92,
-            "text": " To do data science machine learning."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 538.92,
-            "end": 540.92,
-            "text": " And to deliver personalized music recommendation."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 540.92,
             "end": 542.92,
-            "text": " It has been using Spotify for years."
+            "text": " Python uses Spotify.  Why does it use it?  To do data science machine learning.  And to deliver personalized music recommendation.  It has been using Spotify for years."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 542.92,
-            "end": 544.92,
-            "text": " It also uses Netflix for its recommendation system."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 544.92,
-            "end": 546.92,
-            "text": " Python uses Dropbox as a core infrastructure."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 546.92,
-            "end": 548.92,
-            "text": " Python has a reliable cloud storage."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 548.92,
-            "end": 550.92,
-            "text": " Dropbox is a reliable cloud storage."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 550.92,
             "end": 552.92,
-            "text": " If you know about Dropbox,"
+            "text": " It also uses Netflix for its recommendation system.  Python uses Dropbox as a core infrastructure.  Python has a reliable cloud storage.  Dropbox is a reliable cloud storage.  If you know about Dropbox,"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 552.92,
-            "end": 554.92,
-            "text": " and the infrastructure is used by Python a lot."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 554.92,
-            "end": 556.92,
-            "text": " Initially, Instagram was written in Python"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 556.92,
-            "end": 558.92,
-            "text": " plus Django."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 558.92,
-            "end": 560.92,
-            "text": " Although, it has big services."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 560.92,
             "end": 562.92,
-            "text": " It has different frameworks."
+            "text": " and the infrastructure is used by Python a lot.  Initially, Instagram was written in Python  plus Django.  Although, it has big services.  It has different frameworks."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 562.92,
-            "end": 564.92,
-            "text": " It is not made in one particular thing."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 564.92,
-            "end": 566.92,
-            "text": " But Python is used with Django."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 566.92,
-            "end": 568.92,
-            "text": " And why is Django used?"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 568.92,
-            "end": 570.92,
-            "text": " So that Python can access"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 570.92,
             "end": 572.92,
-            "text": " the data libraries."
+            "text": " It is not made in one particular thing.  But Python is used with Django.  And why is Django used?  So that Python can access  the data libraries."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 572.92,
-            "end": 574.92,
-            "text": " If I want to use Python packages,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 574.92,
-            "end": 576.92,
-            "text": " what will I do?"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 576.92,
-            "end": 578.92,
-            "text": " Either I will use Django or Flask."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 578.92,
-            "end": 580.92,
-            "text": " Or I will use FastAPI."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 580.92,
             "end": 582.92,
-            "text": " If you don't know what is Django, Flask and FastAPI,"
+            "text": " If I want to use Python packages,  what will I do?  Either I will use Django or Flask.  Or I will use FastAPI.  If you don't know what is Django, Flask and FastAPI,"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 582.92,
-            "end": 584.92,
-            "text": " No need to worry about that."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 584.92,
-            "end": 586.92,
-            "text": " These three frameworks are in Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 586.92,
-            "end": 588.92,
-            "text": " To make web applications."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 588.92,
-            "end": 590.92,
-            "text": " Here, billions of active users"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 590.92,
             "end": 592.92,
-            "text": " use Python on Instagram."
+            "text": " No need to worry about that.  These three frameworks are in Python.  To make web applications.  Here, billions of active users  use Python on Instagram."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 592.92,
-            "end": 594.92,
-            "text": " Moreover, Python uses"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 594.92,
-            "end": 596.92,
-            "text": " its backend services."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 596.92,
-            "end": 598.92,
-            "text": " To use machine learning."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 598.92,
-            "end": 600.92,
-            "text": " Because you get packages like scikit-learn,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 600.92,
             "end": 602.92,
-            "text": " TensorFlow, PyTorch."
+            "text": " Moreover, Python uses  its backend services.  To use machine learning.  Because you get packages like scikit-learn,  TensorFlow, PyTorch."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 602.92,
-            "end": 604.92,
-            "text": " And it uses all this because Python uses it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 604.92,
-            "end": 606.92,
-            "text": " If you want to use Python's packages,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 606.92,
-            "end": 608.92,
-            "text": " it is a good idea to use Python"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 608.92,
-            "end": 610.92,
-            "text": " for the backend."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 610.92,
             "end": 612.92,
-            "text": " These were some case studies for Python."
+            "text": " And it uses all this because Python uses it.  If you want to use Python's packages,  it is a good idea to use Python  for the backend.  These were some case studies for Python."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 612.92,
-            "end": 614.92,
-            "text": " The thing is that Python"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 614.92,
-            "end": 616.92,
-            "text": " is a powerful language for data science."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 616.92,
-            "end": 618.92,
-            "text": " We are going to use these in this course."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 618.92,
-            "end": 620.92,
-            "text": " These are ease of use."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 620.92,
             "end": 622.92,
-            "text": " There are extensive libraries."
+            "text": " The thing is that Python  is a powerful language for data science.  We are going to use these in this course.  These are ease of use.  There are extensive libraries."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 622.92,
-            "end": 624.92,
-            "text": " The Python community is very big."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 624.92,
-            "end": 626.92,
-            "text": " I don't want to take your time."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 626.92,
-            "end": 628.92,
-            "text": " I will refresh you in the coming videos."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 628.92,
-            "end": 630.92,
-            "text": " But I want to point out"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 630.92,
             "end": 632.92,
-            "text": " that if you don't know Python,"
+            "text": " The Python community is very big.  I don't want to take your time.  I will refresh you in the coming videos.  But I want to point out  that if you don't know Python,"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 632.92,
-            "end": 634.92,
-            "text": " then my Udemy course"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 634.92,
-            "end": 636.92,
-            "text": " which you will get here on the screen."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 636.92,
-            "end": 638.92,
-            "text": " You can take the best"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 638.92,
-            "end": 640.92,
-            "text": " by using my YouTube bio"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 640.92,
             "end": 642.92,
-            "text": " or my Instagram bio."
+            "text": " then my Udemy course  which you will get here on the screen.  You can take the best  by using my YouTube bio  or my Instagram bio."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 642.92,
-            "end": 644.92,
-            "text": " So that you get it at a very cheap price."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 644.92,
-            "end": 646.92,
-            "text": " I am going to add many projects here."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 646.92,
-            "end": 648.92,
-            "text": " If you want to learn Python in English"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 648.92,
-            "end": 650.92,
-            "text": " and want to learn up to date,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 650.92,
             "end": 652.92,
-            "text": " then I will recommend you to check out"
+            "text": " So that you get it at a very cheap price.  I am going to add many projects here.  If you want to learn Python in English  and want to learn up to date,  then I will recommend you to check out"
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 652.92,
-            "end": 654.92,
-            "text": " my Udemy course."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 654.92,
-            "end": 656.92,
-            "text": " I am going to add some A.I related projects."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 656.92,
-            "end": 658.92,
-            "text": " These are the pipelines and I will add them soon."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 658.92,
-            "end": 660.92,
-            "text": " You will get updated projects there."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 660.92,
             "end": 662.92,
-            "text": " You can access them."
+            "text": " my Udemy course.  I am going to add some A.I related projects.  These are the pipelines and I will add them soon.  You will get updated projects there.  You can access them."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 662.92,
-            "end": 664.92,
-            "text": " I have already made free courses."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 664.92,
-            "end": 666.92,
-            "text": " If you have a course on Hindi"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 666.92,
-            "end": 668.92,
-            "text": " on YouTube,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 668.92,
-            "end": 670.92,
-            "text": " you can access it."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 670.92,
             "end": 672.92,
-            "text": " Python will come easily."
+            "text": " I have already made free courses.  If you have a course on Hindi  on YouTube,  you can access it.  Python will come easily."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 672.92,
-            "end": 674.92,
-            "text": " Along with that, I will give you a handbook."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 674.92,
-            "end": 676.92,
-            "text": " You will get enough to revise Python."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 676.92,
-            "end": 678.92,
-            "text": " But if you take Udemy course,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 678.92,
-            "end": 680.92,
-            "text": " then there is an extensive handbook"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 680.92,
             "end": 682.92,
-            "text": " of Python."
+            "text": " Along with that, I will give you a handbook.  You will get enough to revise Python.  But if you take Udemy course,  then there is an extensive handbook  of Python."
         },
         {
             "number": "1",
             "title": "Why choose python",
             "start": 682.92,
-            "end": 684.92,
-            "text": " I have written that for a long time."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 684.92,
-            "end": 686.92,
-            "text": " If you access it,"
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 686.92,
-            "end": 688.92,
-            "text": " you can learn from scratch."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 688.92,
-            "end": 690.92,
-            "text": " We will go to the next video."
-        },
-        {
-            "number": "1",
-            "title": "Why choose python",
-            "start": 690.92,
             "end": 692.92,
-            "text": " We will hand on Python."
+            "text": " I have written that for a long time.  If you access it,  you can learn from scratch.  We will go to the next video.  We will hand on Python."
         },
         {
             "number": "1",

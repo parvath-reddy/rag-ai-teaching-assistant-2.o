@@ -1,63 +1,81 @@
-import pandas as pd 
+import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np 
-import joblib 
+import numpy as np
+import joblib
 import requests
+from groq import Groq
+from config import api_key
 
+client = Groq(api_key=api_key)
 
 def create_embedding(text_list):
-    # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
+    """
+    Generate embeddings using Ollama local API.
+    """
     r = requests.post("http://localhost:11434/api/embed", json={
         "model": "bge-m3",
         "input": text_list
     })
-
-    embedding = r.json()["embeddings"] 
+    embedding = r.json()["embeddings"]
     return embedding
 
-def inference(prompt):
-    r = requests.post("http://localhost:11434/api/generate", json={
-        # "model": "deepseek-r1",
-        "model": "llama3.2",
-        "prompt": prompt,
-        "stream": False
-    })
+def inference_groq_stream(prompt):
+    """
+    Generate streamed response from Groq API.
+    Prints content as it arrives.
+    """
+    print("Thinking...\n")
+    stream = client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[{"role": "user", "content": prompt}],
+        stream=True,  # enable streaming
+    )
 
-    response = r.json()
-    print(response)
-    return response
+    final_response = ""
+    for chunk in stream:
+        content = chunk.choices[0].delta.content if chunk.choices[0].delta and chunk.choices[0].delta.content else ""
+        print(content, end="", flush=True)
+        final_response += content
+    print("\n")  # add newline after completion
+    return final_response
 
+
+# Load precomputed embeddings
 df = joblib.load('embeddings.joblib')
 
-
+# Get user query
 incoming_query = input("Ask a Question: ")
-question_embedding = create_embedding([incoming_query])[0] 
 
-# Find similarities of question_embedding with other embeddings
-# print(np.vstack(df['embedding'].values))
-# print(np.vstack(df['embedding']).shape)
+# Generate embedding for the query
+question_embedding = create_embedding([incoming_query])[0]
+
+# Find similarities with precomputed embeddings
 similarities = cosine_similarity(np.vstack(df['embedding']), [question_embedding]).flatten()
-# print(similarities)
+
+# Get top results
 top_results = 5
 max_indx = similarities.argsort()[::-1][0:top_results]
-# print(max_indx)
-new_df = df.loc[max_indx] 
-# print(new_df[["title", "number", "text"]])
+new_df = df.loc[max_indx]
 
-prompt = f'''I am teaching python fundamentals in my data science course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
-
+# Build RAG-style prompt
+prompt = f'''
+I am teaching Python fundamentals in my data science course. 
+Here are video subtitle chunks (title, number, start, end, text):
 {new_df[["title", "number", "start", "end", "text"]].to_json(orient="records")}
 ---------------------------------
 "{incoming_query}"
-User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
+Answer naturally: explain where this topic is taught, mention video number and timestamps,
+and guide the user to go to that particular video. 
+If the question is unrelated to the course, politely say you can only answer course-related questions.
 '''
+
+# Save prompt to file (optional)
 with open("prompt.txt", "w") as f:
     f.write(prompt)
 
-response = inference(prompt)["response"]
-print(response)
+# Get streamed response from Groq API
+response = inference_groq_stream(prompt)
 
-with open("response.txt", "w") as f:
+# Save final answer
+with open("response.txt", "w", encoding="utf-8") as f:
     f.write(response)
-# for index, item in new_df.iterrows():
-#     print(index, item["title"], item["number"], item["text"], item["start"], item["end"])

@@ -1,1 +1,194 @@
-{"chunks": [{"number": "6", "title": "operator precedence", "start": 0.0, "end": 4.0, "text": " Alright guys, now we will see in Python Operator Presidents"}, {"number": "6", "title": "operator precedence", "start": 4.0, "end": 8.0, "text": " which kind of Operator will go into the first Python programming"}, {"number": "6", "title": "operator precedence", "start": 8.0, "end": 10.0, "text": " So you can see I have come to my computer screen"}, {"number": "6", "title": "operator precedence", "start": 10.0, "end": 14.0, "text": " and here I have written an Operator Presidents in Python"}, {"number": "6", "title": "operator precedence", "start": 14.0, "end": 16.0, "text": " I will name it a little better"}, {"number": "6", "title": "operator precedence", "start": 16.0, "end": 18.0, "text": " So I will click here and press F2 and I will write"}, {"number": "6", "title": "operator precedence", "start": 18.0, "end": 24.0, "text": " 05 underscore operator underscore precedence dot ipynv"}, {"number": "6", "title": "operator precedence", "start": 24.0, "end": 27.0, "text": " which is the extension of the IPython notebook"}, {"number": "6", "title": "operator precedence", "start": 27.0, "end": 31.0, "text": " So you don't have to worry about downloading the IPython notebook"}, {"number": "6", "title": "operator precedence", "start": 31.0, "end": 33.0, "text": " just understand the things you want to note down"}, {"number": "6", "title": "operator precedence", "start": 33.0, "end": 37.0, "text": " Now here you can see Operator Presidents works in Python"}, {"number": "6", "title": "operator precedence", "start": 37.0, "end": 39.0, "text": " We have heard about the board mass"}, {"number": "6", "title": "operator precedence", "start": 39.0, "end": 41.0, "text": " If you have studied a little in your childhood"}, {"number": "6", "title": "operator precedence", "start": 41.0, "end": 43.0, "text": " you will know what is the board mass"}, {"number": "6", "title": "operator precedence", "start": 43.0, "end": 47.0, "text": " The board mass means that the bracket is first resolved"}, {"number": "6", "title": "operator precedence", "start": 47.0, "end": 51.0, "text": " then after that the power and the roots are solved"}, {"number": "6", "title": "operator precedence", "start": 51.0, "end": 55.0, "text": " then after that division, then multiplication, then addition"}, {"number": "6", "title": "operator precedence", "start": 55.0, "end": 59.0, "text": " then addition, then subtraction"}, {"number": "6", "title": "operator precedence", "start": 59.0, "end": 63.0, "text": " Similarly, in Python, first the parenthesis is resolved"}, {"number": "6", "title": "operator precedence", "start": 63.0, "end": 65.0, "text": " then the exponents are resolved"}, {"number": "6", "title": "operator precedence", "start": 65.0, "end": 67.0, "text": " then multiplication and division"}, {"number": "6", "title": "operator precedence", "start": 67.0, "end": 69.0, "text": " that is the same of these two"}, {"number": "6", "title": "operator precedence", "start": 69.0, "end": 71.0, "text": " The same is the case with the previous two"}, {"number": "6", "title": "operator precedence", "start": 71.0, "end": 73.0, "text": " which is followed"}, {"number": "6", "title": "operator precedence", "start": 73.0, "end": 75.0, "text": " and then addition and subtraction"}, {"number": "6", "title": "operator precedence", "start": 75.0, "end": 77.0, "text": " So let's look at the example"}, {"number": "6", "title": "operator precedence", "start": 77.0, "end": 81.0, "text": " Suppose the result is equal to 10 plus 2 multiplied by 3"}, {"number": "6", "title": "operator precedence", "start": 81.0, "end": 83.0, "text": " Now here first"}, {"number": "6", "title": "operator precedence", "start": 83.0, "end": 85.0, "text": " multiplication and division if anything is there"}, {"number": "6", "title": "operator precedence", "start": 85.0, "end": 87.0, "text": " then it will be resolved"}, {"number": "6", "title": "operator precedence", "start": 87.0, "end": 89.0, "text": " that is 10 plus 6 and we will get 16"}, {"number": "6", "title": "operator precedence", "start": 89.0, "end": 91.0, "text": " So if I hit shift enter here"}, {"number": "6", "title": "operator precedence", "start": 91.0, "end": 93.0, "text": " and then write the result"}, {"number": "6", "title": "operator precedence", "start": 93.0, "end": 95.0, "text": " then you will get to see that 16 output is already there"}, {"number": "6", "title": "operator precedence", "start": 95.0, "end": 99.0, "text": " If I put a bracket here like this"}, {"number": "6", "title": "operator precedence", "start": 99.0, "end": 101.0, "text": " then 10 plus 2 will be resolved first"}, {"number": "6", "title": "operator precedence", "start": 101.0, "end": 103.0, "text": " and then 3 will be resolved"}, {"number": "6", "title": "operator precedence", "start": 103.0, "end": 107.0, "text": " So here 12 multiplied by 3"}, {"number": "6", "title": "operator precedence", "start": 107.0, "end": 109.0, "text": " which is 36, it will be done"}, {"number": "6", "title": "operator precedence", "start": 109.0, "end": 112.0, "text": " but if we have two operators here"}, {"number": "6", "title": "operator precedence", "start": 112.0, "end": 113.0, "text": " then what will happen?"}, {"number": "6", "title": "operator precedence", "start": 113.0, "end": 115.0, "text": " 2 multiplied by 3"}, {"number": "6", "title": "operator precedence", "start": 115.0, "end": 117.0, "text": " sorry 2 to the power 3 to the power 2"}, {"number": "6", "title": "operator precedence", "start": 117.0, "end": 119.0, "text": " So here first"}, {"number": "6", "title": "operator precedence", "start": 119.0, "end": 122.0, "text": " our rightmost exponentiation will work"}, {"number": "6", "title": "operator precedence", "start": 122.0, "end": 125.0, "text": " So here 3 double star 2 first"}, {"number": "6", "title": "operator precedence", "start": 125.0, "end": 127.0, "text": " then 9 will be done then 2 to the power 9"}, {"number": "6", "title": "operator precedence", "start": 127.0, "end": 129.0, "text": " and 512 will be the result"}, {"number": "6", "title": "operator precedence", "start": 129.0, "end": 131.0, "text": " Now I will write a random thing here"}, {"number": "6", "title": "operator precedence", "start": 131.0, "end": 133.0, "text": " I will write a very random calculation"}, {"number": "6", "title": "operator precedence", "start": 133.0, "end": 137.0, "text": " I know I wrote here 3 divided by 23"}, {"number": "6", "title": "operator precedence", "start": 137.0, "end": 140.0, "text": " after this I wrote 4 minus 2"}, {"number": "6", "title": "operator precedence", "start": 140.0, "end": 143.0, "text": " and now if you ask me what will be the answer to this"}, {"number": "6", "title": "operator precedence", "start": 143.0, "end": 147.0, "text": " and suppose we do the 5 to the power 5 to spice things up"}, {"number": "6", "title": "operator precedence", "start": 147.0, "end": 148.0, "text": " then what will happen?"}, {"number": "6", "title": "operator precedence", "start": 148.0, "end": 150.0, "text": " how will things work here?"}, {"number": "6", "title": "operator precedence", "start": 150.0, "end": 151.0, "text": " So first we will work on exponents"}, {"number": "6", "title": "operator precedence", "start": 151.0, "end": 153.0, "text": " there is no parenthesis"}, {"number": "6", "title": "operator precedence", "start": 153.0, "end": 155.0, "text": " so first we will resolve the exponents"}, {"number": "6", "title": "operator precedence", "start": 155.0, "end": 157.0, "text": " So if I show you the result of this"}, {"number": "6", "title": "operator precedence", "start": 157.0, "end": 158.0, "text": " by entering shift enter"}, {"number": "6", "title": "operator precedence", "start": 158.0, "end": 160.0, "text": " then how it is coming?"}, {"number": "6", "title": "operator precedence", "start": 160.0, "end": 164.0, "text": " So first we will resolve 2 to the power 5"}, {"number": "6", "title": "operator precedence", "start": 164.0, "end": 165.0, "text": " then what will happen?"}, {"number": "6", "title": "operator precedence", "start": 165.0, "end": 167.0, "text": " 2 to the power 5 is 32"}, {"number": "6", "title": "operator precedence", "start": 167.0, "end": 169.0, "text": " so this will be 32"}, {"number": "6", "title": "operator precedence", "start": 169.0, "end": 171.0, "text": " so this will be converted to this"}, {"number": "6", "title": "operator precedence", "start": 171.0, "end": 173.0, "text": " obviously the result will also be same"}, {"number": "6", "title": "operator precedence", "start": 173.0, "end": 175.0, "text": " after this we will see"}, {"number": "6", "title": "operator precedence", "start": 175.0, "end": 178.0, "text": " what is the multiplication division we have here"}, {"number": "6", "title": "operator precedence", "start": 178.0, "end": 180.0, "text": " yes we have multiplication and division"}, {"number": "6", "title": "operator precedence", "start": 180.0, "end": 181.0, "text": " so what will happen here?"}, {"number": "6", "title": "operator precedence", "start": 181.0, "end": 182.0, "text": " that this will go"}, {"number": "6", "title": "operator precedence", "start": 182.0, "end": 184.0, "text": " the first multiplication that is coming first"}, {"number": "6", "title": "operator precedence", "start": 184.0, "end": 186.0, "text": " that is left to right"}, {"number": "6", "title": "operator precedence", "start": 186.0, "end": 188.0, "text": " our left to right multiplication is"}, {"number": "6", "title": "operator precedence", "start": 188.0, "end": 191.0, "text": " so what will happen to 54 multiplied by 3?"}, {"number": "6", "title": "operator precedence", "start": 191.0, "end": 193.0, "text": " 54 multiplied by 3 is 162"}, {"number": "6", "title": "operator precedence", "start": 193.0, "end": 195.0, "text": " so we will replace this with 162"}, {"number": "6", "title": "operator precedence", "start": 195.0, "end": 199.0, "text": " and 162 divided by 23"}, {"number": "6", "title": "operator precedence", "start": 199.0, "end": 201.0, "text": " plus 4 minus 32"}, {"number": "6", "title": "operator precedence", "start": 201.0, "end": 202.0, "text": " this will happen"}, {"number": "6", "title": "operator precedence", "start": 202.0, "end": 205.0, "text": " and after this we will do division"}, {"number": "6", "title": "operator precedence", "start": 205.0, "end": 207.0, "text": " which will be 162 divided by 23"}, {"number": "6", "title": "operator precedence", "start": 207.0, "end": 209.0, "text": " whatever is 162 divided by 23"}, {"number": "6", "title": "operator precedence", "start": 209.0, "end": 211.0, "text": " I will calculate this in a new tab"}, {"number": "6", "title": "operator precedence", "start": 211.0, "end": 213.0, "text": " this is 7.04 something"}, {"number": "6", "title": "operator precedence", "start": 213.0, "end": 215.0, "text": " let us consider 7.04"}, {"number": "6", "title": "operator precedence", "start": 215.0, "end": 217.0, "text": " let us consider it as 7.04"}, {"number": "6", "title": "operator precedence", "start": 217.0, "end": 219.0, "text": " let us consider 7.04"}, {"number": "6", "title": "operator precedence", "start": 219.0, "end": 221.0, "text": " after this we will do"}, {"number": "6", "title": "operator precedence", "start": 221.0, "end": 223.0, "text": " plus 4 minus 32"}, {"number": "6", "title": "operator precedence", "start": 223.0, "end": 225.0, "text": " and after this the calculation is very simple"}, {"number": "6", "title": "operator precedence", "start": 225.0, "end": 228.0, "text": " and this is minus 20.95"}, {"number": "6", "title": "operator precedence", "start": 228.0, "end": 230.0, "text": " something like this has come"}, {"number": "6", "title": "operator precedence", "start": 230.0, "end": 232.0, "text": " so some kind of operator precedence"}, {"number": "6", "title": "operator precedence", "start": 232.0, "end": 234.0, "text": " works in python"}, {"number": "6", "title": "operator precedence", "start": 234.0, "end": 236.0, "text": " so in order of evolution"}, {"number": "6", "title": "operator precedence", "start": 236.0, "end": 238.0, "text": " so the exponentiation is right to left"}, {"number": "6", "title": "operator precedence", "start": 238.0, "end": 240.0, "text": " our left to right does not work"}, {"number": "6", "title": "operator precedence", "start": 240.0, "end": 242.0, "text": " but when we have multiplication division"}, {"number": "6", "title": "operator precedence", "start": 242.0, "end": 244.0, "text": " floor division modules"}, {"number": "6", "title": "operator precedence", "start": 244.0, "end": 246.0, "text": " all these go to left to right"}, {"number": "6", "title": "operator precedence", "start": 246.0, "end": 248.0, "text": " and I have given the example here"}, {"number": "6", "title": "operator precedence", "start": 248.0, "end": 250.0, "text": " you can see it"}, {"number": "6", "title": "operator precedence", "start": 250.0, "end": 252.0, "text": " when you have seen this example"}, {"number": "6", "title": "operator precedence", "start": 252.0, "end": 254.0, "text": " you must have seen why it is going to right to left"}, {"number": "6", "title": "operator precedence", "start": 254.0, "end": 256.0, "text": " the reason is that the exponentiation"}, {"number": "6", "title": "operator precedence", "start": 256.0, "end": 258.0, "text": " goes right to left in python"}, {"number": "6", "title": "operator precedence", "start": 258.0, "end": 260.0, "text": " and this question is very much asked in this interview"}, {"number": "6", "title": "operator precedence", "start": 260.0, "end": 262.0, "text": " people make it wrong"}, {"number": "6", "title": "operator precedence", "start": 262.0, "end": 264.0, "text": " many people make the wrong output"}, {"number": "6", "title": "operator precedence", "start": 264.0, "end": 266.0, "text": " which is not expected from you"}, {"number": "6", "title": "operator precedence", "start": 266.0, "end": 268.0, "text": " as a leader scientist"}, {"number": "6", "title": "operator precedence", "start": 268.0, "end": 270.0, "text": " so you have to keep this in mind"}, {"number": "6", "title": "operator precedence", "start": 270.0, "end": 272.0, "text": " and many people who think"}, {"number": "6", "title": "operator precedence", "start": 272.0, "end": 274.0, "text": " python comes, these are small things"}, {"number": "6", "title": "operator precedence", "start": 274.0, "end": 276.0, "text": " they will get to learn from this python refresher"}, {"number": "6", "title": "operator precedence", "start": 276.0, "end": 278.0, "text": " so if I talk about summary"}, {"number": "6", "title": "operator precedence", "start": 278.0, "end": 280.0, "text": " then the most precedence of exponentiation"}, {"number": "6", "title": "operator precedence", "start": 280.0, "end": 282.0, "text": " is right to left"}, {"number": "6", "title": "operator precedence", "start": 282.0, "end": 284.0, "text": " and our"}, {"number": "6", "title": "operator precedence", "start": 284.0, "end": 286.0, "text": " multiplication division"}, {"number": "6", "title": "operator precedence", "start": 286.0, "end": 288.0, "text": " floor division modules"}, {"number": "6", "title": "operator precedence", "start": 288.0, "end": 290.0, "text": " is lower precedence"}, {"number": "6", "title": "operator precedence", "start": 290.0, "end": 292.0, "text": " from exponentiation and this is left to right"}, {"number": "6", "title": "operator precedence", "start": 292.0, "end": 294.0, "text": " so I hope you are getting"}, {"number": "6", "title": "operator precedence", "start": 294.0, "end": 296.0, "text": " a lot of learning from this python refresher"}, {"number": "6", "title": "operator precedence", "start": 296.0, "end": 298.0, "text": " in the next video"}, {"number": "6", "title": "operator precedence", "start": 298.0, "end": 300.0, "text": " we will understand more details"}, {"number": "6", "title": "operator precedence", "start": 300.0, "end": 302.0, "text": " see you in the next video"}], "text": " Alright guys, now we will see in Python Operator Presidents which kind of Operator will go into the first Python programming So you can see I have come to my computer screen and here I have written an Operator Presidents in Python I will name it a little better So I will click here and press F2 and I will write 05 underscore operator underscore precedence dot ipynv which is the extension of the IPython notebook So you don't have to worry about downloading the IPython notebook just understand the things you want to note down Now here you can see Operator Presidents works in Python We have heard about the board mass If you have studied a little in your childhood you will know what is the board mass The board mass means that the bracket is first resolved then after that the power and the roots are solved then after that division, then multiplication, then addition then addition, then subtraction Similarly, in Python, first the parenthesis is resolved then the exponents are resolved then multiplication and division that is the same of these two The same is the case with the previous two which is followed and then addition and subtraction So let's look at the example Suppose the result is equal to 10 plus 2 multiplied by 3 Now here first multiplication and division if anything is there then it will be resolved that is 10 plus 6 and we will get 16 So if I hit shift enter here and then write the result then you will get to see that 16 output is already there If I put a bracket here like this then 10 plus 2 will be resolved first and then 3 will be resolved So here 12 multiplied by 3 which is 36, it will be done but if we have two operators here then what will happen? 2 multiplied by 3 sorry 2 to the power 3 to the power 2 So here first our rightmost exponentiation will work So here 3 double star 2 first then 9 will be done then 2 to the power 9 and 512 will be the result Now I will write a random thing here I will write a very random calculation I know I wrote here 3 divided by 23 after this I wrote 4 minus 2 and now if you ask me what will be the answer to this and suppose we do the 5 to the power 5 to spice things up then what will happen? how will things work here? So first we will work on exponents there is no parenthesis so first we will resolve the exponents So if I show you the result of this by entering shift enter then how it is coming? So first we will resolve 2 to the power 5 then what will happen? 2 to the power 5 is 32 so this will be 32 so this will be converted to this obviously the result will also be same after this we will see what is the multiplication division we have here yes we have multiplication and division so what will happen here? that this will go the first multiplication that is coming first that is left to right our left to right multiplication is so what will happen to 54 multiplied by 3? 54 multiplied by 3 is 162 so we will replace this with 162 and 162 divided by 23 plus 4 minus 32 this will happen and after this we will do division which will be 162 divided by 23 whatever is 162 divided by 23 I will calculate this in a new tab this is 7.04 something let us consider 7.04 let us consider it as 7.04 let us consider 7.04 after this we will do plus 4 minus 32 and after this the calculation is very simple and this is minus 20.95 something like this has come so some kind of operator precedence works in python so in order of evolution so the exponentiation is right to left our left to right does not work but when we have multiplication division floor division modules all these go to left to right and I have given the example here you can see it when you have seen this example you must have seen why it is going to right to left the reason is that the exponentiation goes right to left in python and this question is very much asked in this interview people make it wrong many people make the wrong output which is not expected from you as a leader scientist so you have to keep this in mind and many people who think python comes, these are small things they will get to learn from this python refresher so if I talk about summary then the most precedence of exponentiation is right to left and our multiplication division floor division modules is lower precedence from exponentiation and this is left to right so I hope you are getting a lot of learning from this python refresher in the next video we will understand more details see you in the next video"}
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 0.0,
+            "end": 16.0,
+            "text": " Alright guys, now we will see in Python Operator Presidents  which kind of Operator will go into the first Python programming  So you can see I have come to my computer screen  and here I have written an Operator Presidents in Python  I will name it a little better"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 16.0,
+            "end": 33.0,
+            "text": " So I will click here and press F2 and I will write  05 underscore operator underscore precedence dot ipynv  which is the extension of the IPython notebook  So you don't have to worry about downloading the IPython notebook  just understand the things you want to note down"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 33.0,
+            "end": 47.0,
+            "text": " Now here you can see Operator Presidents works in Python  We have heard about the board mass  If you have studied a little in your childhood  you will know what is the board mass  The board mass means that the bracket is first resolved"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 47.0,
+            "end": 65.0,
+            "text": " then after that the power and the roots are solved  then after that division, then multiplication, then addition  then addition, then subtraction  Similarly, in Python, first the parenthesis is resolved  then the exponents are resolved"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 65.0,
+            "end": 75.0,
+            "text": " then multiplication and division  that is the same of these two  The same is the case with the previous two  which is followed  and then addition and subtraction"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 75.0,
+            "end": 87.0,
+            "text": " So let's look at the example  Suppose the result is equal to 10 plus 2 multiplied by 3  Now here first  multiplication and division if anything is there  then it will be resolved"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 87.0,
+            "end": 99.0,
+            "text": " that is 10 plus 6 and we will get 16  So if I hit shift enter here  and then write the result  then you will get to see that 16 output is already there  If I put a bracket here like this"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 99.0,
+            "end": 112.0,
+            "text": " then 10 plus 2 will be resolved first  and then 3 will be resolved  So here 12 multiplied by 3  which is 36, it will be done  but if we have two operators here"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 112.0,
+            "end": 122.0,
+            "text": " then what will happen?  2 multiplied by 3  sorry 2 to the power 3 to the power 2  So here first  our rightmost exponentiation will work"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 122.0,
+            "end": 133.0,
+            "text": " So here 3 double star 2 first  then 9 will be done then 2 to the power 9  and 512 will be the result  Now I will write a random thing here  I will write a very random calculation"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 133.0,
+            "end": 148.0,
+            "text": " I know I wrote here 3 divided by 23  after this I wrote 4 minus 2  and now if you ask me what will be the answer to this  and suppose we do the 5 to the power 5 to spice things up  then what will happen?"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 148.0,
+            "end": 157.0,
+            "text": " how will things work here?  So first we will work on exponents  there is no parenthesis  so first we will resolve the exponents  So if I show you the result of this"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 157.0,
+            "end": 167.0,
+            "text": " by entering shift enter  then how it is coming?  So first we will resolve 2 to the power 5  then what will happen?  2 to the power 5 is 32"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 167.0,
+            "end": 178.0,
+            "text": " so this will be 32  so this will be converted to this  obviously the result will also be same  after this we will see  what is the multiplication division we have here"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 178.0,
+            "end": 186.0,
+            "text": " yes we have multiplication and division  so what will happen here?  that this will go  the first multiplication that is coming first  that is left to right"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 186.0,
+            "end": 199.0,
+            "text": " our left to right multiplication is  so what will happen to 54 multiplied by 3?  54 multiplied by 3 is 162  so we will replace this with 162  and 162 divided by 23"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 199.0,
+            "end": 209.0,
+            "text": " plus 4 minus 32  this will happen  and after this we will do division  which will be 162 divided by 23  whatever is 162 divided by 23"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 209.0,
+            "end": 219.0,
+            "text": " I will calculate this in a new tab  this is 7.04 something  let us consider 7.04  let us consider it as 7.04  let us consider 7.04"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 219.0,
+            "end": 230.0,
+            "text": " after this we will do  plus 4 minus 32  and after this the calculation is very simple  and this is minus 20.95  something like this has come"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 230.0,
+            "end": 240.0,
+            "text": " so some kind of operator precedence  works in python  so in order of evolution  so the exponentiation is right to left  our left to right does not work"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 240.0,
+            "end": 250.0,
+            "text": " but when we have multiplication division  floor division modules  all these go to left to right  and I have given the example here  you can see it"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 250.0,
+            "end": 260.0,
+            "text": " when you have seen this example  you must have seen why it is going to right to left  the reason is that the exponentiation  goes right to left in python  and this question is very much asked in this interview"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 260.0,
+            "end": 270.0,
+            "text": " people make it wrong  many people make the wrong output  which is not expected from you  as a leader scientist  so you have to keep this in mind"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 270.0,
+            "end": 280.0,
+            "text": " and many people who think  python comes, these are small things  they will get to learn from this python refresher  so if I talk about summary  then the most precedence of exponentiation"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 280.0,
+            "end": 290.0,
+            "text": " is right to left  and our  multiplication division  floor division modules  is lower precedence"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 290.0,
+            "end": 300.0,
+            "text": " from exponentiation and this is left to right  so I hope you are getting  a lot of learning from this python refresher  in the next video  we will understand more details"
+        },
+        {
+            "number": "6",
+            "title": "operator precedence",
+            "start": 300.0,
+            "end": 302.0,
+            "text": " see you in the next video"
+        }
+    ],
+    "text": " Alright guys, now we will see in Python Operator Presidents which kind of Operator will go into the first Python programming So you can see I have come to my computer screen and here I have written an Operator Presidents in Python I will name it a little better So I will click here and press F2 and I will write 05 underscore operator underscore precedence dot ipynv which is the extension of the IPython notebook So you don't have to worry about downloading the IPython notebook just understand the things you want to note down Now here you can see Operator Presidents works in Python We have heard about the board mass If you have studied a little in your childhood you will know what is the board mass The board mass means that the bracket is first resolved then after that the power and the roots are solved then after that division, then multiplication, then addition then addition, then subtraction Similarly, in Python, first the parenthesis is resolved then the exponents are resolved then multiplication and division that is the same of these two The same is the case with the previous two which is followed and then addition and subtraction So let's look at the example Suppose the result is equal to 10 plus 2 multiplied by 3 Now here first multiplication and division if anything is there then it will be resolved that is 10 plus 6 and we will get 16 So if I hit shift enter here and then write the result then you will get to see that 16 output is already there If I put a bracket here like this then 10 plus 2 will be resolved first and then 3 will be resolved So here 12 multiplied by 3 which is 36, it will be done but if we have two operators here then what will happen? 2 multiplied by 3 sorry 2 to the power 3 to the power 2 So here first our rightmost exponentiation will work So here 3 double star 2 first then 9 will be done then 2 to the power 9 and 512 will be the result Now I will write a random thing here I will write a very random calculation I know I wrote here 3 divided by 23 after this I wrote 4 minus 2 and now if you ask me what will be the answer to this and suppose we do the 5 to the power 5 to spice things up then what will happen? how will things work here? So first we will work on exponents there is no parenthesis so first we will resolve the exponents So if I show you the result of this by entering shift enter then how it is coming? So first we will resolve 2 to the power 5 then what will happen? 2 to the power 5 is 32 so this will be 32 so this will be converted to this obviously the result will also be same after this we will see what is the multiplication division we have here yes we have multiplication and division so what will happen here? that this will go the first multiplication that is coming first that is left to right our left to right multiplication is so what will happen to 54 multiplied by 3? 54 multiplied by 3 is 162 so we will replace this with 162 and 162 divided by 23 plus 4 minus 32 this will happen and after this we will do division which will be 162 divided by 23 whatever is 162 divided by 23 I will calculate this in a new tab this is 7.04 something let us consider 7.04 let us consider it as 7.04 let us consider 7.04 after this we will do plus 4 minus 32 and after this the calculation is very simple and this is minus 20.95 something like this has come so some kind of operator precedence works in python so in order of evolution so the exponentiation is right to left our left to right does not work but when we have multiplication division floor division modules all these go to left to right and I have given the example here you can see it when you have seen this example you must have seen why it is going to right to left the reason is that the exponentiation goes right to left in python and this question is very much asked in this interview people make it wrong many people make the wrong output which is not expected from you as a leader scientist so you have to keep this in mind and many people who think python comes, these are small things they will get to learn from this python refresher so if I talk about summary then the most precedence of exponentiation is right to left and our multiplication division floor division modules is lower precedence from exponentiation and this is left to right so I hope you are getting a lot of learning from this python refresher in the next video we will understand more details see you in the next video"
+}

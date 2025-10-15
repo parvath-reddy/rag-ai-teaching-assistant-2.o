@@ -1,1 +1,313 @@
-{"chunks": [{"number": "10", "title": "Loops in python", "start": 0.0, "end": 2.0, "text": " We will talk about Loops in Python"}, {"number": "10", "title": "Loops in python", "start": 2.0, "end": 4.34, "text": " And I will quickly take you to the computer screen"}, {"number": "10", "title": "Loops in python", "start": 4.34, "end": 7.04, "text": " So that we can learn things in very good code"}, {"number": "10", "title": "Loops in python", "start": 7.04, "end": 10.0, "text": " I have made a file named 0900 in the name of Loops"}, {"number": "10", "title": "Loops in python", "start": 10.0, "end": 11.0, "text": " So that you can see"}, {"number": "10", "title": "Loops in python", "start": 11.0, "end": 14.34, "text": " And here we have two types of Mail Loops in Python"}, {"number": "10", "title": "Loops in python", "start": 14.34, "end": 16.740000000000002, "text": " One is For Loop and one is While Loop"}, {"number": "10", "title": "Loops in python", "start": 16.740000000000002, "end": 20.080000000000002, "text": " For Loop means we iterate over a sequence"}, {"number": "10", "title": "Loops in python", "start": 20.080000000000002, "end": 21.84, "text": " If you don't know what the list is"}, {"number": "10", "title": "Loops in python", "start": 21.84, "end": 24.44, "text": " Then you shouldn't look at Python Refreshers"}, {"number": "10", "title": "Loops in python", "start": 24.44, "end": 25.740000000000002, "text": " You should learn a Python code"}, {"number": "10", "title": "Loops in python", "start": 25.740000000000002, "end": 28.94, "text": " So I assume that you know what the list is in Python"}, {"number": "10", "title": "Loops in python", "start": 28.98, "end": 31.580000000000002, "text": " So the collection of different data types is the same"}, {"number": "10", "title": "Loops in python", "start": 31.580000000000002, "end": 33.08, "text": " The same data type can also be done"}, {"number": "10", "title": "Loops in python", "start": 33.08, "end": 35.28, "text": " Here we have taken a list of off-routes"}, {"number": "10", "title": "Loops in python", "start": 35.28, "end": 37.08, "text": " And we can iterate like this"}, {"number": "10", "title": "Loops in python", "start": 37.08, "end": 40.58, "text": " So if I have some numbers, let us say L is equal to"}, {"number": "10", "title": "Loops in python", "start": 40.58, "end": 43.980000000000004, "text": " Here I have written L is equal to 3, 5, 6"}, {"number": "10", "title": "Loops in python", "start": 43.980000000000004, "end": 47.480000000000004, "text": " And one more, let me say 67"}, {"number": "10", "title": "Loops in python", "start": 47.480000000000004, "end": 51.78, "text": " So I can print 4 items in L and print them"}, {"number": "10", "title": "Loops in python", "start": 51.78, "end": 56.480000000000004, "text": " And all the items will be printed in 3, 5, 6 and 67"}, {"number": "10", "title": "Loops in python", "start": 56.519999999999996, "end": 58.519999999999996, "text": " This is called I Trating the Loop"}, {"number": "10", "title": "Loops in python", "start": 58.519999999999996, "end": 62.519999999999996, "text": " And I can print all the items by iterating the loop"}, {"number": "10", "title": "Loops in python", "start": 62.519999999999996, "end": 64.52, "text": " Or I can do something else with it"}, {"number": "10", "title": "Loops in python", "start": 64.52, "end": 66.52, "text": " So this is our For Loop"}, {"number": "10", "title": "Loops in python", "start": 66.52, "end": 69.52, "text": " After this we have a For Loop with Range"}, {"number": "10", "title": "Loops in python", "start": 69.52, "end": 73.52, "text": " Let us say I want to print all the numbers from 0 to 100"}, {"number": "10", "title": "Loops in python", "start": 73.52, "end": 76.52, "text": " So I will write For I in Range"}, {"number": "10", "title": "Loops in python", "start": 76.52, "end": 78.52, "text": " And I will do 10 here"}, {"number": "10", "title": "Loops in python", "start": 78.52, "end": 80.52, "text": " And I will print I here"}, {"number": "10", "title": "Loops in python", "start": 80.52, "end": 82.52, "text": " Now the question that will be asked in the interview"}, {"number": "10", "title": "Loops in python", "start": 82.52, "end": 84.52, "text": " Is what will be its output"}, {"number": "10", "title": "Loops in python", "start": 84.56, "end": 86.56, "text": " Its output starts from 0 to 9"}, {"number": "10", "title": "Loops in python", "start": 86.56, "end": 89.56, "text": " Many people tell the answer from 0 to 10"}, {"number": "10", "title": "Loops in python", "start": 89.56, "end": 91.56, "text": " And the answer of the question is wrong"}, {"number": "10", "title": "Loops in python", "start": 91.56, "end": 93.56, "text": " So if I print Shift Enter, it goes from 0 to 9"}, {"number": "10", "title": "Loops in python", "start": 93.56, "end": 97.56, "text": " If you want 10 to 0, you have to write 11 in the range"}, {"number": "10", "title": "Loops in python", "start": 97.56, "end": 99.56, "text": " Like a rule of thumb, you can think that"}, {"number": "10", "title": "Loops in python", "start": 99.56, "end": 103.56, "text": " Range n goes from 0 to n minus 1"}, {"number": "10", "title": "Loops in python", "start": 103.56, "end": 108.56, "text": " And if you want to start from 1, you can do something like this"}, {"number": "10", "title": "Loops in python", "start": 108.56, "end": 111.56, "text": " Like if I in Range 1 comma 10"}, {"number": "10", "title": "Loops in python", "start": 111.60000000000001, "end": 113.60000000000001, "text": " So now it will go from 1 to 9"}, {"number": "10", "title": "Loops in python", "start": 113.60000000000001, "end": 115.60000000000001, "text": " So if I want to run the loop from 1 to 10"}, {"number": "10", "title": "Loops in python", "start": 115.60000000000001, "end": 117.60000000000001, "text": " Then I will do something like this"}, {"number": "10", "title": "Loops in python", "start": 117.60000000000001, "end": 119.60000000000001, "text": " And my loop will go from 1 to 10"}, {"number": "10", "title": "Loops in python", "start": 119.60000000000001, "end": 121.60000000000001, "text": " I can start this loop from 5"}, {"number": "10", "title": "Loops in python", "start": 121.60000000000001, "end": 123.60000000000001, "text": " So I will do 5 comma 11 in the range"}, {"number": "10", "title": "Loops in python", "start": 123.60000000000001, "end": 125.60000000000001, "text": " So it will go from 5 to 10"}, {"number": "10", "title": "Loops in python", "start": 125.60000000000001, "end": 127.6, "text": " And so on"}, {"number": "10", "title": "Loops in python", "start": 127.6, "end": 130.6, "text": " You can iterate till your favorite range"}, {"number": "10", "title": "Loops in python", "start": 130.6, "end": 132.6, "text": " You are saying that"}, {"number": "10", "title": "Loops in python", "start": 132.6, "end": 134.6, "text": " Take 5 to 10"}, {"number": "10", "title": "Loops in python", "start": 134.6, "end": 137.6, "text": " Alright, so this was our For Loop with Range"}, {"number": "10", "title": "Loops in python", "start": 137.6, "end": 139.6, "text": " So For Loop is a very simple thing"}, {"number": "10", "title": "Loops in python", "start": 139.64, "end": 141.64, "text": " It is a very basic thing"}, {"number": "10", "title": "Loops in python", "start": 141.64, "end": 143.64, "text": " You have to iterate a sequence"}, {"number": "10", "title": "Loops in python", "start": 143.64, "end": 147.64, "text": " Or you have to produce a range of numbers"}, {"number": "10", "title": "Loops in python", "start": 147.64, "end": 149.64, "text": " So this is For Loop"}, {"number": "10", "title": "Loops in python", "start": 149.64, "end": 151.64, "text": " Now we will see the While Loop"}, {"number": "10", "title": "Loops in python", "start": 151.64, "end": 153.64, "text": " What is the While Loop"}, {"number": "10", "title": "Loops in python", "start": 153.64, "end": 156.64, "text": " The While Loop is a loop that runs as long as the condition is true"}, {"number": "10", "title": "Loops in python", "start": 156.64, "end": 159.64, "text": " For example, here I have initially zeroed the count"}, {"number": "10", "title": "Loops in python", "start": 159.64, "end": 161.64, "text": " Then I am saying that until the count is smaller than 3"}, {"number": "10", "title": "Loops in python", "start": 161.64, "end": 163.64, "text": " While count is less than 3"}, {"number": "10", "title": "Loops in python", "start": 163.64, "end": 165.64, "text": " You print it"}, {"number": "10", "title": "Loops in python", "start": 165.64, "end": 167.64, "text": " And along with that, I am updating the count"}, {"number": "10", "title": "Loops in python", "start": 167.67999999999998, "end": 169.67999999999998, "text": " I am increasing the count from 1"}, {"number": "10", "title": "Loops in python", "start": 169.67999999999998, "end": 171.67999999999998, "text": " So initially the count value was zero"}, {"number": "10", "title": "Loops in python", "start": 171.67999999999998, "end": 173.67999999999998, "text": " Count is less than 3"}, {"number": "10", "title": "Loops in python", "start": 173.67999999999998, "end": 175.67999999999998, "text": " Yes, then it will go into the loop"}, {"number": "10", "title": "Loops in python", "start": 175.67999999999998, "end": 177.67999999999998, "text": " It will print the count which is zero"}, {"number": "10", "title": "Loops in python", "start": 177.67999999999998, "end": 179.67999999999998, "text": " And after that it will make the count one"}, {"number": "10", "title": "Loops in python", "start": 179.67999999999998, "end": 181.67999999999998, "text": " Then it will run again"}, {"number": "10", "title": "Loops in python", "start": 181.67999999999998, "end": 183.67999999999998, "text": " What is 1 less than 3"}, {"number": "10", "title": "Loops in python", "start": 183.67999999999998, "end": 185.67999999999998, "text": " Yes, it will be one print"}, {"number": "10", "title": "Loops in python", "start": 185.67999999999998, "end": 187.67999999999998, "text": " It will make the count 2"}, {"number": "10", "title": "Loops in python", "start": 187.67999999999998, "end": 189.67999999999998, "text": " It will run again"}, {"number": "10", "title": "Loops in python", "start": 189.67999999999998, "end": 191.67999999999998, "text": " What is 2 less than 3"}, {"number": "10", "title": "Loops in python", "start": 191.67999999999998, "end": 193.67999999999998, "text": " Yes, it will print the count"}, {"number": "10", "title": "Loops in python", "start": 193.67999999999998, "end": 195.67999999999998, "text": " Which is 2"}, {"number": "10", "title": "Loops in python", "start": 195.72, "end": 197.72, "text": " It will stop the loop"}, {"number": "10", "title": "Loops in python", "start": 197.72, "end": 199.72, "text": " And the loop execution will end"}, {"number": "10", "title": "Loops in python", "start": 199.72, "end": 201.72, "text": " And this output will come"}, {"number": "10", "title": "Loops in python", "start": 201.72, "end": 203.72, "text": " So this is how the While Loop works"}, {"number": "10", "title": "Loops in python", "start": 203.72, "end": 205.72, "text": " So if I write a While Loop example"}, {"number": "10", "title": "Loops in python", "start": 205.72, "end": 207.72, "text": " I will write"}, {"number": "10", "title": "Loops in python", "start": 207.72, "end": 209.72, "text": " While I is less than 12"}, {"number": "10", "title": "Loops in python", "start": 209.72, "end": 211.72, "text": " I will say print I"}, {"number": "10", "title": "Loops in python", "start": 211.72, "end": 213.72, "text": " No, not I"}, {"number": "10", "title": "Loops in python", "start": 213.72, "end": 215.72, "text": " And I will write"}, {"number": "10", "title": "Loops in python", "start": 215.72, "end": 217.72, "text": " I is equal to I plus 1"}, {"number": "10", "title": "Loops in python", "start": 217.72, "end": 219.72, "text": " And I will initialize it from zero"}, {"number": "10", "title": "Loops in python", "start": 219.72, "end": 221.72, "text": " And try to guess the output"}, {"number": "10", "title": "Loops in python", "start": 221.72, "end": 223.72, "text": " by yourself"}, {"number": "10", "title": "Loops in python", "start": 223.76, "end": 225.76, "text": " So here I have written I is equal to zero"}, {"number": "10", "title": "Loops in python", "start": 225.76, "end": 227.76, "text": " So it will run from zero"}, {"number": "10", "title": "Loops in python", "start": 227.76, "end": 229.76, "text": " And the I value will increase"}, {"number": "10", "title": "Loops in python", "start": 229.76, "end": 231.76, "text": " Finally I value will be 11"}, {"number": "10", "title": "Loops in python", "start": 231.76, "end": 233.76, "text": " So 11 will be less than 12"}, {"number": "10", "title": "Loops in python", "start": 233.76, "end": 235.76, "text": " And 11 will be printed"}, {"number": "10", "title": "Loops in python", "start": 235.76, "end": 237.76, "text": " Then I value will be 12"}, {"number": "10", "title": "Loops in python", "start": 237.76, "end": 239.76, "text": " So it will go from zero to 11"}, {"number": "10", "title": "Loops in python", "start": 239.76, "end": 241.76, "text": " So you should do its dry run"}, {"number": "10", "title": "Loops in python", "start": 241.76, "end": 243.76, "text": " And try to understand how it works"}, {"number": "10", "title": "Loops in python", "start": 243.76, "end": 245.76, "text": " Because it is very essential"}, {"number": "10", "title": "Loops in python", "start": 245.76, "end": 247.76, "text": " For you to understand"}, {"number": "10", "title": "Loops in python", "start": 247.76, "end": 249.76, "text": " How it works"}, {"number": "10", "title": "Loops in python", "start": 249.76, "end": 251.76, "text": " Awesome, so this is our While Loop"}, {"number": "10", "title": "Loops in python", "start": 251.79999999999998, "end": 253.79999999999998, "text": " Now we understand about Loop Control Statements"}, {"number": "10", "title": "Loops in python", "start": 253.79999999999998, "end": 255.79999999999998, "text": " Which is Break, Continue and Pass"}, {"number": "10", "title": "Loops in python", "start": 255.79999999999998, "end": 257.8, "text": " Sometimes I have to write Loop"}, {"number": "10", "title": "Loops in python", "start": 257.8, "end": 259.8, "text": " I wrote For, Item and L"}, {"number": "10", "title": "Loops in python", "start": 259.8, "end": 261.8, "text": " And I want to see it later"}, {"number": "10", "title": "Loops in python", "start": 261.8, "end": 263.8, "text": " I want to put it"}, {"number": "10", "title": "Loops in python", "start": 263.8, "end": 265.8, "text": " I want to say that I will write this loop later"}, {"number": "10", "title": "Loops in python", "start": 265.8, "end": 267.8, "text": " Let's do something else"}, {"number": "10", "title": "Loops in python", "start": 267.8, "end": 269.8, "text": " So if I leave it like this"}, {"number": "10", "title": "Loops in python", "start": 269.8, "end": 271.8, "text": " And I start writing my code"}, {"number": "10", "title": "Loops in python", "start": 271.8, "end": 273.8, "text": " So what will happen"}, {"number": "10", "title": "Loops in python", "start": 273.8, "end": 275.8, "text": " I will execute it, so this will be the error"}, {"number": "10", "title": "Loops in python", "start": 275.8, "end": 277.8, "text": " But I want to write this loop later"}, {"number": "10", "title": "Loops in python", "start": 277.8, "end": 279.8, "text": " So I can write Pass"}, {"number": "10", "title": "Loops in python", "start": 279.84000000000003, "end": 281.84000000000003, "text": " And Pass means do nothing"}, {"number": "10", "title": "Loops in python", "start": 281.84000000000003, "end": 283.84000000000003, "text": " Pass means do nothing"}, {"number": "10", "title": "Loops in python", "start": 283.84000000000003, "end": 285.84000000000003, "text": " So I can do it like this"}, {"number": "10", "title": "Loops in python", "start": 285.84000000000003, "end": 287.84000000000003, "text": " I can put it in function"}, {"number": "10", "title": "Loops in python", "start": 287.84000000000003, "end": 289.84000000000003, "text": " I can put it in loops"}, {"number": "10", "title": "Loops in python", "start": 289.84000000000003, "end": 291.84000000000003, "text": " So Pass means do nothing"}, {"number": "10", "title": "Loops in python", "start": 291.84000000000003, "end": 293.84000000000003, "text": " Pass it"}, {"number": "10", "title": "Loops in python", "start": 293.84000000000003, "end": 295.84000000000003, "text": " And here"}, {"number": "10", "title": "Loops in python", "start": 295.84000000000003, "end": 297.84000000000003, "text": " Print Hello"}, {"number": "10", "title": "Loops in python", "start": 297.84000000000003, "end": 299.84000000000003, "text": " Awesome"}, {"number": "10", "title": "Loops in python", "start": 299.84000000000003, "end": 301.84000000000003, "text": " We have a Break statement"}, {"number": "10", "title": "Loops in python", "start": 301.84000000000003, "end": 303.84000000000003, "text": " Like I have a loop"}, {"number": "10", "title": "Loops in python", "start": 303.84000000000003, "end": 305.84000000000003, "text": " For one list L is equal to"}, {"number": "10", "title": "Loops in python", "start": 305.84000000000003, "end": 307.84000000000003, "text": " We have apples"}, {"number": "10", "title": "Loops in python", "start": 307.84000000000003, "end": 308.84000000000003, "text": " Bananas"}, {"number": "10", "title": "Loops in python", "start": 308.88, "end": 311.88, "text": " And then tomatoes"}, {"number": "10", "title": "Loops in python", "start": 311.88, "end": 313.88, "text": " And"}, {"number": "10", "title": "Loops in python", "start": 313.88, "end": 315.88, "text": " I want"}, {"number": "10", "title": "Loops in python", "start": 315.88, "end": 317.88, "text": " For, Item and L"}, {"number": "10", "title": "Loops in python", "start": 317.88, "end": 319.88, "text": " And I want"}, {"number": "10", "title": "Loops in python", "start": 319.88, "end": 321.88, "text": " Print Item"}, {"number": "10", "title": "Loops in python", "start": 321.88, "end": 323.88, "text": " Print Item"}, {"number": "10", "title": "Loops in python", "start": 323.88, "end": 325.88, "text": " If I enter Shift, all these will be printed"}, {"number": "10", "title": "Loops in python", "start": 325.88, "end": 327.88, "text": " But I want"}, {"number": "10", "title": "Loops in python", "start": 327.88, "end": 329.88, "text": " If the item is Bananas"}, {"number": "10", "title": "Loops in python", "start": 329.88, "end": 331.88, "text": " Then stop there"}, {"number": "10", "title": "Loops in python", "start": 331.88, "end": 333.88, "text": " And finish the execution of the loop"}, {"number": "10", "title": "Loops in python", "start": 333.88, "end": 335.88, "text": " So I can write"}, {"number": "10", "title": "Loops in python", "start": 335.92, "end": 337.92, "text": " If Item is equal to"}, {"number": "10", "title": "Loops in python", "start": 337.92, "end": 339.92, "text": " Equals to Bananas"}, {"number": "10", "title": "Loops in python", "start": 339.92, "end": 341.92, "text": " So what I want to do"}, {"number": "10", "title": "Loops in python", "start": 341.92, "end": 343.92, "text": " I want to do a Break"}, {"number": "10", "title": "Loops in python", "start": 343.92, "end": 345.92, "text": " So I have said"}, {"number": "10", "title": "Loops in python", "start": 345.92, "end": 347.92, "text": " For Item and L"}, {"number": "10", "title": "Loops in python", "start": 347.92, "end": 349.92, "text": " This condition will be false"}, {"number": "10", "title": "Loops in python", "start": 349.92, "end": 351.92, "text": " Apples will be printed"}, {"number": "10", "title": "Loops in python", "start": 351.92, "end": 353.92, "text": " Bananas will be printed"}, {"number": "10", "title": "Loops in python", "start": 353.92, "end": 355.92, "text": " This condition will be true"}, {"number": "10", "title": "Loops in python", "start": 355.92, "end": 357.92, "text": " And this will be a Break"}, {"number": "10", "title": "Loops in python", "start": 357.92, "end": 359.92, "text": " This means finish the loop here"}, {"number": "10", "title": "Loops in python", "start": 359.92, "end": 361.92, "text": " And don't execute it"}, {"number": "10", "title": "Loops in python", "start": 361.92, "end": 363.92, "text": " So I will enter Shift"}, {"number": "10", "title": "Loops in python", "start": 363.96000000000004, "end": 365.96000000000004, "text": " I have already done the Break"}, {"number": "10", "title": "Loops in python", "start": 365.96000000000004, "end": 367.96000000000004, "text": " Now if I continue"}, {"number": "10", "title": "Loops in python", "start": 367.96000000000004, "end": 369.96000000000004, "text": " The case of Continue"}, {"number": "10", "title": "Loops in python", "start": 369.96000000000004, "end": 371.96000000000004, "text": " It happens like this"}, {"number": "10", "title": "Loops in python", "start": 371.96000000000004, "end": 373.96000000000004, "text": " Skip this iteration"}, {"number": "10", "title": "Loops in python", "start": 373.96000000000004, "end": 375.96000000000004, "text": " So what does Break mean?"}, {"number": "10", "title": "Loops in python", "start": 375.96000000000004, "end": 377.96000000000004, "text": " I write it here"}, {"number": "10", "title": "Loops in python", "start": 377.96000000000004, "end": 379.96000000000004, "text": " So that this notebook will work well"}, {"number": "10", "title": "Loops in python", "start": 379.96000000000004, "end": 381.96000000000004, "text": " For revision"}, {"number": "10", "title": "Loops in python", "start": 381.96000000000004, "end": 383.96000000000004, "text": " I write"}, {"number": "10", "title": "Loops in python", "start": 383.96000000000004, "end": 385.96000000000004, "text": " Stop this loop right here"}, {"number": "10", "title": "Loops in python", "start": 385.96000000000004, "end": 387.96000000000004, "text": " So finish this loop here"}, {"number": "10", "title": "Loops in python", "start": 387.96000000000004, "end": 389.96000000000004, "text": " Pass means"}, {"number": "10", "title": "Loops in python", "start": 389.96000000000004, "end": 391.96000000000004, "text": " Don't do anything"}, {"number": "10", "title": "Loops in python", "start": 392.0, "end": 394.0, "text": " And Continue means"}, {"number": "10", "title": "Loops in python", "start": 394.0, "end": 396.0, "text": " Stop"}, {"number": "10", "title": "Loops in python", "start": 396.0, "end": 398.0, "text": " Stop"}, {"number": "10", "title": "Loops in python", "start": 398.0, "end": 400.0, "text": " This particular"}, {"number": "10", "title": "Loops in python", "start": 400.0, "end": 402.0, "text": " I iteration"}, {"number": "10", "title": "Loops in python", "start": 402.0, "end": 404.0, "text": " Of the loop"}, {"number": "10", "title": "Loops in python", "start": 404.0, "end": 406.0, "text": " So when I continue"}, {"number": "10", "title": "Loops in python", "start": 406.0, "end": 408.0, "text": " I am saying that"}, {"number": "10", "title": "Loops in python", "start": 408.0, "end": 410.0, "text": " Print Apple"}, {"number": "10", "title": "Loops in python", "start": 410.0, "end": 412.0, "text": " Because this condition is false"}, {"number": "10", "title": "Loops in python", "start": 412.0, "end": 414.0, "text": " Then when the item value will be Bananas"}, {"number": "10", "title": "Loops in python", "start": 414.0, "end": 416.0, "text": " Then this condition will be true"}, {"number": "10", "title": "Loops in python", "start": 416.0, "end": 418.0, "text": " And it will continue"}, {"number": "10", "title": "Loops in python", "start": 418.0, "end": 420.0, "text": " Whenever there is a continuous statement"}, {"number": "10", "title": "Loops in python", "start": 420.04, "end": 422.04, "text": " So what will happen?"}, {"number": "10", "title": "Loops in python", "start": 422.04, "end": 424.04, "text": " We skip this iteration"}, {"number": "10", "title": "Loops in python", "start": 424.04, "end": 426.04, "text": " And execute the next iteration"}, {"number": "10", "title": "Loops in python", "start": 426.04, "end": 428.04, "text": " So the iteration of Tomatoes will be executed"}, {"number": "10", "title": "Loops in python", "start": 428.04, "end": 430.04, "text": " And Apples and Tomatoes will be printed"}, {"number": "10", "title": "Loops in python", "start": 430.04, "end": 432.04, "text": " So I skipped Bananas"}, {"number": "10", "title": "Loops in python", "start": 432.04, "end": 434.04, "text": " I write it as Skip"}, {"number": "10", "title": "Loops in python", "start": 434.04, "end": 436.04, "text": " Stop"}, {"number": "10", "title": "Loops in python", "start": 436.04, "end": 438.04, "text": " Skip this particular iteration of the loop"}, {"number": "10", "title": "Loops in python", "start": 438.04, "end": 440.04, "text": " Better wording"}, {"number": "10", "title": "Loops in python", "start": 440.04, "end": 442.04, "text": " So it breaks"}, {"number": "10", "title": "Loops in python", "start": 442.04, "end": 444.04, "text": " Stop this loop"}, {"number": "10", "title": "Loops in python", "start": 444.04, "end": 446.04, "text": " I have written Loop right here"}, {"number": "10", "title": "Loops in python", "start": 446.04, "end": 448.04, "text": " And Continue"}, {"number": "10", "title": "Loops in python", "start": 448.08000000000004, "end": 450.08000000000004, "text": " So let's continue the break"}, {"number": "10", "title": "Loops in python", "start": 450.08000000000004, "end": 452.08000000000004, "text": " And do the pass statements"}, {"number": "10", "title": "Loops in python", "start": 452.08000000000004, "end": 454.08000000000004, "text": " I hope you understood"}, {"number": "10", "title": "Loops in python", "start": 454.08000000000004, "end": 456.08000000000004, "text": " And I could explain"}, {"number": "10", "title": "Loops in python", "start": 456.08000000000004, "end": 458.08000000000004, "text": " How Break works"}, {"number": "10", "title": "Loops in python", "start": 458.08000000000004, "end": 460.08000000000004, "text": " How Continue works"}, {"number": "10", "title": "Loops in python", "start": 460.08000000000004, "end": 462.08000000000004, "text": " How Pass works"}, {"number": "10", "title": "Loops in python", "start": 462.08000000000004, "end": 464.08000000000004, "text": " How Loops works"}, {"number": "10", "title": "Loops in python", "start": 464.08000000000004, "end": 466.08000000000004, "text": " I hope you understand"}, {"number": "10", "title": "Loops in python", "start": 466.08000000000004, "end": 468.08000000000004, "text": " See you in the next video"}], "text": " We will talk about Loops in Python And I will quickly take you to the computer screen So that we can learn things in very good code I have made a file named 0900 in the name of Loops So that you can see And here we have two types of Mail Loops in Python One is For Loop and one is While Loop For Loop means we iterate over a sequence If you don't know what the list is Then you shouldn't look at Python Refreshers You should learn a Python code So I assume that you know what the list is in Python So the collection of different data types is the same The same data type can also be done Here we have taken a list of off-routes And we can iterate like this So if I have some numbers, let us say L is equal to Here I have written L is equal to 3, 5, 6 And one more, let me say 67 So I can print 4 items in L and print them And all the items will be printed in 3, 5, 6 and 67 This is called I Trating the Loop And I can print all the items by iterating the loop Or I can do something else with it So this is our For Loop After this we have a For Loop with Range Let us say I want to print all the numbers from 0 to 100 So I will write For I in Range And I will do 10 here And I will print I here Now the question that will be asked in the interview Is what will be its output Its output starts from 0 to 9 Many people tell the answer from 0 to 10 And the answer of the question is wrong So if I print Shift Enter, it goes from 0 to 9 If you want 10 to 0, you have to write 11 in the range Like a rule of thumb, you can think that Range n goes from 0 to n minus 1 And if you want to start from 1, you can do something like this Like if I in Range 1 comma 10 So now it will go from 1 to 9 So if I want to run the loop from 1 to 10 Then I will do something like this And my loop will go from 1 to 10 I can start this loop from 5 So I will do 5 comma 11 in the range So it will go from 5 to 10 And so on You can iterate till your favorite range You are saying that Take 5 to 10 Alright, so this was our For Loop with Range So For Loop is a very simple thing It is a very basic thing You have to iterate a sequence Or you have to produce a range of numbers So this is For Loop Now we will see the While Loop What is the While Loop The While Loop is a loop that runs as long as the condition is true For example, here I have initially zeroed the count Then I am saying that until the count is smaller than 3 While count is less than 3 You print it And along with that, I am updating the count I am increasing the count from 1 So initially the count value was zero Count is less than 3 Yes, then it will go into the loop It will print the count which is zero And after that it will make the count one Then it will run again What is 1 less than 3 Yes, it will be one print It will make the count 2 It will run again What is 2 less than 3 Yes, it will print the count Which is 2 It will stop the loop And the loop execution will end And this output will come So this is how the While Loop works So if I write a While Loop example I will write While I is less than 12 I will say print I No, not I And I will write I is equal to I plus 1 And I will initialize it from zero And try to guess the output by yourself So here I have written I is equal to zero So it will run from zero And the I value will increase Finally I value will be 11 So 11 will be less than 12 And 11 will be printed Then I value will be 12 So it will go from zero to 11 So you should do its dry run And try to understand how it works Because it is very essential For you to understand How it works Awesome, so this is our While Loop Now we understand about Loop Control Statements Which is Break, Continue and Pass Sometimes I have to write Loop I wrote For, Item and L And I want to see it later I want to put it I want to say that I will write this loop later Let's do something else So if I leave it like this And I start writing my code So what will happen I will execute it, so this will be the error But I want to write this loop later So I can write Pass And Pass means do nothing Pass means do nothing So I can do it like this I can put it in function I can put it in loops So Pass means do nothing Pass it And here Print Hello Awesome We have a Break statement Like I have a loop For one list L is equal to We have apples Bananas And then tomatoes And I want For, Item and L And I want Print Item Print Item If I enter Shift, all these will be printed But I want If the item is Bananas Then stop there And finish the execution of the loop So I can write If Item is equal to Equals to Bananas So what I want to do I want to do a Break So I have said For Item and L This condition will be false Apples will be printed Bananas will be printed This condition will be true And this will be a Break This means finish the loop here And don't execute it So I will enter Shift I have already done the Break Now if I continue The case of Continue It happens like this Skip this iteration So what does Break mean? I write it here So that this notebook will work well For revision I write Stop this loop right here So finish this loop here Pass means Don't do anything And Continue means Stop Stop This particular I iteration Of the loop So when I continue I am saying that Print Apple Because this condition is false Then when the item value will be Bananas Then this condition will be true And it will continue Whenever there is a continuous statement So what will happen? We skip this iteration And execute the next iteration So the iteration of Tomatoes will be executed And Apples and Tomatoes will be printed So I skipped Bananas I write it as Skip Stop Skip this particular iteration of the loop Better wording So it breaks Stop this loop I have written Loop right here And Continue So let's continue the break And do the pass statements I hope you understood And I could explain How Break works How Continue works How Pass works How Loops works I hope you understand See you in the next video"}
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 0.0,
+            "end": 11.0,
+            "text": " We will talk about Loops in Python  And I will quickly take you to the computer screen  So that we can learn things in very good code  I have made a file named 0900 in the name of Loops  So that you can see"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 11.0,
+            "end": 24.44,
+            "text": " And here we have two types of Mail Loops in Python  One is For Loop and one is While Loop  For Loop means we iterate over a sequence  If you don't know what the list is  Then you shouldn't look at Python Refreshers"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 24.44,
+            "end": 35.28,
+            "text": " You should learn a Python code  So I assume that you know what the list is in Python  So the collection of different data types is the same  The same data type can also be done  Here we have taken a list of off-routes"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 35.28,
+            "end": 51.78,
+            "text": " And we can iterate like this  So if I have some numbers, let us say L is equal to  Here I have written L is equal to 3, 5, 6  And one more, let me say 67  So I can print 4 items in L and print them"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 51.78,
+            "end": 66.52,
+            "text": " And all the items will be printed in 3, 5, 6 and 67  This is called I Trating the Loop  And I can print all the items by iterating the loop  Or I can do something else with it  So this is our For Loop"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 66.52,
+            "end": 80.52,
+            "text": " After this we have a For Loop with Range  Let us say I want to print all the numbers from 0 to 100  So I will write For I in Range  And I will do 10 here  And I will print I here"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 80.52,
+            "end": 91.56,
+            "text": " Now the question that will be asked in the interview  Is what will be its output  Its output starts from 0 to 9  Many people tell the answer from 0 to 10  And the answer of the question is wrong"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 91.56,
+            "end": 108.56,
+            "text": " So if I print Shift Enter, it goes from 0 to 9  If you want 10 to 0, you have to write 11 in the range  Like a rule of thumb, you can think that  Range n goes from 0 to n minus 1  And if you want to start from 1, you can do something like this"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 108.56,
+            "end": 119.60000000000001,
+            "text": " Like if I in Range 1 comma 10  So now it will go from 1 to 9  So if I want to run the loop from 1 to 10  Then I will do something like this  And my loop will go from 1 to 10"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 119.60000000000001,
+            "end": 130.6,
+            "text": " I can start this loop from 5  So I will do 5 comma 11 in the range  So it will go from 5 to 10  And so on  You can iterate till your favorite range"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 130.6,
+            "end": 141.64,
+            "text": " You are saying that  Take 5 to 10  Alright, so this was our For Loop with Range  So For Loop is a very simple thing  It is a very basic thing"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 141.64,
+            "end": 153.64,
+            "text": " You have to iterate a sequence  Or you have to produce a range of numbers  So this is For Loop  Now we will see the While Loop  What is the While Loop"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 153.64,
+            "end": 165.64,
+            "text": " The While Loop is a loop that runs as long as the condition is true  For example, here I have initially zeroed the count  Then I am saying that until the count is smaller than 3  While count is less than 3  You print it"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 165.64,
+            "end": 175.67999999999998,
+            "text": " And along with that, I am updating the count  I am increasing the count from 1  So initially the count value was zero  Count is less than 3  Yes, then it will go into the loop"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 175.67999999999998,
+            "end": 185.67999999999998,
+            "text": " It will print the count which is zero  And after that it will make the count one  Then it will run again  What is 1 less than 3  Yes, it will be one print"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 185.67999999999998,
+            "end": 195.67999999999998,
+            "text": " It will make the count 2  It will run again  What is 2 less than 3  Yes, it will print the count  Which is 2"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 195.72,
+            "end": 205.72,
+            "text": " It will stop the loop  And the loop execution will end  And this output will come  So this is how the While Loop works  So if I write a While Loop example"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 205.72,
+            "end": 215.72,
+            "text": " I will write  While I is less than 12  I will say print I  No, not I  And I will write"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 215.72,
+            "end": 225.76,
+            "text": " I is equal to I plus 1  And I will initialize it from zero  And try to guess the output  by yourself  So here I have written I is equal to zero"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 225.76,
+            "end": 235.76,
+            "text": " So it will run from zero  And the I value will increase  Finally I value will be 11  So 11 will be less than 12  And 11 will be printed"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 235.76,
+            "end": 245.76,
+            "text": " Then I value will be 12  So it will go from zero to 11  So you should do its dry run  And try to understand how it works  Because it is very essential"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 245.76,
+            "end": 255.79999999999998,
+            "text": " For you to understand  How it works  Awesome, so this is our While Loop  Now we understand about Loop Control Statements  Which is Break, Continue and Pass"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 255.79999999999998,
+            "end": 265.8,
+            "text": " Sometimes I have to write Loop  I wrote For, Item and L  And I want to see it later  I want to put it  I want to say that I will write this loop later"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 265.8,
+            "end": 275.8,
+            "text": " Let's do something else  So if I leave it like this  And I start writing my code  So what will happen  I will execute it, so this will be the error"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 275.8,
+            "end": 285.84000000000003,
+            "text": " But I want to write this loop later  So I can write Pass  And Pass means do nothing  Pass means do nothing  So I can do it like this"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 285.84000000000003,
+            "end": 295.84000000000003,
+            "text": " I can put it in function  I can put it in loops  So Pass means do nothing  Pass it  And here"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 295.84000000000003,
+            "end": 305.84000000000003,
+            "text": " Print Hello  Awesome  We have a Break statement  Like I have a loop  For one list L is equal to"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 305.84000000000003,
+            "end": 315.88,
+            "text": " We have apples  Bananas  And then tomatoes  And  I want"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 315.88,
+            "end": 325.88,
+            "text": " For, Item and L  And I want  Print Item  Print Item  If I enter Shift, all these will be printed"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 325.88,
+            "end": 335.88,
+            "text": " But I want  If the item is Bananas  Then stop there  And finish the execution of the loop  So I can write"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 335.92,
+            "end": 345.92,
+            "text": " If Item is equal to  Equals to Bananas  So what I want to do  I want to do a Break  So I have said"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 345.92,
+            "end": 355.92,
+            "text": " For Item and L  This condition will be false  Apples will be printed  Bananas will be printed  This condition will be true"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 355.92,
+            "end": 365.96000000000004,
+            "text": " And this will be a Break  This means finish the loop here  And don't execute it  So I will enter Shift  I have already done the Break"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 365.96000000000004,
+            "end": 375.96000000000004,
+            "text": " Now if I continue  The case of Continue  It happens like this  Skip this iteration  So what does Break mean?"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 375.96000000000004,
+            "end": 385.96000000000004,
+            "text": " I write it here  So that this notebook will work well  For revision  I write  Stop this loop right here"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 385.96000000000004,
+            "end": 396.0,
+            "text": " So finish this loop here  Pass means  Don't do anything  And Continue means  Stop"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 396.0,
+            "end": 406.0,
+            "text": " Stop  This particular  I iteration  Of the loop  So when I continue"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 406.0,
+            "end": 416.0,
+            "text": " I am saying that  Print Apple  Because this condition is false  Then when the item value will be Bananas  Then this condition will be true"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 416.0,
+            "end": 426.04,
+            "text": " And it will continue  Whenever there is a continuous statement  So what will happen?  We skip this iteration  And execute the next iteration"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 426.04,
+            "end": 436.04,
+            "text": " So the iteration of Tomatoes will be executed  And Apples and Tomatoes will be printed  So I skipped Bananas  I write it as Skip  Stop"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 436.04,
+            "end": 446.04,
+            "text": " Skip this particular iteration of the loop  Better wording  So it breaks  Stop this loop  I have written Loop right here"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 446.04,
+            "end": 456.08000000000004,
+            "text": " And Continue  So let's continue the break  And do the pass statements  I hope you understood  And I could explain"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 456.08000000000004,
+            "end": 466.08000000000004,
+            "text": " How Break works  How Continue works  How Pass works  How Loops works  I hope you understand"
+        },
+        {
+            "number": "10",
+            "title": "Loops in python",
+            "start": 466.08000000000004,
+            "end": 468.08000000000004,
+            "text": " See you in the next video"
+        }
+    ],
+    "text": " We will talk about Loops in Python And I will quickly take you to the computer screen So that we can learn things in very good code I have made a file named 0900 in the name of Loops So that you can see And here we have two types of Mail Loops in Python One is For Loop and one is While Loop For Loop means we iterate over a sequence If you don't know what the list is Then you shouldn't look at Python Refreshers You should learn a Python code So I assume that you know what the list is in Python So the collection of different data types is the same The same data type can also be done Here we have taken a list of off-routes And we can iterate like this So if I have some numbers, let us say L is equal to Here I have written L is equal to 3, 5, 6 And one more, let me say 67 So I can print 4 items in L and print them And all the items will be printed in 3, 5, 6 and 67 This is called I Trating the Loop And I can print all the items by iterating the loop Or I can do something else with it So this is our For Loop After this we have a For Loop with Range Let us say I want to print all the numbers from 0 to 100 So I will write For I in Range And I will do 10 here And I will print I here Now the question that will be asked in the interview Is what will be its output Its output starts from 0 to 9 Many people tell the answer from 0 to 10 And the answer of the question is wrong So if I print Shift Enter, it goes from 0 to 9 If you want 10 to 0, you have to write 11 in the range Like a rule of thumb, you can think that Range n goes from 0 to n minus 1 And if you want to start from 1, you can do something like this Like if I in Range 1 comma 10 So now it will go from 1 to 9 So if I want to run the loop from 1 to 10 Then I will do something like this And my loop will go from 1 to 10 I can start this loop from 5 So I will do 5 comma 11 in the range So it will go from 5 to 10 And so on You can iterate till your favorite range You are saying that Take 5 to 10 Alright, so this was our For Loop with Range So For Loop is a very simple thing It is a very basic thing You have to iterate a sequence Or you have to produce a range of numbers So this is For Loop Now we will see the While Loop What is the While Loop The While Loop is a loop that runs as long as the condition is true For example, here I have initially zeroed the count Then I am saying that until the count is smaller than 3 While count is less than 3 You print it And along with that, I am updating the count I am increasing the count from 1 So initially the count value was zero Count is less than 3 Yes, then it will go into the loop It will print the count which is zero And after that it will make the count one Then it will run again What is 1 less than 3 Yes, it will be one print It will make the count 2 It will run again What is 2 less than 3 Yes, it will print the count Which is 2 It will stop the loop And the loop execution will end And this output will come So this is how the While Loop works So if I write a While Loop example I will write While I is less than 12 I will say print I No, not I And I will write I is equal to I plus 1 And I will initialize it from zero And try to guess the output by yourself So here I have written I is equal to zero So it will run from zero And the I value will increase Finally I value will be 11 So 11 will be less than 12 And 11 will be printed Then I value will be 12 So it will go from zero to 11 So you should do its dry run And try to understand how it works Because it is very essential For you to understand How it works Awesome, so this is our While Loop Now we understand about Loop Control Statements Which is Break, Continue and Pass Sometimes I have to write Loop I wrote For, Item and L And I want to see it later I want to put it I want to say that I will write this loop later Let's do something else So if I leave it like this And I start writing my code So what will happen I will execute it, so this will be the error But I want to write this loop later So I can write Pass And Pass means do nothing Pass means do nothing So I can do it like this I can put it in function I can put it in loops So Pass means do nothing Pass it And here Print Hello Awesome We have a Break statement Like I have a loop For one list L is equal to We have apples Bananas And then tomatoes And I want For, Item and L And I want Print Item Print Item If I enter Shift, all these will be printed But I want If the item is Bananas Then stop there And finish the execution of the loop So I can write If Item is equal to Equals to Bananas So what I want to do I want to do a Break So I have said For Item and L This condition will be false Apples will be printed Bananas will be printed This condition will be true And this will be a Break This means finish the loop here And don't execute it So I will enter Shift I have already done the Break Now if I continue The case of Continue It happens like this Skip this iteration So what does Break mean? I write it here So that this notebook will work well For revision I write Stop this loop right here So finish this loop here Pass means Don't do anything And Continue means Stop Stop This particular I iteration Of the loop So when I continue I am saying that Print Apple Because this condition is false Then when the item value will be Bananas Then this condition will be true And it will continue Whenever there is a continuous statement So what will happen? We skip this iteration And execute the next iteration So the iteration of Tomatoes will be executed And Apples and Tomatoes will be printed So I skipped Bananas I write it as Skip Stop Skip this particular iteration of the loop Better wording So it breaks Stop this loop I have written Loop right here And Continue So let's continue the break And do the pass statements I hope you understood And I could explain How Break works How Continue works How Pass works How Loops works I hope you understand See you in the next video"
+}

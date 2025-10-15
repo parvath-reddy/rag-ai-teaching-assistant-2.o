@@ -1,1 +1,271 @@
-{"chunks": [{"number": "9", "title": "String formatting and f-strings", "start": 0.0, "end": 5.0, "text": " Today we will see F string score in Python programming"}, {"number": "9", "title": "String formatting and f-strings", "start": 5.0, "end": 8.0, "text": " Let's go into the computer screen and understand things well"}, {"number": "9", "title": "String formatting and f-strings", "start": 8.0, "end": 12.0, "text": " I have already made a Jupyter notebook for you guys"}, {"number": "9", "title": "String formatting and f-strings", "start": 12.0, "end": 17.0, "text": " I will name it as F string and I will tell you about it"}, {"number": "9", "title": "String formatting and f-strings", "start": 17.0, "end": 21.0, "text": " The string is arguably the most used data types in Python"}, {"number": "9", "title": "String formatting and f-strings", "start": 21.0, "end": 25.0, "text": " Now let me explain the meaning of this string"}, {"number": "9", "title": "String formatting and f-strings", "start": 25.0, "end": 29.0, "text": " If you have made a string and you have written s is equal to Harry"}, {"number": "9", "title": "String formatting and f-strings", "start": 29.0, "end": 33.0, "text": " If you want to access it, you can do it this way"}, {"number": "9", "title": "String formatting and f-strings", "start": 33.0, "end": 36.0, "text": " If you do s1, you will get to see it"}, {"number": "9", "title": "String formatting and f-strings", "start": 36.0, "end": 40.0, "text": " If you write s1, you will get to see it this way"}, {"number": "9", "title": "String formatting and f-strings", "start": 40.0, "end": 41.0, "text": " And so on"}, {"number": "9", "title": "String formatting and f-strings", "start": 41.0, "end": 44.0, "text": " But can you do something like this?"}, {"number": "9", "title": "String formatting and f-strings", "start": 44.0, "end": 45.0, "text": " S0 is equal to..."}, {"number": "9", "title": "String formatting and f-strings", "start": 45.0, "end": 47.0, "text": " I can put a second character here"}, {"number": "9", "title": "String formatting and f-strings", "start": 47.0, "end": 48.0, "text": " I can put p here"}, {"number": "9", "title": "String formatting and f-strings", "start": 48.0, "end": 49.0, "text": " You can't"}, {"number": "9", "title": "String formatting and f-strings", "start": 49.0, "end": 52.0, "text": " The reason for that is that string is immutable"}, {"number": "9", "title": "String formatting and f-strings", "start": 52.0, "end": 55.0, "text": " Here you see that string object does not support item assignment"}, {"number": "9", "title": "String formatting and f-strings", "start": 55.0, "end": 56.0, "text": " There is an error"}, {"number": "9", "title": "String formatting and f-strings", "start": 56.0, "end": 57.0, "text": " Why did this error occur?"}, {"number": "9", "title": "String formatting and f-strings", "start": 57.0, "end": 59.0, "text": " Because you can't change the string"}, {"number": "9", "title": "String formatting and f-strings", "start": 59.0, "end": 60.0, "text": " But wait a minute"}, {"number": "9", "title": "String formatting and f-strings", "start": 60.0, "end": 61.0, "text": " We had seen string methods"}, {"number": "9", "title": "String formatting and f-strings", "start": 61.0, "end": 63.0, "text": " We were able to change the string there"}, {"number": "9", "title": "String formatting and f-strings", "start": 63.0, "end": 65.0, "text": " No, we were not able to change the string"}, {"number": "9", "title": "String formatting and f-strings", "start": 65.0, "end": 67.0, "text": " If I had written s is equal to Harry"}, {"number": "9", "title": "String formatting and f-strings", "start": 67.0, "end": 70.0, "text": " And then I have written s.upper"}, {"number": "9", "title": "String formatting and f-strings", "start": 70.0, "end": 73.0, "text": " So here I am not changing the s"}, {"number": "9", "title": "String formatting and f-strings", "start": 73.0, "end": 75.0, "text": " If you print s again"}, {"number": "9", "title": "String formatting and f-strings", "start": 75.0, "end": 77.0, "text": " Then it is the same as s"}, {"number": "9", "title": "String formatting and f-strings", "start": 77.0, "end": 81.0, "text": " A new string makes a new string"}, {"number": "9", "title": "String formatting and f-strings", "start": 81.0, "end": 82.0, "text": " No matter what method it is"}, {"number": "9", "title": "String formatting and f-strings", "start": 82.0, "end": 83.0, "text": " In most of the cases"}, {"number": "9", "title": "String formatting and f-strings", "start": 83.0, "end": 85.0, "text": " If you run any string method"}, {"number": "9", "title": "String formatting and f-strings", "start": 85.0, "end": 88.0, "text": " Then you get a new string"}, {"number": "9", "title": "String formatting and f-strings", "start": 88.0, "end": 91.0, "text": " Which is changed version of original string"}, {"number": "9", "title": "String formatting and f-strings", "start": 91.0, "end": 93.0, "text": " But what is the original string changed?"}, {"number": "9", "title": "String formatting and f-strings", "start": 93.0, "end": 94.0, "text": " The answer is no"}, {"number": "9", "title": "String formatting and f-strings", "start": 94.0, "end": 96.0, "text": " Immutable means that"}, {"number": "9", "title": "String formatting and f-strings", "start": 96.0, "end": 100.0, "text": " In Python, it is impossible to change the string"}, {"number": "9", "title": "String formatting and f-strings", "start": 100.0, "end": 102.0, "text": " You can't change the string"}, {"number": "9", "title": "String formatting and f-strings", "start": 102.0, "end": 104.0, "text": " You can make a new string"}, {"number": "9", "title": "String formatting and f-strings", "start": 104.0, "end": 106.0, "text": " Which will be updated version of this string"}, {"number": "9", "title": "String formatting and f-strings", "start": 106.0, "end": 109.0, "text": " But you can't change existing string"}, {"number": "9", "title": "String formatting and f-strings", "start": 109.0, "end": 112.0, "text": " So it is very important to know this thing for you"}, {"number": "9", "title": "String formatting and f-strings", "start": 112.0, "end": 116.0, "text": " Now we will see how to do string formatting"}, {"number": "9", "title": "String formatting and f-strings", "start": 116.0, "end": 117.0, "text": " Look at this code"}, {"number": "9", "title": "String formatting and f-strings", "start": 117.0, "end": 119.0, "text": " Here we have written name is equal to Alice"}, {"number": "9", "title": "String formatting and f-strings", "start": 119.0, "end": 120.0, "text": " Age is equal to 25"}, {"number": "9", "title": "String formatting and f-strings", "start": 120.0, "end": 122.0, "text": " Now you can see here"}, {"number": "9", "title": "String formatting and f-strings", "start": 122.0, "end": 125.0, "text": " I want my name is Alice and I am 25 years old"}, {"number": "9", "title": "String formatting and f-strings", "start": 125.0, "end": 126.0, "text": " So here it is written"}, {"number": "9", "title": "String formatting and f-strings", "start": 126.0, "end": 129.0, "text": " So for this, there is a format function"}, {"number": "9", "title": "String formatting and f-strings", "start": 129.0, "end": 131.0, "text": " And we run the format in a way that"}, {"number": "9", "title": "String formatting and f-strings", "start": 131.0, "end": 132.0, "text": " You give any string"}, {"number": "9", "title": "String formatting and f-strings", "start": 132.0, "end": 134.0, "text": " You run dot format on it"}, {"number": "9", "title": "String formatting and f-strings", "start": 134.0, "end": 135.0, "text": " And the values you give"}, {"number": "9", "title": "String formatting and f-strings", "start": 135.0, "end": 136.0, "text": " Will be here"}, {"number": "9", "title": "String formatting and f-strings", "start": 136.0, "end": 137.0, "text": " Wherever you have put curly braces"}, {"number": "9", "title": "String formatting and f-strings", "start": 137.0, "end": 138.0, "text": " It will fit there"}, {"number": "9", "title": "String formatting and f-strings", "start": 138.0, "end": 139.0, "text": " Like in this case"}, {"number": "9", "title": "String formatting and f-strings", "start": 139.0, "end": 140.0, "text": " Your new string will be"}, {"number": "9", "title": "String formatting and f-strings", "start": 140.0, "end": 141.0, "text": " My name is Alice and I am 25 years old"}, {"number": "9", "title": "String formatting and f-strings", "start": 141.0, "end": 146.0, "text": " If I want to generate many strings like this"}, {"number": "9", "title": "String formatting and f-strings", "start": 146.0, "end": 148.0, "text": " So what I will have to do is"}, {"number": "9", "title": "String formatting and f-strings", "start": 148.0, "end": 150.0, "text": " I will have to write my name is John"}, {"number": "9", "title": "String formatting and f-strings", "start": 150.0, "end": 151.0, "text": " And my name is John"}, {"number": "9", "title": "String formatting and f-strings", "start": 151.0, "end": 152.0, "text": " I am 25 years old"}, {"number": "9", "title": "String formatting and f-strings", "start": 152.0, "end": 154.0, "text": " Now if you consider that John is 45 or 55"}, {"number": "9", "title": "String formatting and f-strings", "start": 154.0, "end": 156.0, "text": " So if you run it like this"}, {"number": "9", "title": "String formatting and f-strings", "start": 156.0, "end": 157.0, "text": " Then you will get this string change"}, {"number": "9", "title": "String formatting and f-strings", "start": 157.0, "end": 160.0, "text": " So sometimes we have to make a template"}, {"number": "9", "title": "String formatting and f-strings", "start": 160.0, "end": 162.0, "text": " And we have to insert different values in that template"}, {"number": "9", "title": "String formatting and f-strings", "start": 162.0, "end": 165.0, "text": " And for that we use the format method"}, {"number": "9", "title": "String formatting and f-strings", "start": 165.0, "end": 167.0, "text": " So this is an old way"}, {"number": "9", "title": "String formatting and f-strings", "start": 167.0, "end": 168.0, "text": " To do string formatting in Python"}, {"number": "9", "title": "String formatting and f-strings", "start": 168.0, "end": 169.0, "text": " That it works today"}, {"number": "9", "title": "String formatting and f-strings", "start": 169.0, "end": 170.0, "text": " Yes, it works today"}, {"number": "9", "title": "String formatting and f-strings", "start": 170.0, "end": 172.0, "text": " But Python 3.6 onwards"}, {"number": "9", "title": "String formatting and f-strings", "start": 172.0, "end": 174.0, "text": " A very good way came"}, {"number": "9", "title": "String formatting and f-strings", "start": 174.0, "end": 176.0, "text": " And its name is f string"}, {"number": "9", "title": "String formatting and f-strings", "start": 176.0, "end": 177.0, "text": " What we do is"}, {"number": "9", "title": "String formatting and f-strings", "start": 177.0, "end": 181.0, "text": " We will write a statement like this directly"}, {"number": "9", "title": "String formatting and f-strings", "start": 181.0, "end": 182.0, "text": " We will say that"}, {"number": "9", "title": "String formatting and f-strings", "start": 182.0, "end": 183.0, "text": " If you are printing"}, {"number": "9", "title": "String formatting and f-strings", "start": 183.0, "end": 185.0, "text": " So directly write print statement"}, {"number": "9", "title": "String formatting and f-strings", "start": 185.0, "end": 186.0, "text": " Something like this"}, {"number": "9", "title": "String formatting and f-strings", "start": 186.0, "end": 187.0, "text": " And put an f here"}, {"number": "9", "title": "String formatting and f-strings", "start": 187.0, "end": 189.0, "text": " Which has become an f string"}, {"number": "9", "title": "String formatting and f-strings", "start": 189.0, "end": 191.0, "text": " And insert the values here"}, {"number": "9", "title": "String formatting and f-strings", "start": 191.0, "end": 194.0, "text": " For example, I will write the name of the variable here"}, {"number": "9", "title": "String formatting and f-strings", "start": 194.0, "end": 195.0, "text": " My name is name"}, {"number": "9", "title": "String formatting and f-strings", "start": 195.0, "end": 197.0, "text": " And I am age years old"}, {"number": "9", "title": "String formatting and f-strings", "start": 197.0, "end": 199.0, "text": " I will hit shift enter"}, {"number": "9", "title": "String formatting and f-strings", "start": 199.0, "end": 201.0, "text": " So this string will be my variable"}, {"number": "9", "title": "String formatting and f-strings", "start": 201.0, "end": 203.0, "text": " And it will come after printing"}, {"number": "9", "title": "String formatting and f-strings", "start": 203.0, "end": 205.0, "text": " So if you want to insert a variable"}, {"number": "9", "title": "String formatting and f-strings", "start": 205.0, "end": 207.0, "text": " In a string"}, {"number": "9", "title": "String formatting and f-strings", "start": 207.0, "end": 209.0, "text": " Then you can use f string like this"}, {"number": "9", "title": "String formatting and f-strings", "start": 209.0, "end": 211.0, "text": " And that's pretty much about f strings"}, {"number": "9", "title": "String formatting and f-strings", "start": 211.0, "end": 214.0, "text": " You can write an expression in f string"}, {"number": "9", "title": "String formatting and f-strings", "start": 214.0, "end": 216.0, "text": " You can calculate anything here"}, {"number": "9", "title": "String formatting and f-strings", "start": 216.0, "end": 217.0, "text": " A plus B A minus B"}, {"number": "9", "title": "String formatting and f-strings", "start": 217.0, "end": 220.0, "text": " You can do multiplication in this"}, {"number": "9", "title": "String formatting and f-strings", "start": 220.0, "end": 222.0, "text": " You can insert a new variable directly"}, {"number": "9", "title": "String formatting and f-strings", "start": 222.0, "end": 224.0, "text": " You can do all these things"}, {"number": "9", "title": "String formatting and f-strings", "start": 224.0, "end": 226.0, "text": " You can do formatting here"}, {"number": "9", "title": "String formatting and f-strings", "start": 226.0, "end": 228.0, "text": " For example, here you see the value of pi"}, {"number": "9", "title": "String formatting and f-strings", "start": 228.0, "end": 230.0, "text": " 3.14159"}, {"number": "9", "title": "String formatting and f-strings", "start": 230.0, "end": 233.0, "text": " You want to get only 2 decimal places"}, {"number": "9", "title": "String formatting and f-strings", "start": 233.0, "end": 236.0, "text": " So you will write pi and you will write dot 2f"}, {"number": "9", "title": "String formatting and f-strings", "start": 236.0, "end": 238.0, "text": " So you will get only 2 decimal places"}, {"number": "9", "title": "String formatting and f-strings", "start": 238.0, "end": 241.0, "text": " So you can use the variable like this"}, {"number": "9", "title": "String formatting and f-strings", "start": 241.0, "end": 243.0, "text": " You can change the variable and print it"}, {"number": "9", "title": "String formatting and f-strings", "start": 243.0, "end": 246.0, "text": " And you can do this very conveniently"}, {"number": "9", "title": "String formatting and f-strings", "start": 246.0, "end": 247.0, "text": " Now you can see here"}, {"number": "9", "title": "String formatting and f-strings", "start": 247.0, "end": 250.0, "text": " That we can do padding and alignment like this"}, {"number": "9", "title": "String formatting and f-strings", "start": 250.0, "end": 252.0, "text": " I will tell you what this means"}, {"number": "9", "title": "String formatting and f-strings", "start": 252.0, "end": 253.0, "text": " If you will write something like this"}, {"number": "9", "title": "String formatting and f-strings", "start": 253.0, "end": 255.0, "text": " You wrote python"}, {"number": "9", "title": "String formatting and f-strings", "start": 255.0, "end": 257.0, "text": " And you wrote colon"}, {"number": "9", "title": "String formatting and f-strings", "start": 257.0, "end": 259.0, "text": " I will execute a new code"}, {"number": "9", "title": "String formatting and f-strings", "start": 259.0, "end": 261.0, "text": " If I execute this directly"}, {"number": "9", "title": "String formatting and f-strings", "start": 261.0, "end": 263.0, "text": " You will feel what did I do"}, {"number": "9", "title": "String formatting and f-strings", "start": 263.0, "end": 265.0, "text": " This is not printing python"}, {"number": "9", "title": "String formatting and f-strings", "start": 265.0, "end": 267.0, "text": " But if I will show you all these lines"}, {"number": "9", "title": "String formatting and f-strings", "start": 267.0, "end": 269.0, "text": " With one hand, you will know"}, {"number": "9", "title": "String formatting and f-strings", "start": 269.0, "end": 271.0, "text": " Basically, whenever I am writing"}, {"number": "9", "title": "String formatting and f-strings", "start": 271.0, "end": 273.0, "text": " So I am basically saying"}, {"number": "9", "title": "String formatting and f-strings", "start": 273.0, "end": 275.0, "text": " That align left"}, {"number": "9", "title": "String formatting and f-strings", "start": 275.0, "end": 277.0, "text": " That is, align this string"}, {"number": "9", "title": "String formatting and f-strings", "start": 277.0, "end": 278.0, "text": " Align left"}, {"number": "9", "title": "String formatting and f-strings", "start": 278.0, "end": 279.0, "text": " Such that"}, {"number": "9", "title": "String formatting and f-strings", "start": 279.0, "end": 281.0, "text": " This is left in the width of 10 characters"}, {"number": "9", "title": "String formatting and f-strings", "start": 281.0, "end": 283.0, "text": " I will show you these three lines"}, {"number": "9", "title": "String formatting and f-strings", "start": 283.0, "end": 285.0, "text": " Then you will understand easily"}, {"number": "9", "title": "String formatting and f-strings", "start": 285.0, "end": 287.0, "text": " So here we have taken total width of 10 characters"}, {"number": "9", "title": "String formatting and f-strings", "start": 287.0, "end": 289.0, "text": " And within that we are moving python"}, {"number": "9", "title": "String formatting and f-strings", "start": 289.0, "end": 291.0, "text": " Sometimes we are align left"}, {"number": "9", "title": "String formatting and f-strings", "start": 291.0, "end": 292.0, "text": " Sometimes we are align right"}, {"number": "9", "title": "String formatting and f-strings", "start": 292.0, "end": 293.0, "text": " We are align center"}, {"number": "9", "title": "String formatting and f-strings", "start": 293.0, "end": 294.0, "text": " If I will hit shift enter"}, {"number": "9", "title": "String formatting and f-strings", "start": 294.0, "end": 295.0, "text": " You will understand"}, {"number": "9", "title": "String formatting and f-strings", "start": 295.0, "end": 297.0, "text": " This is the width of our 10 characters"}, {"number": "9", "title": "String formatting and f-strings", "start": 297.0, "end": 299.0, "text": " This is the width of our 10 characters"}, {"number": "9", "title": "String formatting and f-strings", "start": 299.0, "end": 301.0, "text": " If you count characters from here, then it will be 10"}, {"number": "9", "title": "String formatting and f-strings", "start": 301.0, "end": 303.0, "text": " Now when I am writing the first line"}, {"number": "9", "title": "String formatting and f-strings", "start": 303.0, "end": 305.0, "text": " I have written the string colon less than 10"}, {"number": "9", "title": "String formatting and f-strings", "start": 305.0, "end": 307.0, "text": " I am saying here that"}, {"number": "9", "title": "String formatting and f-strings", "start": 307.0, "end": 308.0, "text": " Align left"}, {"number": "9", "title": "String formatting and f-strings", "start": 308.0, "end": 311.0, "text": " In a total character width of length 10"}, {"number": "9", "title": "String formatting and f-strings", "start": 311.0, "end": 312.0, "text": " Okay"}, {"number": "9", "title": "String formatting and f-strings", "start": 312.0, "end": 314.0, "text": " And here I have said"}, {"number": "9", "title": "String formatting and f-strings", "start": 314.0, "end": 316.0, "text": " Align center with the width of 10 characters"}, {"number": "9", "title": "String formatting and f-strings", "start": 316.0, "end": 318.0, "text": " So we can align a particular word"}, {"number": "9", "title": "String formatting and f-strings", "start": 318.0, "end": 320.0, "text": " Align left and right"}, {"number": "9", "title": "String formatting and f-strings", "start": 320.0, "end": 322.0, "text": " And such things are very useful"}, {"number": "9", "title": "String formatting and f-strings", "start": 322.0, "end": 324.0, "text": " In command line games"}, {"number": "9", "title": "String formatting and f-strings", "start": 324.0, "end": 326.0, "text": " So you should know this"}, {"number": "9", "title": "String formatting and f-strings", "start": 326.0, "end": 328.0, "text": " Those who have skipped python refreshers"}, {"number": "9", "title": "String formatting and f-strings", "start": 328.0, "end": 330.0, "text": " There is a good chance that they don't know all these things"}, {"number": "9", "title": "String formatting and f-strings", "start": 330.0, "end": 332.0, "text": " So in the beginning I had suggested"}, {"number": "9", "title": "String formatting and f-strings", "start": 332.0, "end": 334.0, "text": " That don't skip lectures"}, {"number": "9", "title": "String formatting and f-strings", "start": 334.0, "end": 336.0, "text": " And don't skip any lectures"}, {"number": "9", "title": "String formatting and f-strings", "start": 336.0, "end": 338.0, "text": " Take time and learn"}, {"number": "9", "title": "String formatting and f-strings", "start": 338.0, "end": 340.0, "text": " So you can learn"}, {"number": "9", "title": "String formatting and f-strings", "start": 340.0, "end": 342.0, "text": " So you can learn"}, {"number": "9", "title": "String formatting and f-strings", "start": 342.0, "end": 344.0, "text": " So you can learn"}, {"number": "9", "title": "String formatting and f-strings", "start": 344.0, "end": 346.0, "text": " So your foundation will be strong"}, {"number": "9", "title": "String formatting and f-strings", "start": 346.0, "end": 348.0, "text": " I hope this video is helpful"}, {"number": "9", "title": "String formatting and f-strings", "start": 348.0, "end": 350.0, "text": " I have written a line here"}, {"number": "9", "title": "String formatting and f-strings", "start": 350.0, "end": 352.0, "text": " Which explains what it is doing"}, {"number": "9", "title": "String formatting and f-strings", "start": 352.0, "end": 354.0, "text": " Column less than 10"}, {"number": "9", "title": "String formatting and f-strings", "start": 354.0, "end": 356.0, "text": " This symbol means"}, {"number": "9", "title": "String formatting and f-strings", "start": 356.0, "end": 359.0, "text": " That left align the text within a total width of 10 characters"}, {"number": "9", "title": "String formatting and f-strings", "start": 359.0, "end": 360.0, "text": " Okay"}, {"number": "9", "title": "String formatting and f-strings", "start": 360.0, "end": 362.0, "text": " And f strings are the most efficient"}, {"number": "9", "title": "String formatting and f-strings", "start": 362.0, "end": 365.0, "text": " And recommended ways of formatting a string in python"}, {"number": "9", "title": "String formatting and f-strings", "start": 365.0, "end": 368.0, "text": " If you want to format strings in modern python"}, {"number": "9", "title": "String formatting and f-strings", "start": 368.0, "end": 371.0, "text": " I will suggest you to use f string"}, {"number": "9", "title": "String formatting and f-strings", "start": 371.0, "end": 373.0, "text": " Don't use dot format"}, {"number": "9", "title": "String formatting and f-strings", "start": 373.0, "end": 375.0, "text": " I am saying directly"}, {"number": "9", "title": "String formatting and f-strings", "start": 375.0, "end": 377.0, "text": " Because f string is an easy and intuitive way"}, {"number": "9", "title": "String formatting and f-strings", "start": 377.0, "end": 379.0, "text": " Easy to read way"}, {"number": "9", "title": "String formatting and f-strings", "start": 379.0, "end": 381.0, "text": " Python 3.6 is introduced"}, {"number": "9", "title": "String formatting and f-strings", "start": 381.0, "end": 383.0, "text": " Which is a very good thing"}, {"number": "9", "title": "String formatting and f-strings", "start": 383.0, "end": 385.0, "text": " I will call python 3.6 old"}, {"number": "9", "title": "String formatting and f-strings", "start": 385.0, "end": 387.0, "text": " There are new versions of python in today's series"}, {"number": "9", "title": "String formatting and f-strings", "start": 387.0, "end": 389.0, "text": " I hope you understood"}, {"number": "9", "title": "String formatting and f-strings", "start": 389.0, "end": 391.0, "text": " See you in the next video"}], "text": " Today we will see F string score in Python programming Let's go into the computer screen and understand things well I have already made a Jupyter notebook for you guys I will name it as F string and I will tell you about it The string is arguably the most used data types in Python Now let me explain the meaning of this string If you have made a string and you have written s is equal to Harry If you want to access it, you can do it this way If you do s1, you will get to see it If you write s1, you will get to see it this way And so on But can you do something like this? S0 is equal to... I can put a second character here I can put p here You can't The reason for that is that string is immutable Here you see that string object does not support item assignment There is an error Why did this error occur? Because you can't change the string But wait a minute We had seen string methods We were able to change the string there No, we were not able to change the string If I had written s is equal to Harry And then I have written s.upper So here I am not changing the s If you print s again Then it is the same as s A new string makes a new string No matter what method it is In most of the cases If you run any string method Then you get a new string Which is changed version of original string But what is the original string changed? The answer is no Immutable means that In Python, it is impossible to change the string You can't change the string You can make a new string Which will be updated version of this string But you can't change existing string So it is very important to know this thing for you Now we will see how to do string formatting Look at this code Here we have written name is equal to Alice Age is equal to 25 Now you can see here I want my name is Alice and I am 25 years old So here it is written So for this, there is a format function And we run the format in a way that You give any string You run dot format on it And the values you give Will be here Wherever you have put curly braces It will fit there Like in this case Your new string will be My name is Alice and I am 25 years old If I want to generate many strings like this So what I will have to do is I will have to write my name is John And my name is John I am 25 years old Now if you consider that John is 45 or 55 So if you run it like this Then you will get this string change So sometimes we have to make a template And we have to insert different values in that template And for that we use the format method So this is an old way To do string formatting in Python That it works today Yes, it works today But Python 3.6 onwards A very good way came And its name is f string What we do is We will write a statement like this directly We will say that If you are printing So directly write print statement Something like this And put an f here Which has become an f string And insert the values here For example, I will write the name of the variable here My name is name And I am age years old I will hit shift enter So this string will be my variable And it will come after printing So if you want to insert a variable In a string Then you can use f string like this And that's pretty much about f strings You can write an expression in f string You can calculate anything here A plus B A minus B You can do multiplication in this You can insert a new variable directly You can do all these things You can do formatting here For example, here you see the value of pi 3.14159 You want to get only 2 decimal places So you will write pi and you will write dot 2f So you will get only 2 decimal places So you can use the variable like this You can change the variable and print it And you can do this very conveniently Now you can see here That we can do padding and alignment like this I will tell you what this means If you will write something like this You wrote python And you wrote colon I will execute a new code If I execute this directly You will feel what did I do This is not printing python But if I will show you all these lines With one hand, you will know Basically, whenever I am writing So I am basically saying That align left That is, align this string Align left Such that This is left in the width of 10 characters I will show you these three lines Then you will understand easily So here we have taken total width of 10 characters And within that we are moving python Sometimes we are align left Sometimes we are align right We are align center If I will hit shift enter You will understand This is the width of our 10 characters This is the width of our 10 characters If you count characters from here, then it will be 10 Now when I am writing the first line I have written the string colon less than 10 I am saying here that Align left In a total character width of length 10 Okay And here I have said Align center with the width of 10 characters So we can align a particular word Align left and right And such things are very useful In command line games So you should know this Those who have skipped python refreshers There is a good chance that they don't know all these things So in the beginning I had suggested That don't skip lectures And don't skip any lectures Take time and learn So you can learn So you can learn So you can learn So your foundation will be strong I hope this video is helpful I have written a line here Which explains what it is doing Column less than 10 This symbol means That left align the text within a total width of 10 characters Okay And f strings are the most efficient And recommended ways of formatting a string in python If you want to format strings in modern python I will suggest you to use f string Don't use dot format I am saying directly Because f string is an easy and intuitive way Easy to read way Python 3.6 is introduced Which is a very good thing I will call python 3.6 old There are new versions of python in today's series I hope you understood See you in the next video"}
+{
+    "chunks": [
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 0.0,
+            "end": 21.0,
+            "text": " Today we will see F string score in Python programming  Let's go into the computer screen and understand things well  I have already made a Jupyter notebook for you guys  I will name it as F string and I will tell you about it  The string is arguably the most used data types in Python"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 21.0,
+            "end": 40.0,
+            "text": " Now let me explain the meaning of this string  If you have made a string and you have written s is equal to Harry  If you want to access it, you can do it this way  If you do s1, you will get to see it  If you write s1, you will get to see it this way"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 40.0,
+            "end": 48.0,
+            "text": " And so on  But can you do something like this?  S0 is equal to...  I can put a second character here  I can put p here"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 48.0,
+            "end": 57.0,
+            "text": " You can't  The reason for that is that string is immutable  Here you see that string object does not support item assignment  There is an error  Why did this error occur?"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 57.0,
+            "end": 65.0,
+            "text": " Because you can't change the string  But wait a minute  We had seen string methods  We were able to change the string there  No, we were not able to change the string"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 65.0,
+            "end": 77.0,
+            "text": " If I had written s is equal to Harry  And then I have written s.upper  So here I am not changing the s  If you print s again  Then it is the same as s"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 77.0,
+            "end": 88.0,
+            "text": " A new string makes a new string  No matter what method it is  In most of the cases  If you run any string method  Then you get a new string"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 88.0,
+            "end": 100.0,
+            "text": " Which is changed version of original string  But what is the original string changed?  The answer is no  Immutable means that  In Python, it is impossible to change the string"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 100.0,
+            "end": 112.0,
+            "text": " You can't change the string  You can make a new string  Which will be updated version of this string  But you can't change existing string  So it is very important to know this thing for you"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 112.0,
+            "end": 122.0,
+            "text": " Now we will see how to do string formatting  Look at this code  Here we have written name is equal to Alice  Age is equal to 25  Now you can see here"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 122.0,
+            "end": 132.0,
+            "text": " I want my name is Alice and I am 25 years old  So here it is written  So for this, there is a format function  And we run the format in a way that  You give any string"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 132.0,
+            "end": 138.0,
+            "text": " You run dot format on it  And the values you give  Will be here  Wherever you have put curly braces  It will fit there"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 138.0,
+            "end": 148.0,
+            "text": " Like in this case  Your new string will be  My name is Alice and I am 25 years old  If I want to generate many strings like this  So what I will have to do is"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 148.0,
+            "end": 156.0,
+            "text": " I will have to write my name is John  And my name is John  I am 25 years old  Now if you consider that John is 45 or 55  So if you run it like this"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 156.0,
+            "end": 167.0,
+            "text": " Then you will get this string change  So sometimes we have to make a template  And we have to insert different values in that template  And for that we use the format method  So this is an old way"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 167.0,
+            "end": 174.0,
+            "text": " To do string formatting in Python  That it works today  Yes, it works today  But Python 3.6 onwards  A very good way came"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 174.0,
+            "end": 183.0,
+            "text": " And its name is f string  What we do is  We will write a statement like this directly  We will say that  If you are printing"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 183.0,
+            "end": 191.0,
+            "text": " So directly write print statement  Something like this  And put an f here  Which has become an f string  And insert the values here"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 191.0,
+            "end": 201.0,
+            "text": " For example, I will write the name of the variable here  My name is name  And I am age years old  I will hit shift enter  So this string will be my variable"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 201.0,
+            "end": 211.0,
+            "text": " And it will come after printing  So if you want to insert a variable  In a string  Then you can use f string like this  And that's pretty much about f strings"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 211.0,
+            "end": 222.0,
+            "text": " You can write an expression in f string  You can calculate anything here  A plus B A minus B  You can do multiplication in this  You can insert a new variable directly"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 222.0,
+            "end": 233.0,
+            "text": " You can do all these things  You can do formatting here  For example, here you see the value of pi  3.14159  You want to get only 2 decimal places"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 233.0,
+            "end": 246.0,
+            "text": " So you will write pi and you will write dot 2f  So you will get only 2 decimal places  So you can use the variable like this  You can change the variable and print it  And you can do this very conveniently"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 246.0,
+            "end": 255.0,
+            "text": " Now you can see here  That we can do padding and alignment like this  I will tell you what this means  If you will write something like this  You wrote python"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 255.0,
+            "end": 265.0,
+            "text": " And you wrote colon  I will execute a new code  If I execute this directly  You will feel what did I do  This is not printing python"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 265.0,
+            "end": 275.0,
+            "text": " But if I will show you all these lines  With one hand, you will know  Basically, whenever I am writing  So I am basically saying  That align left"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 275.0,
+            "end": 283.0,
+            "text": " That is, align this string  Align left  Such that  This is left in the width of 10 characters  I will show you these three lines"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 283.0,
+            "end": 292.0,
+            "text": " Then you will understand easily  So here we have taken total width of 10 characters  And within that we are moving python  Sometimes we are align left  Sometimes we are align right"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 292.0,
+            "end": 299.0,
+            "text": " We are align center  If I will hit shift enter  You will understand  This is the width of our 10 characters  This is the width of our 10 characters"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 299.0,
+            "end": 308.0,
+            "text": " If you count characters from here, then it will be 10  Now when I am writing the first line  I have written the string colon less than 10  I am saying here that  Align left"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 308.0,
+            "end": 318.0,
+            "text": " In a total character width of length 10  Okay  And here I have said  Align center with the width of 10 characters  So we can align a particular word"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 318.0,
+            "end": 328.0,
+            "text": " Align left and right  And such things are very useful  In command line games  So you should know this  Those who have skipped python refreshers"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 328.0,
+            "end": 338.0,
+            "text": " There is a good chance that they don't know all these things  So in the beginning I had suggested  That don't skip lectures  And don't skip any lectures  Take time and learn"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 338.0,
+            "end": 348.0,
+            "text": " So you can learn  So you can learn  So you can learn  So your foundation will be strong  I hope this video is helpful"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 348.0,
+            "end": 359.0,
+            "text": " I have written a line here  Which explains what it is doing  Column less than 10  This symbol means  That left align the text within a total width of 10 characters"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 359.0,
+            "end": 371.0,
+            "text": " Okay  And f strings are the most efficient  And recommended ways of formatting a string in python  If you want to format strings in modern python  I will suggest you to use f string"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 371.0,
+            "end": 381.0,
+            "text": " Don't use dot format  I am saying directly  Because f string is an easy and intuitive way  Easy to read way  Python 3.6 is introduced"
+        },
+        {
+            "number": "9",
+            "title": "String formatting and f-strings",
+            "start": 381.0,
+            "end": 391.0,
+            "text": " Which is a very good thing  I will call python 3.6 old  There are new versions of python in today's series  I hope you understood  See you in the next video"
+        }
+    ],
+    "text": " Today we will see F string score in Python programming Let's go into the computer screen and understand things well I have already made a Jupyter notebook for you guys I will name it as F string and I will tell you about it The string is arguably the most used data types in Python Now let me explain the meaning of this string If you have made a string and you have written s is equal to Harry If you want to access it, you can do it this way If you do s1, you will get to see it If you write s1, you will get to see it this way And so on But can you do something like this? S0 is equal to... I can put a second character here I can put p here You can't The reason for that is that string is immutable Here you see that string object does not support item assignment There is an error Why did this error occur? Because you can't change the string But wait a minute We had seen string methods We were able to change the string there No, we were not able to change the string If I had written s is equal to Harry And then I have written s.upper So here I am not changing the s If you print s again Then it is the same as s A new string makes a new string No matter what method it is In most of the cases If you run any string method Then you get a new string Which is changed version of original string But what is the original string changed? The answer is no Immutable means that In Python, it is impossible to change the string You can't change the string You can make a new string Which will be updated version of this string But you can't change existing string So it is very important to know this thing for you Now we will see how to do string formatting Look at this code Here we have written name is equal to Alice Age is equal to 25 Now you can see here I want my name is Alice and I am 25 years old So here it is written So for this, there is a format function And we run the format in a way that You give any string You run dot format on it And the values you give Will be here Wherever you have put curly braces It will fit there Like in this case Your new string will be My name is Alice and I am 25 years old If I want to generate many strings like this So what I will have to do is I will have to write my name is John And my name is John I am 25 years old Now if you consider that John is 45 or 55 So if you run it like this Then you will get this string change So sometimes we have to make a template And we have to insert different values in that template And for that we use the format method So this is an old way To do string formatting in Python That it works today Yes, it works today But Python 3.6 onwards A very good way came And its name is f string What we do is We will write a statement like this directly We will say that If you are printing So directly write print statement Something like this And put an f here Which has become an f string And insert the values here For example, I will write the name of the variable here My name is name And I am age years old I will hit shift enter So this string will be my variable And it will come after printing So if you want to insert a variable In a string Then you can use f string like this And that's pretty much about f strings You can write an expression in f string You can calculate anything here A plus B A minus B You can do multiplication in this You can insert a new variable directly You can do all these things You can do formatting here For example, here you see the value of pi 3.14159 You want to get only 2 decimal places So you will write pi and you will write dot 2f So you will get only 2 decimal places So you can use the variable like this You can change the variable and print it And you can do this very conveniently Now you can see here That we can do padding and alignment like this I will tell you what this means If you will write something like this You wrote python And you wrote colon I will execute a new code If I execute this directly You will feel what did I do This is not printing python But if I will show you all these lines With one hand, you will know Basically, whenever I am writing So I am basically saying That align left That is, align this string Align left Such that This is left in the width of 10 characters I will show you these three lines Then you will understand easily So here we have taken total width of 10 characters And within that we are moving python Sometimes we are align left Sometimes we are align right We are align center If I will hit shift enter You will understand This is the width of our 10 characters This is the width of our 10 characters If you count characters from here, then it will be 10 Now when I am writing the first line I have written the string colon less than 10 I am saying here that Align left In a total character width of length 10 Okay And here I have said Align center with the width of 10 characters So we can align a particular word Align left and right And such things are very useful In command line games So you should know this Those who have skipped python refreshers There is a good chance that they don't know all these things So in the beginning I had suggested That don't skip lectures And don't skip any lectures Take time and learn So you can learn So you can learn So you can learn So your foundation will be strong I hope this video is helpful I have written a line here Which explains what it is doing Column less than 10 This symbol means That left align the text within a total width of 10 characters Okay And f strings are the most efficient And recommended ways of formatting a string in python If you want to format strings in modern python I will suggest you to use f string Don't use dot format I am saying directly Because f string is an easy and intuitive way Easy to read way Python 3.6 is introduced Which is a very good thing I will call python 3.6 old There are new versions of python in today's series I hope you understood See you in the next video"
+}

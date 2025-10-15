@@ -7,7 +7,13 @@ from groq import Groq
 from sklearn.metrics.pairwise import cosine_similarity
 import time
 from datetime import datetime
-from config import api_key
+
+# Handle API key for both local and Streamlit Cloud
+try:
+    from streamlit import secrets
+    api_key = secrets["GROQ_API_KEY"]
+except:
+    from config import api_key
 
 # Page configuration
 st.set_page_config(
